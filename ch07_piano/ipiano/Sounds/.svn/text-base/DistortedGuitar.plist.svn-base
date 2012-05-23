@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>44100</string>
+	<string>DistB2</string>
+	<string>47</string>
+	<string>47</string>
+	<string>DistE3</string>
+	<string>52</string>
+	<string>52</string>
+	<string>DistG#3</string>
+	<string>56</string>
+	<string>56</string>
+	<string>DistC4</string>
+	<string>60</string>
+	<string>60</string>
+	<string>DistE4</string>
+	<string>64</string>
+	<string>64</string>
+	<string>DistG#4</string>
+	<string>68</string>
+	<string>68</string>
+	<string>DistC5</string>
+	<string>72</string>
+	<string>72</string>
+	<string>DistE5</string>
+	<string>76</string>
+	<string>76</string>
+	<string>DistG#5</string>
+	<string>80</string>
+	<string>80</string>
+	<string>DistC6</string>
+	<string>84</string>
+	<string>84</string>
+	<string>DistE6</string>
+	<string>88</string>
+	<string>88</string>
+	<string>DistG#6</string>
+	<string>92</string>
+	<string>92</string>
+	<string>DistC#7</string>
+	<string>97</string>
+	<string>97</string>
+	<string>DistE7</string>
+	<string>100</string>
+	<string>100</string>
+</array>
+</plist>

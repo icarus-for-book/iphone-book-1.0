@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>GuitarC3</string>
+	<string>GuitarC#3</string>
+	<string>GuitarD3</string>
+	<string>GuitarD#3</string>
+	<string>GuitarE3</string>
+	<string>GuitarF3</string>
+	<string>GuitarF#3</string>
+	<string>GuitarG3</string>
+	<string>GuitarG#3</string>
+	<string>GuitarA3</string>
+	<string>GuitarA#3</string>
+	<string>GuitarB3</string>
+	<string>GuitarC4</string>
+	<string>GuitarC#4</string>
+	<string>GuitarD4</string>
+</array>
+</plist>

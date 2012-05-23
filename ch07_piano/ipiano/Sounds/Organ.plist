@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>OrganC3</string>
+	<string>OrganC#3</string>
+	<string>OrganD3</string>
+	<string>OrganD#3</string>
+	<string>OrganE3</string>
+	<string>OrganF3</string>
+	<string>OrganF#3</string>
+	<string>OrganG3</string>
+	<string>OrganG#3</string>
+	<string>OrganA3</string>
+	<string>OrganA#3</string>
+	<string>OrganB3</string>
+	<string>OrganC4</string>
+	<string>OrganC#4</string>
+	<string>OrganD4</string>
+</array>
+</plist>

@@ -1,0 +1,625 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		4941E345156637D90080A002 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4941E344156637D90080A002 /* Icon@2x.png */; };
+		49441EEF14C8383800C00F8D /* Piano.plist in Resources */ = {isa = PBXBuildFile; fileRef = 49441EBC14C8383800C00F8D /* Piano.plist */; };
+		499941D814D855BB00C97364 /* InfoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 499941D614D855BB00C97364 /* InfoViewController.m */; };
+		499941D914D855BB00C97364 /* InfoViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 499941D714D855BB00C97364 /* InfoViewController.xib */; };
+		499941DD14D858B900C97364 /* InfoPiano.png in Resources */ = {isa = PBXBuildFile; fileRef = 499941DC14D858B900C97364 /* InfoPiano.png */; };
+		49D9015A14D5557F007524EC /* GuitarA#3.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 49D9012D14D5557E007524EC /* GuitarA#3.m4a */; };
+		49D9015B14D5557F007524EC /* GuitarA3.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 49D9012E14D5557E007524EC /* GuitarA3.m4a */; };
+		49D9015C14D5557F007524EC /* GuitarB3.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 49D9012F14D5557E007524EC /* GuitarB3.m4a */; };
+		49D9015D14D5557F007524EC /* GuitarB4.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 49D9013014D5557E007524EC /* GuitarB4.m4a */; };
+		49D9015E14D5557F007524EC /* GuitarC#3.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 49D9013114D5557E007524EC /* GuitarC#3.m4a */; };
+		49D9015F14D5557F007524EC /* GuitarC#4.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 49D9013214D5557E007524EC /* GuitarC#4.m4a */; };
+		49D9016014D5557F007524EC /* GuitarC3.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 49D9013314D5557E007524EC /* GuitarC3.m4a */; };
+		49D9016114D5557F007524EC /* GuitarC4.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 49D9013414D5557E007524EC /* GuitarC4.m4a */; };
+		49D9016214D5557F007524EC /* GuitarD#3.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 49D9013514D5557E007524EC /* GuitarD#3.m4a */; };
+		49D9016314D5557F007524EC /* GuitarD3.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 49D9013614D5557F007524EC /* GuitarD3.m4a */; };
+		49D9016414D5557F007524EC /* GuitarE3.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 49D9013714D5557F007524EC /* GuitarE3.m4a */; };
+		49D9016514D5557F007524EC /* GuitarF#3.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 49D9013814D5557F007524EC /* GuitarF#3.m4a */; };
+		49D9016614D5557F007524EC /* GuitarF3.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 49D9013914D5557F007524EC /* GuitarF3.m4a */; };
+		49D9016714D5557F007524EC /* GuitarG#3.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 49D9013A14D5557F007524EC /* GuitarG#3.m4a */; };
+		49D9016814D5557F007524EC /* GuitarG3.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 49D9013B14D5557F007524EC /* GuitarG3.m4a */; };
+		49D9016914D5557F007524EC /* OrganA#3.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 49D9013C14D5557F007524EC /* OrganA#3.m4a */; };
+		49D9016A14D5557F007524EC /* OrganA3.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 49D9013D14D5557F007524EC /* OrganA3.m4a */; };
+		49D9016B14D5557F007524EC /* OrganB3.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 49D9013E14D5557F007524EC /* OrganB3.m4a */; };
+		49D9016C14D5557F007524EC /* OrganC#3.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 49D9013F14D5557F007524EC /* OrganC#3.m4a */; };
+		49D9016D14D5557F007524EC /* OrganC#4.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 49D9014014D5557F007524EC /* OrganC#4.m4a */; };
+		49D9016E14D5557F007524EC /* OrganC3.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 49D9014114D5557F007524EC /* OrganC3.m4a */; };
+		49D9016F14D5557F007524EC /* OrganC4.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 49D9014214D5557F007524EC /* OrganC4.m4a */; };
+		49D9017014D5557F007524EC /* OrganD#3.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 49D9014314D5557F007524EC /* OrganD#3.m4a */; };
+		49D9017114D5557F007524EC /* OrganD3.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 49D9014414D5557F007524EC /* OrganD3.m4a */; };
+		49D9017214D5557F007524EC /* OrganD4.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 49D9014514D5557F007524EC /* OrganD4.m4a */; };
+		49D9017314D5557F007524EC /* OrganE3.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 49D9014614D5557F007524EC /* OrganE3.m4a */; };
+		49D9017414D5557F007524EC /* OrganF#3.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 49D9014714D5557F007524EC /* OrganF#3.m4a */; };
+		49D9017514D5557F007524EC /* OrganF3.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 49D9014814D5557F007524EC /* OrganF3.m4a */; };
+		49D9017614D5557F007524EC /* OrganG#3.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 49D9014914D5557F007524EC /* OrganG#3.m4a */; };
+		49D9017714D5557F007524EC /* OrganG3.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 49D9014A14D5557F007524EC /* OrganG3.m4a */; };
+		49D9017814D5557F007524EC /* PianoA#3.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 49D9014B14D5557F007524EC /* PianoA#3.m4a */; };
+		49D9017914D5557F007524EC /* PianoA3.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 49D9014C14D5557F007524EC /* PianoA3.m4a */; };
+		49D9017A14D5557F007524EC /* PianoB3.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 49D9014D14D5557F007524EC /* PianoB3.m4a */; };
+		49D9017B14D5557F007524EC /* PianoB4.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 49D9014E14D5557F007524EC /* PianoB4.m4a */; };
+		49D9017C14D5557F007524EC /* PianoC#4.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 49D9014F14D5557F007524EC /* PianoC#4.m4a */; };
+		49D9017D14D5557F007524EC /* PianoC3.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 49D9015014D5557F007524EC /* PianoC3.m4a */; };
+		49D9017E14D5557F007524EC /* PianoC#3.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 49D9015114D5557F007524EC /* PianoC#3.m4a */; };
+		49D9017F14D5557F007524EC /* PianoC4.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 49D9015214D5557F007524EC /* PianoC4.m4a */; };
+		49D9018014D5557F007524EC /* PianoD#3.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 49D9015314D5557F007524EC /* PianoD#3.m4a */; };
+		49D9018114D5557F007524EC /* PianoD3.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 49D9015414D5557F007524EC /* PianoD3.m4a */; };
+		49D9018214D5557F007524EC /* PianoE3.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 49D9015514D5557F007524EC /* PianoE3.m4a */; };
+		49D9018314D5557F007524EC /* PianoF#3.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 49D9015614D5557F007524EC /* PianoF#3.m4a */; };
+		49D9018414D5557F007524EC /* PianoF3.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 49D9015714D5557F007524EC /* PianoF3.m4a */; };
+		49D9018514D5557F007524EC /* PianoG#3.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 49D9015814D5557F007524EC /* PianoG#3.m4a */; };
+		49D9018614D5557F007524EC /* PianoG3.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 49D9015914D5557F007524EC /* PianoG3.m4a */; };
+		49D9018A14D5571B007524EC /* Organ.plist in Resources */ = {isa = PBXBuildFile; fileRef = 49D9018914D5571B007524EC /* Organ.plist */; };
+		49D9018C14D55727007524EC /* Guitar.plist in Resources */ = {isa = PBXBuildFile; fileRef = 49D9018B14D55727007524EC /* Guitar.plist */; };
+		49D9018E14D5615A007524EC /* PianoD4.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 49D9018D14D5615A007524EC /* PianoD4.m4a */; };
+		49D9019914D569F9007524EC /* blackkey.png in Resources */ = {isa = PBXBuildFile; fileRef = 49D9018F14D569F9007524EC /* blackkey.png */; };
+		49D9019A14D569F9007524EC /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 49D9019014D569F9007524EC /* Default.png */; };
+		49D9019B14D569F9007524EC /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 49D9019114D569F9007524EC /* Default@2x.png */; };
+		49D9019C14D569F9007524EC /* end_whitekey.png in Resources */ = {isa = PBXBuildFile; fileRef = 49D9019214D569F9007524EC /* end_whitekey.png */; };
+		49D9019D14D569F9007524EC /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 49D9019314D569F9007524EC /* Icon.png */; };
+		49D9019E14D569F9007524EC /* last_blackkey.png in Resources */ = {isa = PBXBuildFile; fileRef = 49D9019414D569F9007524EC /* last_blackkey.png */; };
+		49D9019F14D569F9007524EC /* last_whitekey.png in Resources */ = {isa = PBXBuildFile; fileRef = 49D9019514D569F9007524EC /* last_whitekey.png */; };
+		49D901A014D569F9007524EC /* middle_whitekey.png in Resources */ = {isa = PBXBuildFile; fileRef = 49D9019614D569F9007524EC /* middle_whitekey.png */; };
+		49D901A114D569F9007524EC /* Piano_note.png in Resources */ = {isa = PBXBuildFile; fileRef = 49D9019714D569F9007524EC /* Piano_note.png */; };
+		49D901A214D569F9007524EC /* start_whitekey.png in Resources */ = {isa = PBXBuildFile; fileRef = 49D9019814D569F9007524EC /* start_whitekey.png */; };
+		49D901B414D5A3F3007524EC /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 49D901B314D5A3F3007524EC /* AudioToolbox.framework */; };
+		49D901BB14D5B322007524EC /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 49D901BA14D5B321007524EC /* MessageUI.framework */; };
+		49D901BD14D5B32B007524EC /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 49D901BC14D5B32B007524EC /* SystemConfiguration.framework */; };
+		49D901C014D5B3FC007524EC /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 49D901BF14D5B3FC007524EC /* libGoogleAdMobAds.a */; };
+		49D901F514D6482A007524EC /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 49D901B514D5B02A007524EC /* iAd.framework */; };
+		49DBF30214BC29A400B21BA1 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 49DBF30114BC29A400B21BA1 /* UIKit.framework */; };
+		49DBF30414BC29A400B21BA1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 49DBF30314BC29A400B21BA1 /* Foundation.framework */; };
+		49DBF30614BC29A400B21BA1 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 49DBF30514BC29A400B21BA1 /* CoreGraphics.framework */; };
+		49DBF30C14BC29A400B21BA1 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 49DBF30A14BC29A400B21BA1 /* InfoPlist.strings */; };
+		49DBF30E14BC29A400B21BA1 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 49DBF30D14BC29A400B21BA1 /* main.m */; };
+		49DBF31214BC29A400B21BA1 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 49DBF31114BC29A400B21BA1 /* AppDelegate.m */; };
+		49DBF31514BC29A400B21BA1 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 49DBF31414BC29A400B21BA1 /* ViewController.m */; };
+		49DBF31814BC29A400B21BA1 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 49DBF31614BC29A400B21BA1 /* ViewController.xib */; };
+		49DBF32514BC34F400B21BA1 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 49DBF32414BC34F400B21BA1 /* AVFoundation.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		4941E344156637D90080A002 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
+		49441EBC14C8383800C00F8D /* Piano.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Piano.plist; sourceTree = "<group>"; };
+		499941D514D855BB00C97364 /* InfoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InfoViewController.h; sourceTree = "<group>"; };
+		499941D614D855BB00C97364 /* InfoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InfoViewController.m; sourceTree = "<group>"; };
+		499941D714D855BB00C97364 /* InfoViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = InfoViewController.xib; sourceTree = "<group>"; };
+		499941DC14D858B900C97364 /* InfoPiano.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = InfoPiano.png; sourceTree = "<group>"; };
+		49D9012D14D5557E007524EC /* GuitarA#3.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GuitarA#3.m4a"; sourceTree = "<group>"; };
+		49D9012E14D5557E007524EC /* GuitarA3.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = GuitarA3.m4a; sourceTree = "<group>"; };
+		49D9012F14D5557E007524EC /* GuitarB3.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = GuitarB3.m4a; sourceTree = "<group>"; };
+		49D9013014D5557E007524EC /* GuitarB4.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = GuitarB4.m4a; sourceTree = "<group>"; };
+		49D9013114D5557E007524EC /* GuitarC#3.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GuitarC#3.m4a"; sourceTree = "<group>"; };
+		49D9013214D5557E007524EC /* GuitarC#4.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GuitarC#4.m4a"; sourceTree = "<group>"; };
+		49D9013314D5557E007524EC /* GuitarC3.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = GuitarC3.m4a; sourceTree = "<group>"; };
+		49D9013414D5557E007524EC /* GuitarC4.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = GuitarC4.m4a; sourceTree = "<group>"; };
+		49D9013514D5557E007524EC /* GuitarD#3.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GuitarD#3.m4a"; sourceTree = "<group>"; };
+		49D9013614D5557F007524EC /* GuitarD3.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = GuitarD3.m4a; sourceTree = "<group>"; };
+		49D9013714D5557F007524EC /* GuitarE3.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = GuitarE3.m4a; sourceTree = "<group>"; };
+		49D9013814D5557F007524EC /* GuitarF#3.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GuitarF#3.m4a"; sourceTree = "<group>"; };
+		49D9013914D5557F007524EC /* GuitarF3.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = GuitarF3.m4a; sourceTree = "<group>"; };
+		49D9013A14D5557F007524EC /* GuitarG#3.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GuitarG#3.m4a"; sourceTree = "<group>"; };
+		49D9013B14D5557F007524EC /* GuitarG3.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = GuitarG3.m4a; sourceTree = "<group>"; };
+		49D9013C14D5557F007524EC /* OrganA#3.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OrganA#3.m4a"; sourceTree = "<group>"; };
+		49D9013D14D5557F007524EC /* OrganA3.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = OrganA3.m4a; sourceTree = "<group>"; };
+		49D9013E14D5557F007524EC /* OrganB3.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = OrganB3.m4a; sourceTree = "<group>"; };
+		49D9013F14D5557F007524EC /* OrganC#3.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OrganC#3.m4a"; sourceTree = "<group>"; };
+		49D9014014D5557F007524EC /* OrganC#4.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OrganC#4.m4a"; sourceTree = "<group>"; };
+		49D9014114D5557F007524EC /* OrganC3.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = OrganC3.m4a; sourceTree = "<group>"; };
+		49D9014214D5557F007524EC /* OrganC4.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = OrganC4.m4a; sourceTree = "<group>"; };
+		49D9014314D5557F007524EC /* OrganD#3.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OrganD#3.m4a"; sourceTree = "<group>"; };
+		49D9014414D5557F007524EC /* OrganD3.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = OrganD3.m4a; sourceTree = "<group>"; };
+		49D9014514D5557F007524EC /* OrganD4.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = OrganD4.m4a; sourceTree = "<group>"; };
+		49D9014614D5557F007524EC /* OrganE3.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = OrganE3.m4a; sourceTree = "<group>"; };
+		49D9014714D5557F007524EC /* OrganF#3.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OrganF#3.m4a"; sourceTree = "<group>"; };
+		49D9014814D5557F007524EC /* OrganF3.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = OrganF3.m4a; sourceTree = "<group>"; };
+		49D9014914D5557F007524EC /* OrganG#3.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OrganG#3.m4a"; sourceTree = "<group>"; };
+		49D9014A14D5557F007524EC /* OrganG3.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = OrganG3.m4a; sourceTree = "<group>"; };
+		49D9014B14D5557F007524EC /* PianoA#3.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "PianoA#3.m4a"; sourceTree = "<group>"; };
+		49D9014C14D5557F007524EC /* PianoA3.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = PianoA3.m4a; sourceTree = "<group>"; };
+		49D9014D14D5557F007524EC /* PianoB3.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = PianoB3.m4a; sourceTree = "<group>"; };
+		49D9014E14D5557F007524EC /* PianoB4.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = PianoB4.m4a; sourceTree = "<group>"; };
+		49D9014F14D5557F007524EC /* PianoC#4.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "PianoC#4.m4a"; sourceTree = "<group>"; };
+		49D9015014D5557F007524EC /* PianoC3.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = PianoC3.m4a; sourceTree = "<group>"; };
+		49D9015114D5557F007524EC /* PianoC#3.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "PianoC#3.m4a"; sourceTree = "<group>"; };
+		49D9015214D5557F007524EC /* PianoC4.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = PianoC4.m4a; sourceTree = "<group>"; };
+		49D9015314D5557F007524EC /* PianoD#3.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "PianoD#3.m4a"; sourceTree = "<group>"; };
+		49D9015414D5557F007524EC /* PianoD3.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = PianoD3.m4a; sourceTree = "<group>"; };
+		49D9015514D5557F007524EC /* PianoE3.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = PianoE3.m4a; sourceTree = "<group>"; };
+		49D9015614D5557F007524EC /* PianoF#3.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "PianoF#3.m4a"; sourceTree = "<group>"; };
+		49D9015714D5557F007524EC /* PianoF3.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = PianoF3.m4a; sourceTree = "<group>"; };
+		49D9015814D5557F007524EC /* PianoG#3.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "PianoG#3.m4a"; sourceTree = "<group>"; };
+		49D9015914D5557F007524EC /* PianoG3.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = PianoG3.m4a; sourceTree = "<group>"; };
+		49D9018914D5571B007524EC /* Organ.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Organ.plist; sourceTree = "<group>"; };
+		49D9018B14D55727007524EC /* Guitar.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Guitar.plist; sourceTree = "<group>"; };
+		49D9018D14D5615A007524EC /* PianoD4.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = PianoD4.m4a; sourceTree = "<group>"; };
+		49D9018F14D569F9007524EC /* blackkey.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = blackkey.png; sourceTree = "<group>"; };
+		49D9019014D569F9007524EC /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		49D9019114D569F9007524EC /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		49D9019214D569F9007524EC /* end_whitekey.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = end_whitekey.png; sourceTree = "<group>"; };
+		49D9019314D569F9007524EC /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		49D9019414D569F9007524EC /* last_blackkey.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = last_blackkey.png; sourceTree = "<group>"; };
+		49D9019514D569F9007524EC /* last_whitekey.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = last_whitekey.png; sourceTree = "<group>"; };
+		49D9019614D569F9007524EC /* middle_whitekey.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = middle_whitekey.png; sourceTree = "<group>"; };
+		49D9019714D569F9007524EC /* Piano_note.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Piano_note.png; sourceTree = "<group>"; };
+		49D9019814D569F9007524EC /* start_whitekey.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = start_whitekey.png; sourceTree = "<group>"; };
+		49D901B314D5A3F3007524EC /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
+		49D901B514D5B02A007524EC /* iAd.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = iAd.framework; path = System/Library/Frameworks/iAd.framework; sourceTree = SDKROOT; };
+		49D901BA14D5B321007524EC /* MessageUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MessageUI.framework; path = System/Library/Frameworks/MessageUI.framework; sourceTree = SDKROOT; };
+		49D901BC14D5B32B007524EC /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		49D901BF14D5B3FC007524EC /* libGoogleAdMobAds.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libGoogleAdMobAds.a; sourceTree = "<group>"; };
+		49D901C114D5B407007524EC /* GADBannerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GADBannerView.h; sourceTree = "<group>"; };
+		49D901C214D5B407007524EC /* GADBannerViewDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GADBannerViewDelegate.h; sourceTree = "<group>"; };
+		49D901C314D5B407007524EC /* GADInterstitial.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GADInterstitial.h; sourceTree = "<group>"; };
+		49D901C414D5B407007524EC /* GADInterstitialDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GADInterstitialDelegate.h; sourceTree = "<group>"; };
+		49D901C514D5B407007524EC /* GADRequest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GADRequest.h; sourceTree = "<group>"; };
+		49D901C614D5B407007524EC /* GADRequestError.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GADRequestError.h; sourceTree = "<group>"; };
+		49DBF2FD14BC29A400B21BA1 /* MyPianno.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyPianno.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		49DBF30114BC29A400B21BA1 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		49DBF30314BC29A400B21BA1 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		49DBF30514BC29A400B21BA1 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		49DBF30914BC29A400B21BA1 /* MyPianno-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MyPianno-Info.plist"; sourceTree = "<group>"; };
+		49DBF30B14BC29A400B21BA1 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		49DBF30D14BC29A400B21BA1 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		49DBF30F14BC29A400B21BA1 /* MyPianno-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MyPianno-Prefix.pch"; sourceTree = "<group>"; };
+		49DBF31014BC29A400B21BA1 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		49DBF31114BC29A400B21BA1 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		49DBF31314BC29A400B21BA1 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		49DBF31414BC29A400B21BA1 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		49DBF31714BC29A400B21BA1 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		49DBF32414BC34F400B21BA1 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		49DBF2FA14BC29A400B21BA1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				49D901F514D6482A007524EC /* iAd.framework in Frameworks */,
+				49D901BD14D5B32B007524EC /* SystemConfiguration.framework in Frameworks */,
+				49D901BB14D5B322007524EC /* MessageUI.framework in Frameworks */,
+				49D901B414D5A3F3007524EC /* AudioToolbox.framework in Frameworks */,
+				49DBF32514BC34F400B21BA1 /* AVFoundation.framework in Frameworks */,
+				49DBF30214BC29A400B21BA1 /* UIKit.framework in Frameworks */,
+				49DBF30414BC29A400B21BA1 /* Foundation.framework in Frameworks */,
+				49DBF30614BC29A400B21BA1 /* CoreGraphics.framework in Frameworks */,
+				49D901C014D5B3FC007524EC /* libGoogleAdMobAds.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		49441E8914C8383800C00F8D /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				49441EBC14C8383800C00F8D /* Piano.plist */,
+				49D9012D14D5557E007524EC /* GuitarA#3.m4a */,
+				49D9012E14D5557E007524EC /* GuitarA3.m4a */,
+				49D9012F14D5557E007524EC /* GuitarB3.m4a */,
+				49D9013014D5557E007524EC /* GuitarB4.m4a */,
+				49D9013114D5557E007524EC /* GuitarC#3.m4a */,
+				49D9013214D5557E007524EC /* GuitarC#4.m4a */,
+				49D9013314D5557E007524EC /* GuitarC3.m4a */,
+				49D9013414D5557E007524EC /* GuitarC4.m4a */,
+				49D9013514D5557E007524EC /* GuitarD#3.m4a */,
+				49D9013614D5557F007524EC /* GuitarD3.m4a */,
+				49D9013714D5557F007524EC /* GuitarE3.m4a */,
+				49D9013814D5557F007524EC /* GuitarF#3.m4a */,
+				49D9013914D5557F007524EC /* GuitarF3.m4a */,
+				49D9013A14D5557F007524EC /* GuitarG#3.m4a */,
+				49D9013B14D5557F007524EC /* GuitarG3.m4a */,
+				49D9013C14D5557F007524EC /* OrganA#3.m4a */,
+				49D9013D14D5557F007524EC /* OrganA3.m4a */,
+				49D9013E14D5557F007524EC /* OrganB3.m4a */,
+				49D9013F14D5557F007524EC /* OrganC#3.m4a */,
+				49D9014014D5557F007524EC /* OrganC#4.m4a */,
+				49D9014114D5557F007524EC /* OrganC3.m4a */,
+				49D9014214D5557F007524EC /* OrganC4.m4a */,
+				49D9014314D5557F007524EC /* OrganD#3.m4a */,
+				49D9014414D5557F007524EC /* OrganD3.m4a */,
+				49D9014514D5557F007524EC /* OrganD4.m4a */,
+				49D9014614D5557F007524EC /* OrganE3.m4a */,
+				49D9014714D5557F007524EC /* OrganF#3.m4a */,
+				49D9014814D5557F007524EC /* OrganF3.m4a */,
+				49D9014914D5557F007524EC /* OrganG#3.m4a */,
+				49D9014A14D5557F007524EC /* OrganG3.m4a */,
+				49D9014B14D5557F007524EC /* PianoA#3.m4a */,
+				49D9014C14D5557F007524EC /* PianoA3.m4a */,
+				49D9014D14D5557F007524EC /* PianoB3.m4a */,
+				49D9014E14D5557F007524EC /* PianoB4.m4a */,
+				49D9014F14D5557F007524EC /* PianoC#4.m4a */,
+				49D9015014D5557F007524EC /* PianoC3.m4a */,
+				49D9015114D5557F007524EC /* PianoC#3.m4a */,
+				49D9015214D5557F007524EC /* PianoC4.m4a */,
+				49D9015314D5557F007524EC /* PianoD#3.m4a */,
+				49D9018D14D5615A007524EC /* PianoD4.m4a */,
+				49D9015414D5557F007524EC /* PianoD3.m4a */,
+				49D9015514D5557F007524EC /* PianoE3.m4a */,
+				49D9015614D5557F007524EC /* PianoF#3.m4a */,
+				49D9015714D5557F007524EC /* PianoF3.m4a */,
+				49D9015814D5557F007524EC /* PianoG#3.m4a */,
+				49D9015914D5557F007524EC /* PianoG3.m4a */,
+				49D9018B14D55727007524EC /* Guitar.plist */,
+				49D9018914D5571B007524EC /* Organ.plist */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		496EFC5514D05F7100AEC467 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				4941E344156637D90080A002 /* Icon@2x.png */,
+				49D9019714D569F9007524EC /* Piano_note.png */,
+				49D9019814D569F9007524EC /* start_whitekey.png */,
+				49D9019614D569F9007524EC /* middle_whitekey.png */,
+				49D9019514D569F9007524EC /* last_whitekey.png */,
+				49D9019214D569F9007524EC /* end_whitekey.png */,
+				49D9018F14D569F9007524EC /* blackkey.png */,
+				49D9019414D569F9007524EC /* last_blackkey.png */,
+				499941DC14D858B900C97364 /* InfoPiano.png */,
+				49D9019014D569F9007524EC /* Default.png */,
+				49D9019114D569F9007524EC /* Default@2x.png */,
+				49D9019314D569F9007524EC /* Icon.png */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
+		497FB58914C442F7009BD334 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				499941D714D855BB00C97364 /* InfoViewController.xib */,
+				49DBF31614BC29A400B21BA1 /* ViewController.xib */,
+				496EFC5514D05F7100AEC467 /* Images */,
+				49441E8914C8383800C00F8D /* Sounds */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		49D901BE14D5B3F0007524EC /* library */ = {
+			isa = PBXGroup;
+			children = (
+				49D901C114D5B407007524EC /* GADBannerView.h */,
+				49D901C214D5B407007524EC /* GADBannerViewDelegate.h */,
+				49D901C314D5B407007524EC /* GADInterstitial.h */,
+				49D901C414D5B407007524EC /* GADInterstitialDelegate.h */,
+				49D901C514D5B407007524EC /* GADRequest.h */,
+				49D901C614D5B407007524EC /* GADRequestError.h */,
+				49D901BF14D5B3FC007524EC /* libGoogleAdMobAds.a */,
+			);
+			name = library;
+			sourceTree = "<group>";
+		};
+		49DBF2F214BC29A300B21BA1 = {
+			isa = PBXGroup;
+			children = (
+				49D901BE14D5B3F0007524EC /* library */,
+				49DBF30714BC29A400B21BA1 /* MyPianno */,
+				49DBF30014BC29A400B21BA1 /* Frameworks */,
+				49DBF2FE14BC29A400B21BA1 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		49DBF2FE14BC29A400B21BA1 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				49DBF2FD14BC29A400B21BA1 /* MyPianno.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		49DBF30014BC29A400B21BA1 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				49D901B514D5B02A007524EC /* iAd.framework */,
+				49DBF32414BC34F400B21BA1 /* AVFoundation.framework */,
+				49DBF30314BC29A400B21BA1 /* Foundation.framework */,
+				49DBF30114BC29A400B21BA1 /* UIKit.framework */,
+				49D901BC14D5B32B007524EC /* SystemConfiguration.framework */,
+				49D901BA14D5B321007524EC /* MessageUI.framework */,
+				49D901B314D5A3F3007524EC /* AudioToolbox.framework */,
+				49DBF30514BC29A400B21BA1 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		49DBF30714BC29A400B21BA1 /* MyPianno */ = {
+			isa = PBXGroup;
+			children = (
+				49DBF31014BC29A400B21BA1 /* AppDelegate.h */,
+				49DBF31114BC29A400B21BA1 /* AppDelegate.m */,
+				499941D514D855BB00C97364 /* InfoViewController.h */,
+				499941D614D855BB00C97364 /* InfoViewController.m */,
+				49DBF31314BC29A400B21BA1 /* ViewController.h */,
+				49DBF31414BC29A400B21BA1 /* ViewController.m */,
+				497FB58914C442F7009BD334 /* Resources */,
+				49DBF30814BC29A400B21BA1 /* Supporting Files */,
+			);
+			name = MyPianno;
+			path = ipiano;
+			sourceTree = "<group>";
+		};
+		49DBF30814BC29A400B21BA1 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				49DBF30914BC29A400B21BA1 /* MyPianno-Info.plist */,
+				49DBF30A14BC29A400B21BA1 /* InfoPlist.strings */,
+				49DBF30D14BC29A400B21BA1 /* main.m */,
+				49DBF30F14BC29A400B21BA1 /* MyPianno-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		49DBF2FC14BC29A400B21BA1 /* MyPianno */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 49DBF31B14BC29A400B21BA1 /* Build configuration list for PBXNativeTarget "MyPianno" */;
+			buildPhases = (
+				49DBF2F914BC29A400B21BA1 /* Sources */,
+				49DBF2FA14BC29A400B21BA1 /* Frameworks */,
+				49DBF2FB14BC29A400B21BA1 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MyPianno;
+			productName = ipiano;
+			productReference = 49DBF2FD14BC29A400B21BA1 /* MyPianno.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		49DBF2F414BC29A300B21BA1 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+			};
+			buildConfigurationList = 49DBF2F714BC29A300B21BA1 /* Build configuration list for PBXProject "MyPianno" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 49DBF2F214BC29A300B21BA1;
+			productRefGroup = 49DBF2FE14BC29A400B21BA1 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				49DBF2FC14BC29A400B21BA1 /* MyPianno */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		49DBF2FB14BC29A400B21BA1 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				49DBF30C14BC29A400B21BA1 /* InfoPlist.strings in Resources */,
+				49DBF31814BC29A400B21BA1 /* ViewController.xib in Resources */,
+				49441EEF14C8383800C00F8D /* Piano.plist in Resources */,
+				49D9015A14D5557F007524EC /* GuitarA#3.m4a in Resources */,
+				49D9015B14D5557F007524EC /* GuitarA3.m4a in Resources */,
+				49D9015C14D5557F007524EC /* GuitarB3.m4a in Resources */,
+				49D9015D14D5557F007524EC /* GuitarB4.m4a in Resources */,
+				49D9015E14D5557F007524EC /* GuitarC#3.m4a in Resources */,
+				49D9015F14D5557F007524EC /* GuitarC#4.m4a in Resources */,
+				49D9016014D5557F007524EC /* GuitarC3.m4a in Resources */,
+				49D9016114D5557F007524EC /* GuitarC4.m4a in Resources */,
+				49D9016214D5557F007524EC /* GuitarD#3.m4a in Resources */,
+				49D9016314D5557F007524EC /* GuitarD3.m4a in Resources */,
+				49D9016414D5557F007524EC /* GuitarE3.m4a in Resources */,
+				49D9016514D5557F007524EC /* GuitarF#3.m4a in Resources */,
+				49D9016614D5557F007524EC /* GuitarF3.m4a in Resources */,
+				49D9016714D5557F007524EC /* GuitarG#3.m4a in Resources */,
+				49D9016814D5557F007524EC /* GuitarG3.m4a in Resources */,
+				49D9016914D5557F007524EC /* OrganA#3.m4a in Resources */,
+				49D9016A14D5557F007524EC /* OrganA3.m4a in Resources */,
+				49D9016B14D5557F007524EC /* OrganB3.m4a in Resources */,
+				49D9016C14D5557F007524EC /* OrganC#3.m4a in Resources */,
+				49D9016D14D5557F007524EC /* OrganC#4.m4a in Resources */,
+				49D9016E14D5557F007524EC /* OrganC3.m4a in Resources */,
+				49D9016F14D5557F007524EC /* OrganC4.m4a in Resources */,
+				49D9017014D5557F007524EC /* OrganD#3.m4a in Resources */,
+				49D9017114D5557F007524EC /* OrganD3.m4a in Resources */,
+				49D9017214D5557F007524EC /* OrganD4.m4a in Resources */,
+				49D9017314D5557F007524EC /* OrganE3.m4a in Resources */,
+				49D9017414D5557F007524EC /* OrganF#3.m4a in Resources */,
+				49D9017514D5557F007524EC /* OrganF3.m4a in Resources */,
+				49D9017614D5557F007524EC /* OrganG#3.m4a in Resources */,
+				49D9017714D5557F007524EC /* OrganG3.m4a in Resources */,
+				49D9017814D5557F007524EC /* PianoA#3.m4a in Resources */,
+				49D9017914D5557F007524EC /* PianoA3.m4a in Resources */,
+				49D9017A14D5557F007524EC /* PianoB3.m4a in Resources */,
+				49D9017B14D5557F007524EC /* PianoB4.m4a in Resources */,
+				49D9017C14D5557F007524EC /* PianoC#4.m4a in Resources */,
+				49D9017D14D5557F007524EC /* PianoC3.m4a in Resources */,
+				49D9017E14D5557F007524EC /* PianoC#3.m4a in Resources */,
+				49D9017F14D5557F007524EC /* PianoC4.m4a in Resources */,
+				49D9018014D5557F007524EC /* PianoD#3.m4a in Resources */,
+				49D9018114D5557F007524EC /* PianoD3.m4a in Resources */,
+				49D9018214D5557F007524EC /* PianoE3.m4a in Resources */,
+				49D9018314D5557F007524EC /* PianoF#3.m4a in Resources */,
+				49D9018414D5557F007524EC /* PianoF3.m4a in Resources */,
+				49D9018514D5557F007524EC /* PianoG#3.m4a in Resources */,
+				49D9018614D5557F007524EC /* PianoG3.m4a in Resources */,
+				49D9018A14D5571B007524EC /* Organ.plist in Resources */,
+				49D9018C14D55727007524EC /* Guitar.plist in Resources */,
+				49D9018E14D5615A007524EC /* PianoD4.m4a in Resources */,
+				49D9019914D569F9007524EC /* blackkey.png in Resources */,
+				49D9019A14D569F9007524EC /* Default.png in Resources */,
+				49D9019B14D569F9007524EC /* Default@2x.png in Resources */,
+				49D9019C14D569F9007524EC /* end_whitekey.png in Resources */,
+				49D9019D14D569F9007524EC /* Icon.png in Resources */,
+				49D9019E14D569F9007524EC /* last_blackkey.png in Resources */,
+				49D9019F14D569F9007524EC /* last_whitekey.png in Resources */,
+				49D901A014D569F9007524EC /* middle_whitekey.png in Resources */,
+				49D901A114D569F9007524EC /* Piano_note.png in Resources */,
+				49D901A214D569F9007524EC /* start_whitekey.png in Resources */,
+				499941D914D855BB00C97364 /* InfoViewController.xib in Resources */,
+				499941DD14D858B900C97364 /* InfoPiano.png in Resources */,
+				4941E345156637D90080A002 /* Icon@2x.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		49DBF2F914BC29A400B21BA1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				49DBF30E14BC29A400B21BA1 /* main.m in Sources */,
+				49DBF31214BC29A400B21BA1 /* AppDelegate.m in Sources */,
+				49DBF31514BC29A400B21BA1 /* ViewController.m in Sources */,
+				499941D814D855BB00C97364 /* InfoViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		49DBF30A14BC29A400B21BA1 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				49DBF30B14BC29A400B21BA1 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		49DBF31614BC29A400B21BA1 /* ViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				49DBF31714BC29A400B21BA1 /* en */,
+			);
+			name = ViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		49DBF31914BC29A400B21BA1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: jae kyu choi";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: jae kyu choi";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				PROVISIONING_PROFILE = "64CC839B-7ECD-4759-B7B4-172E2CDB4F7C";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "64CC839B-7ECD-4759-B7B4-172E2CDB4F7C";
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		49DBF31A14BC29A400B21BA1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: jae kyu choi";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: jae kyu choi";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PROVISIONING_PROFILE = "64CC839B-7ECD-4759-B7B4-172E2CDB4F7C";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "64CC839B-7ECD-4759-B7B4-172E2CDB4F7C";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		49DBF31C14BC29A400B21BA1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Distribution: jae kyu choi";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: jae kyu choi";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "ipiano/MyPianno-Prefix.pch";
+				INFOPLIST_FILE = "ipiano/MyPianno-Info.plist";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)\"",
+				);
+				PRODUCT_NAME = MyPianno;
+				PROVISIONING_PROFILE = "64CC839B-7ECD-4759-B7B4-172E2CDB4F7C";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "64CC839B-7ECD-4759-B7B4-172E2CDB4F7C";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		49DBF31D14BC29A400B21BA1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Distribution: jae kyu choi";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: jae kyu choi";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "ipiano/MyPianno-Prefix.pch";
+				INFOPLIST_FILE = "ipiano/MyPianno-Info.plist";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)\"",
+				);
+				PRODUCT_NAME = MyPianno;
+				PROVISIONING_PROFILE = "64CC839B-7ECD-4759-B7B4-172E2CDB4F7C";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "64CC839B-7ECD-4759-B7B4-172E2CDB4F7C";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		49DBF2F714BC29A300B21BA1 /* Build configuration list for PBXProject "MyPianno" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				49DBF31914BC29A400B21BA1 /* Debug */,
+				49DBF31A14BC29A400B21BA1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		49DBF31B14BC29A400B21BA1 /* Build configuration list for PBXNativeTarget "MyPianno" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				49DBF31C14BC29A400B21BA1 /* Debug */,
+				49DBF31D14BC29A400B21BA1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 49DBF2F414BC29A300B21BA1 /* Project object */;
+}
