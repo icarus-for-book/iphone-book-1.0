@@ -1,0 +1,1582 @@
+<?xml version='1.0' encoding='utf-8'?>
+<category>
+  <title>theme eglish</title>
+  <books>
+    <book>
+      <title>Body</title>
+      <groups>
+        <group>
+          <title></title>
+          <words>
+            <word>
+              <level>1</level>
+              <wordclass>n.</wordclass>
+              <meanning>연령, 시대, 성년</meanning>
+              <spelling>age</spelling>
+              <example>In the age of globalization, state boundaries are no longer as important.</example>
+              <pronunciation>['eyj]</pronunciation>
+            </word>
+            <word>
+              <level>1</level>
+              <wordclass>adj.</wordclass>
+              <meanning>살아있는, 활기가 가득한</meanning>
+              <spelling>alive</spelling>
+              <example>We are so thankful to hear that he is still alive.</example>
+              <pronunciation>[əl'ahyv]</pronunciation>
+            </word>
+            <word>
+              <level>6</level>
+              <wordclass>v.</wordclass>
+              <meanning>생기있게 하다</meanning>
+              <spelling>animate</spelling>
+              <example>The children were animated by the chocolate ice cream.</example>
+              <pronunciation>['anəm`eyt]</pronunciation>
+            </word>
+            <word>
+              <level>2</level>
+              <wordclass>n.</wordclass>
+              <meanning>배경</meanning>
+              <spelling>background</spelling>
+              <example>You need to know the historical background of the Korean war.</example>
+              <pronunciation>[b'akgr`ound]</pronunciation>
+            </word>
+            <word>
+              <level>3</level>
+              <wordclass>n.</wordclass>
+              <meanning>출생지</meanning>
+              <spelling>birthplace</spelling>
+              <example>To find your mother, you need to know your birthplace and so on.</example>
+              <pronunciation>[b'ə:rthpl`eys]</pronunciation>
+            </word>
+            <word>
+              <level>5</level>
+              <wordclass>n.</wordclass>
+              <meanning>운명</meanning>
+              <spelling>destiny</spelling>
+              <example>Some people believe in destiny, and that our futures cannot be altered.</example>
+              <pronunciation>[d'estəny]</pronunciation>
+            </word>
+            <word>
+              <level>3</level>
+              <wordclass>v.</wordclass>
+              <meanning>발달하다</meanning>
+              <spelling>develop</spelling>
+              <example>Our country will soon develop into a business hub.</example>
+              <pronunciation>[dyv'eləp]</pronunciation>
+            </word>
+            <word>
+              <level>4</level>
+              <wordclass>n.</wordclass>
+              <meanning>(나쁜) 운명</meanning>
+              <spelling>doom</spelling>
+              <example>When the enemy troops gained advantage, a sense of doom overtook the young soldiers.</example>
+              <pronunciation>[doom]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>v.</wordclass>
+              <meanning>진화하다</meanning>
+              <spelling>evolve</spelling>
+              <example>Animals have evolved to adjust to the new environmental circumstances.</example>
+              <pronunciation>[yv'alv]</pronunciation>
+            </word>
+            <word>
+              <level>3</level>
+              <wordclass>v.</wordclass>
+              <meanning>존재하다</meanning>
+              <spelling>exist</spelling>
+              <example>Who has the ability to prove that ghosts actually exist?</example>
+              <pronunciation>[ygz'yst]</pronunciation>
+            </word>
+            <word>
+              <level>3</level>
+              <wordclass>n.</wordclass>
+              <meanning>운명</meanning>
+              <spelling>fate</spelling>
+              <example>We are helpless in the face of fate.</example>
+              <pronunciation>[feyt]</pronunciation>
+            </word>
+            <word>
+              <level>1</level>
+              <wordclass>n.</wordclass>
+              <meanning>아버지</meanning>
+              <spelling>father</spelling>
+              <example>His father died when he was young, so his mother had to take care of him alone.</example>
+              <pronunciation>[f'ahdhər]</pronunciation>
+            </word>
+            <word>
+              <level>9</level>
+              <wordclass>#REF!</wordclass>
+              <meanning>육성하다</meanning>
+              <spelling>foster</spelling>
+              <example>There is no right or wrong way to foster a child.</example>
+              <pronunciation>[f'awstər]</pronunciation>
+            </word>
+            <word>
+              <level>1</level>
+              <wordclass>n.</wordclass>
+              <meanning>어머니</meanning>
+              <spelling>mother</spelling>
+              <example>The daughter refused to see her mother.</example>
+              <pronunciation>[m'ədhər]</pronunciation>
+            </word>
+            <word>
+              <level>1</level>
+              <wordclass>v.</wordclass>
+              <meanning>자라다</meanning>
+              <spelling>grow</spelling>
+              <example>He grew three inches over the winter break.</example>
+              <pronunciation>[groh]</pronunciation>
+            </word>
+            <word>
+              <level>1</level>
+              <wordclass>n.</wordclass>
+              <meanning>인생</meanning>
+              <spelling>life</spelling>
+              <example>At the time, I believed she was the love of my life.</example>
+              <pronunciation>[lahyf]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>평균 예상 수명</meanning>
+              <spelling>life expectancy</spelling>
+              <example>The life expectancy increases with the development of medical technology.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>7</level>
+              <wordclass>adj.</wordclass>
+              <meanning>평생의</meanning>
+              <spelling>lifelong</spelling>
+              <example>They managed to remain lifelong friends.</example>
+              <pronunciation>[l'ahyfl'awng]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>평생</meanning>
+              <spelling>lifetime</spelling>
+              <example>I’ve waited a lifetime for this moment.</example>
+              <pronunciation>[l'ahyft`ahym]</pronunciation>
+            </word>
+            <word>
+              <level>2</level>
+              <wordclass>adj.</wordclass>
+              <meanning>살아있는</meanning>
+              <spelling>living</spelling>
+              <example>You should learn to respect all living things.</example>
+              <pronunciation>[l'yvyng]</pronunciation>
+            </word>
+            <word>
+              <level>14</level>
+              <wordclass>n.</wordclass>
+              <meanning>장수, 수명</meanning>
+              <spelling>longevity</spelling>
+              <example>A healthy diet and regular exercise are the secrets to her longevity.</example>
+              <pronunciation>[lanj'evəty]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>v.</wordclass>
+              <meanning>~보다 오래 살다</meanning>
+              <spelling>outlive</spelling>
+              <example>I would like for my wife to outlive me, because I cannot live without her.</example>
+              <pronunciation>[`outl'yv]</pronunciation>
+            </word>
+            <word>
+              <level>5</level>
+              <wordclass>adj.</wordclass>
+              <meanning>출생지의</meanning>
+              <spelling>native</spelling>
+              <example>She spoke English as if she were a native speaker.</example>
+              <pronunciation>[n'eytyv]</pronunciation>
+            </word>
+            <word>
+              <level>7</level>
+              <wordclass>n.</wordclass>
+              <meanning>육아실</meanning>
+              <spelling>nursery</spelling>
+              <example>The expectant parents prepared a beautiful nursery for their baby.</example>
+              <pronunciation>[n'ə:rsəry]</pronunciation>
+            </word>
+            <word>
+              <level>7</level>
+              <wordclass>v.</wordclass>
+              <meanning>(아이를) 기르다</meanning>
+              <spelling>nurture</spelling>
+              <example>Nurturing a child is not an easy task.</example>
+              <pronunciation>[n'ə:rchər]</pronunciation>
+            </word>
+            <word>
+              <level>2</level>
+              <wordclass>v.</wordclass>
+              <meanning>살아남다</meanning>
+              <spelling>survive</spelling>
+              <example>Unfortunately, no one survived the plane crash.</example>
+              <pronunciation>[sərv'ahyv]</pronunciation>
+            </word>
+            <word>
+              <level>5</level>
+              <wordclass>n.</wordclass>
+              <meanning>육아</meanning>
+              <spelling>childcare</spelling>
+              <example>New bride is worrying how difficult the childcare is.</example>
+              <pronunciation>[ch'ahyldk`air]</pronunciation>
+            </word>
+            <word>
+              <level>7</level>
+              <wordclass>n.</wordclass>
+              <meanning>수명</meanning>
+              <spelling>lifespan</spelling>
+              <example>With the development of medicine, the average lifespan of humans continues to lengthen.</example>
+              <pronunciation>[l'ahyfspӕn]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>섭리</meanning>
+              <spelling>providence</spelling>
+              <example>Believing in the providence of God is sometimes hard to accept.</example>
+              <pronunciation>[pr'avədəns]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>v.</wordclass>
+              <meanning>입양하다</meanning>
+              <spelling>adopt</spelling>
+              <example>The couple is planning to adopt a child.</example>
+              <pronunciation>[əd'apt]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>고향</meanning>
+              <spelling>hometown</spelling>
+              <example>I revisited my hometown, and reminisced my childhood memories</example>
+              <pronunciation>[h'ohmt'oun]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>adj.</wordclass>
+              <meanning>토착의</meanning>
+              <spelling>indigenous</spelling>
+              <example>Kimchi is an indigenous food to Korea.</example>
+              <pronunciation>[ynd'yjənəs]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>v.</wordclass>
+              <meanning>살다</meanning>
+              <spelling>live</spelling>
+              <example>I live just around the corner.</example>
+              <pronunciation>[lyv]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>adj.</wordclass>
+              <meanning>성숙한</meanning>
+              <spelling>mature</spelling>
+              <example>The boy was very mature for his age.</example>
+              <pronunciation>[məty'ooər]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>v.</wordclass>
+              <meanning>기르다</meanning>
+              <spelling>raise</spelling>
+              <example>I once raised a dog when I was young.</example>
+              <pronunciation>[reyz]</pronunciation>
+            </word>
+          </words>
+        </group>
+        <group>
+          <title></title>
+          <words>
+            <word>
+              <level>7</level>
+              <wordclass>n.</wordclass>
+              <meanning>낙태</meanning>
+              <spelling>abortion</spelling>
+              <example>Abortion is now illegal in our country.</example>
+              <pronunciation>[əb'awrshən]</pronunciation>
+            </word>
+            <word>
+              <level>1</level>
+              <wordclass>v.</wordclass>
+              <meanning>태어나다</meanning>
+              <spelling>born</spelling>
+              <example>He was born as the first child of the family.</example>
+              <pronunciation>[bawrn]</pronunciation>
+            </word>
+            <word>
+              <level>5</level>
+              <wordclass>n.</wordclass>
+              <meanning>모유 수유</meanning>
+              <spelling>breast-feed</spelling>
+              <example>We encourage you to breast-feed the baby.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>13</level>
+              <wordclass>adj.</wordclass>
+              <meanning>(병 등이)선천적인</meanning>
+              <spelling>congenital</spelling>
+              <example>His disease is congenital.</example>
+              <pronunciation>[kanj'enytl]</pronunciation>
+            </word>
+            <word>
+              <level>12</level>
+              <wordclass>n.</wordclass>
+              <meanning>피임</meanning>
+              <spelling>contraception</spelling>
+              <example>The couple have been practicing contraception.</example>
+              <pronunciation>[k`ontrəs'epshən]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>태아</meanning>
+              <spelling>embryo</spelling>
+              <example>Looking at the ultrasonic photo of the embryo, they were deeply touched.</example>
+              <pronunciation>['embry`oh]</pronunciation>
+            </word>
+            <word>
+              <level>9</level>
+              <wordclass>n.</wordclass>
+              <meanning>태아</meanning>
+              <spelling>fetus</spelling>
+              <example>The development of the brain in the human fetus is still not fully understood.</example>
+              <pronunciation>[f'eetəs]</pronunciation>
+            </word>
+            <word>
+              <level>5</level>
+              <wordclass>n.</wordclass>
+              <meanning>유전자</meanning>
+              <spelling>gene</spelling>
+              <example>There has been a ethical controversy concerning radical experiments using genes.</example>
+              <pronunciation>[jyn]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>유전</meanning>
+              <spelling>heredity</spelling>
+              <example>Illnesses like hemophilia are hereditary, which can be passed on generation after generation.</example>
+              <pronunciation>[hyr'edəty]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>v.</wordclass>
+              <meanning>임신(수태)시키다</meanning>
+              <spelling>impregnate</spelling>
+              <example>The impregnated wolf remained in the den.</example>
+              <pronunciation>[ympr'egn`eyt]</pronunciation>
+            </word>
+            <word>
+              <level>5</level>
+              <wordclass>adj.</wordclass>
+              <meanning>타고난</meanning>
+              <spelling>inborn</spelling>
+              <example>She has an inborn talent in music.</example>
+              <pronunciation>[`ynb'awrn]</pronunciation>
+            </word>
+            <word>
+              <level>10</level>
+              <wordclass>adj.</wordclass>
+              <meanning>타고난</meanning>
+              <spelling>innate</spelling>
+              <example>She has an innate linguistic ability.</example>
+              <pronunciation>[yn'eyt]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>유산</meanning>
+              <spelling>miscarriage</spelling>
+              <example>My high school teacher had a miscarriage due to extreme stress.</example>
+              <pronunciation>[m`ysk'akyj]</pronunciation>
+            </word>
+            <word>
+              <level>5</level>
+              <wordclass>n.</wordclass>
+              <meanning>노동</meanning>
+              <spelling>labor</spelling>
+              <example>The country’s labor costs are low.</example>
+              <pronunciation>[l'eybər]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>모성</meanning>
+              <spelling>maternity</spelling>
+              <example>The pregnant actress was provided with the best maternity services.</example>
+              <pronunciation>[mət'ə:rnyty]</pronunciation>
+            </word>
+            <word>
+              <level>2</level>
+              <wordclass>adj.</wordclass>
+              <meanning>자연스러운</meanning>
+              <spelling>natural</spelling>
+              <example>It is now quite natural for men to wear tight jeans.</example>
+              <pronunciation>[n'achərəl]</pronunciation>
+            </word>
+            <word>
+              <level>4</level>
+              <wordclass>adj.</wordclass>
+              <meanning>임신한</meanning>
+              <spelling>pregnant</spelling>
+              <example>The doctor advised not to drink or smoke while she was pregnant.</example>
+              <pronunciation>[pr'egnənt]</pronunciation>
+            </word>
+            <word>
+              <level>7</level>
+              <wordclass>adj.</wordclass>
+              <meanning>사산의</meanning>
+              <spelling>stillborn</spelling>
+              <example>She mourned over her stillborn baby.</example>
+              <pronunciation>[st'ylb`awrn]</pronunciation>
+            </word>
+            <word>
+              <level>3</level>
+              <wordclass>adj.</wordclass>
+              <meanning>갓 태어난</meanning>
+              <spelling>newborn</spelling>
+              <example>Frightened by the prophesy that a newborn baby in March will defeat his army, the king ordered soldiers to kill all infants in the village.</example>
+              <pronunciation>[ny'oobawrn]</pronunciation>
+            </word>
+            <word>
+              <level>3</level>
+              <wordclass>adj.</wordclass>
+              <meanning>아직 태어나지 않은</meanning>
+              <spelling>unborn</spelling>
+              <example>Although a woman had an unwanted pregnancy, she hesitated to kill an unborn child.</example>
+              <pronunciation>[`ənb'awrn]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>adj.</wordclass>
+              <meanning>고유의</meanning>
+              <spelling>inherent</spelling>
+              <example>Your inherent abilities make you very valuable to this team.</example>
+              <pronunciation>[ynh'yərənt]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>v.</wordclass>
+              <meanning>임신하다</meanning>
+              <spelling>conceive</spelling>
+              <example>She conceived her first child when she was 26 years old.</example>
+              <pronunciation>[kəns'eev]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>v.</wordclass>
+              <meanning>출산하다</meanning>
+              <spelling>deliver</spelling>
+              <example>My teacher was delivered of a baby boy last weekend.</example>
+              <pronunciation>[dyl'yvər]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>adj.</wordclass>
+              <meanning>가임의</meanning>
+              <spelling>fertile</spelling>
+              <example>The target for this medical experiment was a fertile female under 30 years old.</example>
+              <pronunciation>[f'ə:rtl]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>v.</wordclass>
+              <meanning>수정시키다</meanning>
+              <spelling>fertilize</spelling>
+              <example>After numerous sessions of trial and error, the scientists succeeded in fertilizing the egg.</example>
+              <pronunciation>[f'ə:rtəl`ahyz]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>adj.</wordclass>
+              <meanning>불임의</meanning>
+              <spelling>sterile</spelling>
+              <example>The trees became sterile, putting the entire species on the verge of extinction.</example>
+              <pronunciation>[st'eryl]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>v.</wordclass>
+              <meanning>불임시술을 하다</meanning>
+              <spelling>sterilize</spelling>
+              <example>I had the vet sterilize my dog yesterday.</example>
+              <pronunciation>[st'erəl`ahyz]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>adj.</wordclass>
+              <meanning>불임인</meanning>
+              <spelling>barren</spelling>
+              <example>No plants could grow on the barren land.</example>
+              <pronunciation>[b'arən]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>adj.</wordclass>
+              <meanning>다산의</meanning>
+              <spelling>fecund</spelling>
+              <example>Luscious green covered the fecund land.</example>
+              <pronunciation>[f'eekənd]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>adj.</wordclass>
+              <meanning>불임의</meanning>
+              <spelling>infertile</spelling>
+              <example>An infertile couple decided to adopt a child from Korea.</example>
+              <pronunciation>[ynf'ə:rtəl]</pronunciation>
+            </word>
+          </words>
+        </group>
+        <group>
+          <title></title>
+          <words>
+            <word>
+              <level>11</level>
+              <wordclass>n.</wordclass>
+              <meanning>검시, 해부</meanning>
+              <spelling>autopsy</spelling>
+              <example>The autopsy was inconclusive; they could not find any clues.</example>
+              <pronunciation>['awtapsy]</pronunciation>
+            </word>
+            <word>
+              <level>12</level>
+              <wordclass>v.</wordclass>
+              <meanning>(유언장에)남기다, 전하다</meanning>
+              <spelling>bequeath</spelling>
+              <example>He plans to bequeath his wealth to the university.</example>
+              <pronunciation>[bykw'eeth]</pronunciation>
+            </word>
+            <word>
+              <level>12</level>
+              <wordclass>v.</wordclass>
+              <meanning>빼앗다, 여의게 하다</meanning>
+              <spelling>bereave</spelling>
+              <example>The tsunami #bereaved them of their properties.</example>
+              <pronunciation>[byr'eev]</pronunciation>
+            </word>
+            <word>
+              <level>2</level>
+              <wordclass>v.</wordclass>
+              <meanning>묻다</meanning>
+              <spelling>bury</spelling>
+              <example>The dead soldier was buried where he had fallen.</example>
+              <pronunciation>[b'ery]</pronunciation>
+            </word>
+            <word>
+              <level>9</level>
+              <wordclass>n.</wordclass>
+              <meanning>작은 장식함</meanning>
+              <spelling>casket</spelling>
+              <example>My mother puts all of her jewelry in the casket.</example>
+              <pronunciation>[k'askyt]</pronunciation>
+            </word>
+            <word>
+              <level>6</level>
+              <wordclass>n.</wordclass>
+              <meanning>관</meanning>
+              <spelling>coffin</spelling>
+              <example>Count Dracula awoke from his deep sleep, and slowly arose from his coffin.</example>
+              <pronunciation>[k'awfyn]</pronunciation>
+            </word>
+            <word>
+              <level>8</level>
+              <wordclass>n.</wordclass>
+              <meanning>(사람의) 시체</meanning>
+              <spelling>corpse</spelling>
+              <example>The police found a corpse in the basement.</example>
+              <pronunciation>[kawrps]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>v.</wordclass>
+              <meanning>(시체를) 화장하다</meanning>
+              <spelling>cremate</spelling>
+              <example>We decided to cremate our grandmother.</example>
+              <pronunciation>[kr'eemeyt]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>화장장</meanning>
+              <spelling>crematorium</spelling>
+              <example>The government agreed to build a new public crematorium.</example>
+              <pronunciation>[kreemət'awryəm]</pronunciation>
+            </word>
+            <word>
+              <level>4</level>
+              <wordclass>adj.</wordclass>
+              <meanning>치명적인</meanning>
+              <spelling>deadly</spelling>
+              <example>The earthquake was deadly and caused several casualties.</example>
+              <pronunciation>[d'edly]</pronunciation>
+            </word>
+            <word>
+              <level>3</level>
+              <wordclass>n.</wordclass>
+              <meanning>사망</meanning>
+              <spelling>death</spelling>
+              <example>The death of her mother came as a shock to her.</example>
+              <pronunciation>[deth]</pronunciation>
+            </word>
+            <word>
+              <level>1</level>
+              <wordclass>#REF!</wordclass>
+              <meanning>죽다</meanning>
+              <spelling>die</spelling>
+              <example>Thousands of people died in the terror attacks.</example>
+              <pronunciation>[dahy]</pronunciation>
+            </word>
+            <word>
+              <level>1</level>
+              <wordclass>adj.</wordclass>
+              <meanning>늦은</meanning>
+              <spelling>late</spelling>
+              <example>She hurried into the classroom because she was late.</example>
+              <pronunciation>[leyt]</pronunciation>
+            </word>
+            <word>
+              <level>7</level>
+              <wordclass>v.</wordclass>
+              <meanning>익사하다</meanning>
+              <spelling>drown</spelling>
+              <example>His younger brother was swept away by the waves and #drowned.</example>
+              <pronunciation>[droun]</pronunciation>
+            </word>
+            <word>
+              <level>15</level>
+              <wordclass>v.</wordclass>
+              <meanning>방부 처리하다</meanning>
+              <spelling>embalm</spelling>
+              <example>Egyptian believed that mummies being embalmed will enjoy another life.</example>
+              <pronunciation>[ymb'ahm]</pronunciation>
+            </word>
+            <word>
+              <level>8</level>
+              <wordclass>adj.</wordclass>
+              <meanning>멸종될 지경에 이른</meanning>
+              <spelling>endangered</spelling>
+              <example>The endangered animals are protected under the government protection.</example>
+              <pronunciation>[ynd'eynjəd]</pronunciation>
+            </word>
+            <word>
+              <level>15</level>
+              <wordclass>n.</wordclass>
+              <meanning>(묘)비명</meanning>
+              <spelling>epitaph</spelling>
+              <example>We take a line from the magazine from someone's quotation as the epitaph.</example>
+              <pronunciation>['epət`af]</pronunciation>
+            </word>
+            <word>
+              <level>7</level>
+              <wordclass>adj.</wordclass>
+              <meanning>멸종된</meanning>
+              <spelling>extinct</spelling>
+              <example>The particular species of plants were thought to be extinct until a few of them were discovered.</example>
+              <pronunciation>[ykst'yngkt]</pronunciation>
+            </word>
+            <word>
+              <level>6</level>
+              <wordclass>n.</wordclass>
+              <meanning>장례식</meanning>
+              <spelling>funeral</spelling>
+              <example>Many people attended his funeral.</example>
+              <pronunciation>[fy'oonərəl]</pronunciation>
+            </word>
+            <word>
+              <level>7</level>
+              <wordclass>adj.</wordclass>
+              <meanning>중대한</meanning>
+              <spelling>grave</spelling>
+              <example>When my father lost his job, our family was facing grave financial problems.</example>
+              <pronunciation>[greyv]</pronunciation>
+            </word>
+            <word>
+              <level>6</level>
+              <wordclass>n.</wordclass>
+              <meanning>묘지</meanning>
+              <spelling>graveyard</spelling>
+              <example>For people who are interested in supernatural encounters, graveyard is one of the perfect rendezvous with the ghastly beings.</example>
+              <pronunciation>[g'reyvy`ahrd]</pronunciation>
+            </word>
+            <word>
+              <level>10</level>
+              <wordclass>n.</wordclass>
+              <meanning>유산</meanning>
+              <spelling>legacy</spelling>
+              <example>We divided our father’s legacy as stated in the will.</example>
+              <pronunciation>[l'egəsy]</pronunciation>
+            </word>
+            <word>
+              <level>4</level>
+              <wordclass>n.</wordclass>
+              <meanning>재</meanning>
+              <spelling>ash</spelling>
+              <example>Mount Saint Helens spewed ash as it erupted.</example>
+              <pronunciation>[ash]</pronunciation>
+            </word>
+            <word>
+              <level>8</level>
+              <wordclass>adj.</wordclass>
+              <meanning>사망한</meanning>
+              <spelling>deceased</spelling>
+              <example>We should pay our respects to a deceased person.</example>
+              <pronunciation>[dys'eest]</pronunciation>
+            </word>
+            <word>
+              <level>14</level>
+              <wordclass>n.</wordclass>
+              <meanning>영구차</meanning>
+              <spelling>hearse</spelling>
+              <example>Seeing the hearse leaving a funereal hall, she dropped tears quietly.</example>
+              <pronunciation>[hə:rs]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>사별</meanning>
+              <spelling>bereavement</spelling>
+              <example>Most hospice organizations offer bereavement counseling.</example>
+              <pronunciation>[byr'eevmənt]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>매장(식)</meanning>
+              <spelling>burial</spelling>
+              <example>The body is carefully cleaned before its burial.</example>
+              <pronunciation>[b'eryəl]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>공동 묘지</meanning>
+              <spelling>cemetery</spelling>
+              <example>The soldiers who died during the war were buried in the National Cemetery.</example>
+              <pronunciation>[s'emət`ery]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>(의식의) 행렬</meanning>
+              <spelling>cortege</spelling>
+              <example>People mourned as the funeral cortege moved through the streets.</example>
+              <pronunciation>[k'awrtezh]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>v.</wordclass>
+              <meanning>발굴하다</meanning>
+              <spelling>disinter</spelling>
+              <example>His family was forced to disinter his remains in order to bury him in a Jewish cemetery.</example>
+              <pronunciation>[d`ysynt'ə:r]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>v.</wordclass>
+              <meanning>발굴하다</meanning>
+              <spelling>exhume</spelling>
+              <example>He is famous for exhuming the oldest relics in the world.</example>
+              <pronunciation>[ygzy'oom]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>참사, 재난</meanning>
+              <spelling>fatality</spelling>
+              <example>The state figures show that infant fatality rate is relatively higher than in other states.</example>
+              <pronunciation>[feyt'aləty]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>후계자</meanning>
+              <spelling>heir</spelling>
+              <example>Because he had no heir of his own to whom he could leave his fortune, the wealthy man decided to give back to the society.</example>
+              <pronunciation>[air]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>유산</meanning>
+              <spelling>inheritance</spelling>
+              <example>He was able to start a new business with his inheritance.</example>
+              <pronunciation>[ynh'erytəns]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>v.</wordclass>
+              <meanning>매장하다</meanning>
+              <spelling>inter</spelling>
+              <example>The soldier was #interred in an unmarked grave.</example>
+              <pronunciation>['yntər]</pronunciation>
+            </word>
+          </words>
+        </group>
+        <group>
+          <title></title>
+          <words>
+            <word>
+              <level>1</level>
+              <wordclass>n.</wordclass>
+              <meanning>갓난애, 아기</meanning>
+              <spelling>baby</spelling>
+              <example>The baby cries all the time.</example>
+              <pronunciation>[b'eyby]</pronunciation>
+            </word>
+            <word>
+              <level>2</level>
+              <wordclass>v.</wordclass>
+              <meanning>남의 아기를 돌보다</meanning>
+              <spelling>babysit</spelling>
+              <example>I need to find someone to babysit my child while I attend the business meeting.</example>
+              <pronunciation>[b'eybysyt]</pronunciation>
+            </word>
+            <word>
+              <level>1</level>
+              <wordclass>n.</wordclass>
+              <meanning>소년</meanning>
+              <spelling>boy</spelling>
+              <example>The mother made the boy brush his teeth every night.</example>
+              <pronunciation>[boy]</pronunciation>
+            </word>
+            <word>
+              <level>5</level>
+              <wordclass>n.</wordclass>
+              <meanning>모유 수유</meanning>
+              <spelling>breast-feed</spelling>
+              <example>We encourage you to breast-feed the baby.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>1</level>
+              <wordclass>n.</wordclass>
+              <meanning>아이</meanning>
+              <spelling>child</spelling>
+              <example>His child is only two years old.</example>
+              <pronunciation>[ch'ahyld]</pronunciation>
+            </word>
+            <word>
+              <level>3</level>
+              <wordclass>n.</wordclass>
+              <meanning>어린 시절</meanning>
+              <spelling>childhood</spelling>
+              <example>Children should be able to enjoy their childhood.</example>
+              <pronunciation>[ch'ahyldh`ood]</pronunciation>
+            </word>
+            <word>
+              <level>8</level>
+              <wordclass>n.</wordclass>
+              <meanning>어린이 침대</meanning>
+              <spelling>crib</spelling>
+              <example>I can't seem to get my baby to stay in the crib.</example>
+              <pronunciation>[kryb]</pronunciation>
+            </word>
+            <word>
+              <level>5</level>
+              <wordclass>n.</wordclass>
+              <meanning>기저귀</meanning>
+              <spelling>diaper</spelling>
+              <example>Is the diaper wet?</example>
+              <pronunciation>[d'ahyəpər]</pronunciation>
+            </word>
+            <word>
+              <level>1</level>
+              <wordclass>n.</wordclass>
+              <meanning>소녀</meanning>
+              <spelling>girl</spelling>
+              <example>She was the most beautiful girl I've ever seen.</example>
+              <pronunciation>[gə:rl]</pronunciation>
+            </word>
+            <word>
+              <level>6</level>
+              <wordclass>n.</wordclass>
+              <meanning>유아</meanning>
+              <spelling>infant</spelling>
+              <example>She quit her job to take care of her infant son.</example>
+              <pronunciation>['ynfənt]</pronunciation>
+            </word>
+            <word>
+              <level>1</level>
+              <wordclass>n.</wordclass>
+              <meanning>아이</meanning>
+              <spelling>kid</spelling>
+              <example>The #kids were excited to go to the amusement park.</example>
+              <pronunciation>[kyd]</pronunciation>
+            </word>
+            <word>
+              <level>8</level>
+              <wordclass>n.</wordclass>
+              <meanning>아이</meanning>
+              <spelling>youngster</spelling>
+              <example>The mischievous youngster is growing up fast.</example>
+              <pronunciation>[y'əngstər]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>v.</wordclass>
+              <meanning>모유가 아닌 우유를 먹이다</meanning>
+              <spelling>bottle-feed</spelling>
+              <example>My mother fell ill right after she gave birth to my little brother, so I had to bottle-feed him myself.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>모유</meanning>
+              <spelling>breast milk</spelling>
+              <example>Science has proved that breast milk is the most healthy food for babies until they are at least 9 months old.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>7</level>
+              <wordclass>n.</wordclass>
+              <meanning>고아</meanning>
+              <spelling>orphan</spelling>
+              <example>Though she grew up as an orphan, she became the most respected person within the community.</example>
+              <pronunciation>['awrfən]</pronunciation>
+            </word>
+            <word>
+              <level>10</level>
+              <wordclass>n.</wordclass>
+              <meanning>유모차</meanning>
+              <spelling>stroller</spelling>
+              <example>She walked around in the park with her baby in the stroller.</example>
+              <pronunciation>[str'ohlər]</pronunciation>
+            </word>
+            <word>
+              <level>8</level>
+              <wordclass>n.</wordclass>
+              <meanning>유아</meanning>
+              <spelling>toddler</spelling>
+              <example>I played with the toddler at the playground.</example>
+              <pronunciation>[t'adlər]</pronunciation>
+            </word>
+            <word>
+              <level>7</level>
+              <wordclass>n.</wordclass>
+              <meanning>꼬마</meanning>
+              <spelling>tot</spelling>
+              <example>Nobody but I can see a little tot standing in the top of the roof.</example>
+              <pronunciation>[t'at]</pronunciation>
+            </word>
+            <word>
+              <level>9</level>
+              <wordclass>n.</wordclass>
+              <meanning>세쌍둥이</meanning>
+              <spelling>triplets</spelling>
+              <example>I heard that the birth of triplets was regarded as a bad omen in the ancient times.</example>
+              <pronunciation>[tr'yplyts]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>병동</meanning>
+              <spelling>ward</spelling>
+              <example>A new emergency ward has been constructed on the first floor of the hospital.</example>
+              <pronunciation>[w'awrd]</pronunciation>
+            </word>
+          </words>
+        </group>
+        <group>
+          <title></title>
+          <words>
+            <word>
+              <level>10</level>
+              <wordclass>adj.</wordclass>
+              <meanning>치명적인</meanning>
+              <spelling>lethal</spelling>
+              <example>The lethal injection was used to execute the prisoner.</example>
+              <pronunciation>[l'eethəl]</pronunciation>
+            </word>
+            <word>
+              <level>1</level>
+              <wordclass>v.</wordclass>
+              <meanning>잃다</meanning>
+              <spelling>lose</spelling>
+              <example>The student lost the library book, and consequently had to pay for it.</example>
+              <pronunciation>[looz]</pronunciation>
+            </word>
+            <word>
+              <level>16</level>
+              <wordclass>n.</wordclass>
+              <meanning>(위대한 인물의) 묘, 능</meanning>
+              <spelling>mausoleum</spelling>
+              <example>A mausoleum was established in his honor.</example>
+              <pronunciation>[mawsəl'eeəm]</pronunciation>
+            </word>
+            <word>
+              <level>10</level>
+              <wordclass>adj.</wordclass>
+              <meanning>기념하는</meanning>
+              <spelling>memorial</spelling>
+              <example>A memorial plaque, displaying the doctor’s portrait, was placed on the wall.</example>
+              <pronunciation>[mym'awryəl]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>기념비</meanning>
+              <spelling>monument</spelling>
+              <example>Several monuments were dedicated to the hero.</example>
+              <pronunciation>[m'anyəmənt]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>죽음을 면할 수 없음</meanning>
+              <spelling>mortality</spelling>
+              <example>We all need to embrace our mortality and face the reality.</example>
+              <pronunciation>[mawrt'aləty]</pronunciation>
+            </word>
+            <word>
+              <level>14</level>
+              <wordclass>n.</wordclass>
+              <meanning>시체 임시 안치소</meanning>
+              <spelling>mortuary</spelling>
+              <example>The bodies of dead soldiers are prepared at a mortuary before they are returned to the families.</example>
+              <pronunciation>[m'awrchoo`ery]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>애도자</meanning>
+              <spelling>mourner</spelling>
+              <example>The only #mourners at his funeral were his brother and wife.</example>
+              <pronunciation>[m'awrnər]</pronunciation>
+            </word>
+            <word>
+              <level>11</level>
+              <wordclass>n.</wordclass>
+              <meanning>(신문 지상의) 사망 기사</meanning>
+              <spelling>obituary</spelling>
+              <example>I was grief-stricken when I read his obituary.</example>
+              <pronunciation>[ohb'ychoo`ery]</pronunciation>
+            </word>
+            <word>
+              <level>14</level>
+              <wordclass>n.</wordclass>
+              <meanning>관 덮는 보자기</meanning>
+              <spelling>pall</spelling>
+              <example>The coffin was covered with a funeral pall.</example>
+              <pronunciation>[pahl]</pronunciation>
+            </word>
+            <word>
+              <level>10</level>
+              <wordclass>v.</wordclass>
+              <meanning>(끔찍하게) 죽다</meanning>
+              <spelling>perish</spelling>
+              <example>The queen stayed hidden in the palace and watched her people perish.</example>
+              <pronunciation>[p'erysh]</pronunciation>
+            </word>
+            <word>
+              <level>14</level>
+              <wordclass>n.</wordclass>
+              <meanning>수의</meanning>
+              <spelling>shroud</spelling>
+              <example>The corpse was wrapped with the shroud before it was buried.</example>
+              <pronunciation>[shroud]</pronunciation>
+            </word>
+            <word>
+              <level>9</level>
+              <wordclass>adj.</wordclass>
+              <meanning>고아가 된</meanning>
+              <spelling>orphaned</spelling>
+              <example>The car accident orphaned the child as his parents passed away from the accident.</example>
+              <pronunciation>['awrfənd]</pronunciation>
+            </word>
+            <word>
+              <level>5</level>
+              <wordclass>n.</wordclass>
+              <meanning>무덤</meanning>
+              <spelling>tomb</spelling>
+              <example>The treasure stored in the king’s tomb was stolen.</example>
+              <pronunciation>[toom]</pronunciation>
+            </word>
+            <word>
+              <level>7</level>
+              <wordclass>n.</wordclass>
+              <meanning>묘석</meanning>
+              <spelling>tombstone</spelling>
+              <example>The beautiful quote was written on the tombstone.</example>
+              <pronunciation>[t'oomst`ohn]</pronunciation>
+            </word>
+            <word>
+              <level>3</level>
+              <wordclass>adj.</wordclass>
+              <meanning>유독성의</meanning>
+              <spelling>toxic</spelling>
+              <example>Pesticides are highly toxic.</example>
+              <pronunciation>[t'aksyk]</pronunciation>
+            </word>
+            <word>
+              <level>9</level>
+              <wordclass>n.</wordclass>
+              <meanning>저장실</meanning>
+              <spelling>vault</spelling>
+              <example>We keep all the precious family jewels in a secret vault.</example>
+              <pronunciation>[vawlt]</pronunciation>
+            </word>
+            <word>
+              <level>1</level>
+              <wordclass>n.</wordclass>
+              <meanning>의지</meanning>
+              <spelling>will</spelling>
+              <example>The boy was forced to lie against his will.</example>
+              <pronunciation>[wyl]</pronunciation>
+            </word>
+            <word>
+              <level>10</level>
+              <wordclass>n.</wordclass>
+              <meanning>영안실</meanning>
+              <spelling>morgue</spelling>
+              <example>She wanted to be a surgeon, but she ended up working at the morgue.</example>
+              <pronunciation>[mawrg]</pronunciation>
+            </word>
+            <word>
+              <level>7</level>
+              <wordclass>adj.</wordclass>
+              <meanning>죽을 운명의</meanning>
+              <spelling>mortal</spelling>
+              <example>No human being can overcome his or her mortal fate.</example>
+              <pronunciation>[m'awrtl]</pronunciation>
+            </word>
+            <word>
+              <level>7</level>
+              <wordclass>adj.</wordclass>
+              <meanning>죽을 운명의</meanning>
+              <spelling>mortal</spelling>
+              <example>No human being can overcome his or her mortal fate.</example>
+              <pronunciation>[m'awrtl]</pronunciation>
+            </word>
+            <word>
+              <level>10</level>
+              <wordclass>n.</wordclass>
+              <meanning>장의사</meanning>
+              <spelling>undertaker</spelling>
+              <example>When cleaning the body of the criminal, an undertaker is usually accompanied by a cop.</example>
+              <pronunciation>[`əndərt'eykər]</pronunciation>
+            </word>
+            <word>
+              <level>9</level>
+              <wordclass>adj.</wordclass>
+              <meanning>과부가 된</meanning>
+              <spelling>widowed</spelling>
+              <example>A widowed woman was left to serve the lord of the castle.</example>
+              <pronunciation>[w'ydohd]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>애도</meanning>
+              <spelling>mourning</spelling>
+              <example>The government announced a 10-day period of mourning.</example>
+              <pronunciation>[m'awrnyng]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>adj.</wordclass>
+              <meanning>사후의</meanning>
+              <spelling>posthumous</spelling>
+              <example>The poet received posthumous recognition for her literary masterpieces.</example>
+              <pronunciation>[p'aschooməs]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>항아리</meanning>
+              <spelling>urn</spelling>
+              <example>They buried the urn containing my father’s ashes.</example>
+              <pronunciation>[ə:rn]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>화관</meanning>
+              <spelling>wreath</spelling>
+              <example>The director placed a wreath on the winner’s head.</example>
+              <pronunciation>[reeth]</pronunciation>
+            </word>
+          </words>
+        </group>
+        <group>
+          <title></title>
+          <words>
+            <word>
+              <level>1</level>
+              <wordclass>n.</wordclass>
+              <meanning>성인</meanning>
+              <spelling>adult</spelling>
+              <example>You should take responsibility since you are an adult.</example>
+              <pronunciation>[əd'əlt]</pronunciation>
+            </word>
+            <word>
+              <level>6</level>
+              <wordclass>n.</wordclass>
+              <meanning>성년기</meanning>
+              <spelling>adulthood</spelling>
+              <example>When will I ever reach adulthood?</example>
+              <pronunciation>[əd'əlth`ood]</pronunciation>
+            </word>
+            <word>
+              <level>1</level>
+              <wordclass>n.</wordclass>
+              <meanning>연령, 시대, 성년</meanning>
+              <spelling>age</spelling>
+              <example>In the age of globalization, state boundaries are no longer as important.</example>
+              <pronunciation>['eyj]</pronunciation>
+            </word>
+            <word>
+              <level>2</level>
+              <wordclass>adj.</wordclass>
+              <meanning>연장의</meanning>
+              <spelling>elder</spelling>
+              <example>His elder brother left the family to achieve his dreams.</example>
+              <pronunciation>['eldər]</pronunciation>
+            </word>
+            <word>
+              <level>3</level>
+              <wordclass>adj.</wordclass>
+              <meanning>나이 지긋한</meanning>
+              <spelling>elderly</spelling>
+              <example>It is natural for younger one to respect elderly people,</example>
+              <pronunciation>['eldərly]</pronunciation>
+            </word>
+            <word>
+              <level>2</level>
+              <wordclass>n.</wordclass>
+              <meanning>어른</meanning>
+              <spelling>grown-up</spelling>
+              <example>My childhood sweetheart and I promised to get married when we became grown-ups.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>adj.</wordclass>
+              <meanning>소년의</meanning>
+              <spelling>juvenile</spelling>
+              <example>The juvenile crime rate has been decreasing for the past few years.</example>
+              <pronunciation>[j'oovənəl]</pronunciation>
+            </word>
+            <word>
+              <level>16</level>
+              <wordclass>adj.</wordclass>
+              <meanning>노망난</meanning>
+              <spelling>senile</spelling>
+              <example>The senile man kept repeating his words and asking the same things over and over.</example>
+              <pronunciation>[s'eenahyl]</pronunciation>
+            </word>
+            <word>
+              <level>6</level>
+              <wordclass>adj.</wordclass>
+              <meanning>연장의</meanning>
+              <spelling>senior</spelling>
+              <example>Senior residents taught the new interns about saving lives in real life.</example>
+              <pronunciation>[s'eenyər]</pronunciation>
+            </word>
+            <word>
+              <level>3</level>
+              <wordclass>n.</wordclass>
+              <meanning>청소년</meanning>
+              <spelling>teenager</spelling>
+              <example>My daughter grew up from being a sweet child into an uncontrollable teenager.</example>
+              <pronunciation>[t'een`eyjər]</pronunciation>
+            </word>
+            <word>
+              <level>5</level>
+              <wordclass>n.</wordclass>
+              <meanning>젊음</meanning>
+              <spelling>youth</spelling>
+              <example>This magic potion will allow you to keep your youth forever.</example>
+              <pronunciation>[yooth]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>adj.</wordclass>
+              <meanning>다 자란</meanning>
+              <spelling>fully-grown</spelling>
+              <example>A size of the fully-grown plant is about 3 meters high.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>3</level>
+              <wordclass>adj.</wordclass>
+              <meanning>중년의</meanning>
+              <spelling>middle-aged</spelling>
+              <example>He looked like an ordinary middle-aged man who had a nice family.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>노년</meanning>
+              <spelling>old age</spelling>
+              <example>Many people in their old age can sometimes perform better than the young because of their rich experience.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>16</level>
+              <wordclass>n.</wordclass>
+              <meanning>노쇠</meanning>
+              <spelling>senescence</spelling>
+              <example>The senescence is a very natural process to all living things.</example>
+              <pronunciation>[syn'esns]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>adj.</wordclass>
+              <meanning>성숙한</meanning>
+              <spelling>mature</spelling>
+              <example>The boy was very mature for his age.</example>
+              <pronunciation>[məty'ooər]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>미성년자</meanning>
+              <spelling>minor</spelling>
+              <example>Legally, age below eighteen is considered a minor in United States.</example>
+              <pronunciation>[m'ahynər]</pronunciation>
+            </word>
+            <word>
+              <level>6</level>
+              <wordclass>n.</wordclass>
+              <meanning>청소년</meanning>
+              <spelling>adolescent</spelling>
+              <example>I had a bad relationship with my parents as an adolescent.</example>
+              <pronunciation>[`adəl'esnt]</pronunciation>
+            </word>
+          </words>
+        </group>
+        <group>
+          <title></title>
+          <words>
+            <word>
+              <level>1</level>
+              <wordclass>n.</wordclass>
+              <meanning>연령, 시대, 성년</meanning>
+              <spelling>age</spelling>
+              <example>In the age of globalization, state boundaries are no longer as important.</example>
+              <pronunciation>['eyj]</pronunciation>
+            </word>
+            <word>
+              <level>8</level>
+              <wordclass>n.</wordclass>
+              <meanning>별명, 가명</meanning>
+              <spelling>alias</spelling>
+              <example>I found out that she was working under an alias.</example>
+              <pronunciation>[`eylyəs]</pronunciation>
+            </word>
+            <word>
+              <level>3</level>
+              <wordclass>n.</wordclass>
+              <meanning>출현, 외관</meanning>
+              <spelling>appearance</spelling>
+              <example>The actor makes a brief appearance near the end of the movie.</example>
+              <pronunciation>[əp'yərəns]</pronunciation>
+            </word>
+            <word>
+              <level>4</level>
+              <wordclass>n.</wordclass>
+              <meanning>자필 서명</meanning>
+              <spelling>autograph</spelling>
+              <example>Can I have your autograph?</example>
+              <pronunciation>['awtəgr`af]</pronunciation>
+            </word>
+            <word>
+              <level>1</level>
+              <wordclass>v.</wordclass>
+              <meanning>~라고 부르다</meanning>
+              <spelling>call</spelling>
+              <example>He discovered a new island and #called it Henry, after his dead son.</example>
+              <pronunciation>[kawl]</pronunciation>
+            </word>
+            <word>
+              <level>2</level>
+              <wordclass>n.</wordclass>
+              <meanning>여성, 암컷</meanning>
+              <spelling>female</spelling>
+              <example>Many feminists tried hard to recover the reputation of the female</example>
+              <pronunciation>[f'eemeyl]</pronunciation>
+            </word>
+            <word>
+              <level>8</level>
+              <wordclass>adj.</wordclass>
+              <meanning>여자다운</meanning>
+              <spelling>feminine</spelling>
+              <example>She possesses feminine virtues of gentleness and compassion.</example>
+              <pronunciation>[f'emənyn]</pronunciation>
+            </word>
+            <word>
+              <level>4</level>
+              <wordclass>n.</wordclass>
+              <meanning>성</meanning>
+              <spelling>gender</spelling>
+              <example>Many Asian societies have a strict code of honor and very strict gender roles.</example>
+              <pronunciation>[j'endər]</pronunciation>
+            </word>
+            <word>
+              <level>8</level>
+              <wordclass>n.</wordclass>
+              <meanning>세대</meanning>
+              <spelling>generation</spelling>
+              <example>A new generation is growing and threatening the existing order.</example>
+              <pronunciation>[j`enər'eyshən]</pronunciation>
+            </word>
+            <word>
+              <level>1</level>
+              <wordclass>v.</wordclass>
+              <meanning>보다</meanning>
+              <spelling>look</spelling>
+              <example>Look at me when you are talking to me.</example>
+              <pronunciation>[look]</pronunciation>
+            </word>
+            <word>
+              <level>2</level>
+              <wordclass>n.</wordclass>
+              <meanning>남성</meanning>
+              <spelling>male</spelling>
+              <example>Male peacocks have beautiful large tails with blue and green spots.</example>
+              <pronunciation>[meyl]</pronunciation>
+            </word>
+            <word>
+              <level>7</level>
+              <wordclass>adj.</wordclass>
+              <meanning>남성의</meanning>
+              <spelling>masculine</spelling>
+              <example>I can wear a skirt and still appear masculine.</example>
+              <pronunciation>[m'askyəlyn]</pronunciation>
+            </word>
+            <word>
+              <level>1</level>
+              <wordclass>n.</wordclass>
+              <meanning>이름</meanning>
+              <spelling>name</spelling>
+              <example>May I have your name?</example>
+              <pronunciation>[neym]</pronunciation>
+            </word>
+            <word>
+              <level>2</level>
+              <wordclass>n.</wordclass>
+              <meanning>국가</meanning>
+              <spelling>nation</spelling>
+              <example>The nation encouraged exports while regulating imports.</example>
+              <pronunciation>[n'eyshən]</pronunciation>
+            </word>
+            <word>
+              <level>2</level>
+              <wordclass>n.</wordclass>
+              <meanning>별명</meanning>
+              <spelling>nickname</spelling>
+              <example>I had a funny nickname when I was a child.</example>
+              <pronunciation>[n'ykneym]</pronunciation>
+            </word>
+            <word>
+              <level>1</level>
+              <wordclass>n.</wordclass>
+              <meanning>성</meanning>
+              <spelling>sex</spelling>
+              <example>On applications, you must often indicate your sex.</example>
+              <pronunciation>[seks]</pronunciation>
+            </word>
+            <word>
+              <level>1</level>
+              <wordclass>n.</wordclass>
+              <meanning>징후</meanning>
+              <spelling>sign</spelling>
+              <example>Hair loss may be a sign of stress.</example>
+              <pronunciation>[sahyn]</pronunciation>
+            </word>
+            <word>
+              <level>3</level>
+              <wordclass>n.</wordclass>
+              <meanning>성</meanning>
+              <spelling>surname</spelling>
+              <example>You forgot to write down your surname on the application.</example>
+              <pronunciation>[s'ə:rn`eym]</pronunciation>
+            </word>
+            <word>
+              <level>1</level>
+              <wordclass>n.</wordclass>
+              <meanning>제목</meanning>
+              <spelling>title</spelling>
+              <example>The title of his new novel is "The Mirror."</example>
+              <pronunciation>[t'ahytl]</pronunciation>
+            </word>
+            <word>
+              <level>9</level>
+              <wordclass>n.</wordclass>
+              <meanning>부족, 종족</meanning>
+              <spelling>tribe</spelling>
+              <example>Machi is the name of the tribe that settled in the area.</example>
+              <pronunciation>[trahyb]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>연령 집단</meanning>
+              <spelling>age group</spelling>
+              <example>Certain video games pertain to specific age groups.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>이름</meanning>
+              <spelling>given name</spelling>
+              <example>The application asked for my given name.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>adj.</wordclass>
+              <meanning>잘 생긴</meanning>
+              <spelling>good-looking</spelling>
+              <example>Everyone looked up when the good-looking guy walked in the bar.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>성</meanning>
+              <spelling>last name</spelling>
+              <example>I had to write my last name in the application form.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>adj.</wordclass>
+              <meanning>익명의</meanning>
+              <spelling>anonymous</spelling>
+              <example>People were very curious to find out who the anonymous writer was.</example>
+              <pronunciation>[ən'anəməs]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>adj.</wordclass>
+              <meanning>인종의, 민족의</meanning>
+              <spelling>ethnic</spelling>
+              <example>There is a discrimination among different ethnic groups.</example>
+              <pronunciation>['ethnyk]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>인종</meanning>
+              <spelling>race</spelling>
+              <example>People of different cultural backgrounds usually have different lifestyles and ways of thinking.</example>
+              <pronunciation>[reys]</pronunciation>
+            </word>
+          </words>
+        </group>
+      </groups>
+    </book>
+  </books>
+</category>

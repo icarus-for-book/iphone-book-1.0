@@ -1,0 +1,359 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		3A76EE42147B2A8D00690E92 /* GugudanListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A76EE40147B2A8D00690E92 /* GugudanListViewController.m */; };
+		3A76EE43147B2A8D00690E92 /* GugudanListViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3A76EE41147B2A8D00690E92 /* GugudanListViewController.xib */; };
+		3AD40AC3147AF9D7000A2CFD /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3AD40AC2147AF9D7000A2CFD /* UIKit.framework */; };
+		3AD40AC5147AF9D7000A2CFD /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3AD40AC4147AF9D7000A2CFD /* Foundation.framework */; };
+		3AD40AC7147AF9D7000A2CFD /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3AD40AC6147AF9D7000A2CFD /* CoreGraphics.framework */; };
+		3AD40ACD147AF9D7000A2CFD /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 3AD40ACB147AF9D7000A2CFD /* InfoPlist.strings */; };
+		3AD40ACF147AF9D7000A2CFD /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3AD40ACE147AF9D7000A2CFD /* main.m */; };
+		3AD40AD3147AF9D7000A2CFD /* guguquizAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3AD40AD2147AF9D7000A2CFD /* guguquizAppDelegate.m */; };
+		3AD40AD6147AF9D7000A2CFD /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3AD40AD4147AF9D7000A2CFD /* MainWindow.xib */; };
+		3AD40AEA147AFA24000A2CFD /* StartQuizViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3AD40AE8147AFA24000A2CFD /* StartQuizViewController.m */; };
+		3AD40AEB147AFA24000A2CFD /* StartQuizViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3AD40AE9147AFA24000A2CFD /* StartQuizViewController.xib */; };
+		3AD40AF3147AFB18000A2CFD /* QuizViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3AD40AF1147AFB18000A2CFD /* QuizViewController.m */; };
+		3AD40AF4147AFB18000A2CFD /* QuizViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3AD40AF2147AFB18000A2CFD /* QuizViewController.xib */; };
+		3AD40AF8147AFC4D000A2CFD /* ResultViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3AD40AF6147AFC4D000A2CFD /* ResultViewController.m */; };
+		3AD40AF9147AFC4D000A2CFD /* ResultViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3AD40AF7147AFC4D000A2CFD /* ResultViewController.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		3A76EE3F147B2A8D00690E92 /* GugudanListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GugudanListViewController.h; sourceTree = "<group>"; };
+		3A76EE40147B2A8D00690E92 /* GugudanListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GugudanListViewController.m; sourceTree = "<group>"; };
+		3A76EE41147B2A8D00690E92 /* GugudanListViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = GugudanListViewController.xib; sourceTree = "<group>"; };
+		3AD40ABE147AF9D7000A2CFD /* guguquiz.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = guguquiz.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3AD40AC2147AF9D7000A2CFD /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		3AD40AC4147AF9D7000A2CFD /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		3AD40AC6147AF9D7000A2CFD /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		3AD40ACA147AF9D7000A2CFD /* guguquiz-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "guguquiz-Info.plist"; sourceTree = "<group>"; };
+		3AD40ACC147AF9D7000A2CFD /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		3AD40ACE147AF9D7000A2CFD /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		3AD40AD0147AF9D7000A2CFD /* guguquiz-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "guguquiz-Prefix.pch"; sourceTree = "<group>"; };
+		3AD40AD1147AF9D7000A2CFD /* guguquizAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = guguquizAppDelegate.h; sourceTree = "<group>"; };
+		3AD40AD2147AF9D7000A2CFD /* guguquizAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = guguquizAppDelegate.m; sourceTree = "<group>"; };
+		3AD40AD5147AF9D7000A2CFD /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
+		3AD40AE7147AFA24000A2CFD /* StartQuizViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StartQuizViewController.h; sourceTree = "<group>"; };
+		3AD40AE8147AFA24000A2CFD /* StartQuizViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StartQuizViewController.m; sourceTree = "<group>"; };
+		3AD40AE9147AFA24000A2CFD /* StartQuizViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = StartQuizViewController.xib; sourceTree = "<group>"; };
+		3AD40AF0147AFB18000A2CFD /* QuizViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = QuizViewController.h; sourceTree = "<group>"; };
+		3AD40AF1147AFB18000A2CFD /* QuizViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QuizViewController.m; sourceTree = "<group>"; };
+		3AD40AF2147AFB18000A2CFD /* QuizViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = QuizViewController.xib; sourceTree = "<group>"; };
+		3AD40AF5147AFC4D000A2CFD /* ResultViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ResultViewController.h; sourceTree = "<group>"; };
+		3AD40AF6147AFC4D000A2CFD /* ResultViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ResultViewController.m; sourceTree = "<group>"; };
+		3AD40AF7147AFC4D000A2CFD /* ResultViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ResultViewController.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3AD40ABB147AF9D7000A2CFD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3AD40AC3147AF9D7000A2CFD /* UIKit.framework in Frameworks */,
+				3AD40AC5147AF9D7000A2CFD /* Foundation.framework in Frameworks */,
+				3AD40AC7147AF9D7000A2CFD /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3A76EE3C147B2A5500690E92 /* Quiz */ = {
+			isa = PBXGroup;
+			children = (
+				3AD40AED147AFA33000A2CFD /* 1. Start Quiz */,
+				3AD40AEF147AFA4A000A2CFD /* 2. Quiz */,
+				3AD40AEE147AFA46000A2CFD /* 3. Result */,
+			);
+			name = Quiz;
+			sourceTree = "<group>";
+		};
+		3A76EE3E147B2A6100690E92 /* Gugudan */ = {
+			isa = PBXGroup;
+			children = (
+				3A76EE3F147B2A8D00690E92 /* GugudanListViewController.h */,
+				3A76EE40147B2A8D00690E92 /* GugudanListViewController.m */,
+				3A76EE41147B2A8D00690E92 /* GugudanListViewController.xib */,
+			);
+			name = Gugudan;
+			sourceTree = "<group>";
+		};
+		3AD40AB3147AF9D7000A2CFD = {
+			isa = PBXGroup;
+			children = (
+				3AD40AC8147AF9D7000A2CFD /* guguquiz */,
+				3AD40AC1147AF9D7000A2CFD /* Frameworks */,
+				3AD40ABF147AF9D7000A2CFD /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		3AD40ABF147AF9D7000A2CFD /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3AD40ABE147AF9D7000A2CFD /* guguquiz.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		3AD40AC1147AF9D7000A2CFD /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				3AD40AC2147AF9D7000A2CFD /* UIKit.framework */,
+				3AD40AC4147AF9D7000A2CFD /* Foundation.framework */,
+				3AD40AC6147AF9D7000A2CFD /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		3AD40AC8147AF9D7000A2CFD /* guguquiz */ = {
+			isa = PBXGroup;
+			children = (
+				3AD40AEC147AFA2B000A2CFD /* UI */,
+				3AD40AD2147AF9D7000A2CFD /* guguquizAppDelegate.m */,
+				3AD40AD1147AF9D7000A2CFD /* guguquizAppDelegate.h */,
+				3AD40AD4147AF9D7000A2CFD /* MainWindow.xib */,
+				3AD40AC9147AF9D7000A2CFD /* Supporting Files */,
+			);
+			path = guguquiz;
+			sourceTree = "<group>";
+		};
+		3AD40AC9147AF9D7000A2CFD /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				3AD40ACA147AF9D7000A2CFD /* guguquiz-Info.plist */,
+				3AD40ACB147AF9D7000A2CFD /* InfoPlist.strings */,
+				3AD40ACE147AF9D7000A2CFD /* main.m */,
+				3AD40AD0147AF9D7000A2CFD /* guguquiz-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		3AD40AEC147AFA2B000A2CFD /* UI */ = {
+			isa = PBXGroup;
+			children = (
+				3A76EE3E147B2A6100690E92 /* Gugudan */,
+				3A76EE3C147B2A5500690E92 /* Quiz */,
+			);
+			name = UI;
+			sourceTree = "<group>";
+		};
+		3AD40AED147AFA33000A2CFD /* 1. Start Quiz */ = {
+			isa = PBXGroup;
+			children = (
+				3AD40AE7147AFA24000A2CFD /* StartQuizViewController.h */,
+				3AD40AE8147AFA24000A2CFD /* StartQuizViewController.m */,
+				3AD40AE9147AFA24000A2CFD /* StartQuizViewController.xib */,
+			);
+			name = "1. Start Quiz";
+			sourceTree = "<group>";
+		};
+		3AD40AEE147AFA46000A2CFD /* 3. Result */ = {
+			isa = PBXGroup;
+			children = (
+				3AD40AF5147AFC4D000A2CFD /* ResultViewController.h */,
+				3AD40AF6147AFC4D000A2CFD /* ResultViewController.m */,
+				3AD40AF7147AFC4D000A2CFD /* ResultViewController.xib */,
+			);
+			name = "3. Result";
+			sourceTree = "<group>";
+		};
+		3AD40AEF147AFA4A000A2CFD /* 2. Quiz */ = {
+			isa = PBXGroup;
+			children = (
+				3AD40AF0147AFB18000A2CFD /* QuizViewController.h */,
+				3AD40AF1147AFB18000A2CFD /* QuizViewController.m */,
+				3AD40AF2147AFB18000A2CFD /* QuizViewController.xib */,
+			);
+			name = "2. Quiz";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3AD40ABD147AF9D7000A2CFD /* guguquiz */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3AD40ADF147AF9D7000A2CFD /* Build configuration list for PBXNativeTarget "guguquiz" */;
+			buildPhases = (
+				3AD40ABA147AF9D7000A2CFD /* Sources */,
+				3AD40ABB147AF9D7000A2CFD /* Frameworks */,
+				3AD40ABC147AF9D7000A2CFD /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = guguquiz;
+			productName = guguquiz;
+			productReference = 3AD40ABE147AF9D7000A2CFD /* guguquiz.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3AD40AB5147AF9D7000A2CFD /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 3AD40AB8147AF9D7000A2CFD /* Build configuration list for PBXProject "guguquiz" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 3AD40AB3147AF9D7000A2CFD;
+			productRefGroup = 3AD40ABF147AF9D7000A2CFD /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3AD40ABD147AF9D7000A2CFD /* guguquiz */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3AD40ABC147AF9D7000A2CFD /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3AD40ACD147AF9D7000A2CFD /* InfoPlist.strings in Resources */,
+				3AD40AD6147AF9D7000A2CFD /* MainWindow.xib in Resources */,
+				3AD40AEB147AFA24000A2CFD /* StartQuizViewController.xib in Resources */,
+				3AD40AF4147AFB18000A2CFD /* QuizViewController.xib in Resources */,
+				3AD40AF9147AFC4D000A2CFD /* ResultViewController.xib in Resources */,
+				3A76EE43147B2A8D00690E92 /* GugudanListViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3AD40ABA147AF9D7000A2CFD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3AD40ACF147AF9D7000A2CFD /* main.m in Sources */,
+				3AD40AD3147AF9D7000A2CFD /* guguquizAppDelegate.m in Sources */,
+				3AD40AEA147AFA24000A2CFD /* StartQuizViewController.m in Sources */,
+				3AD40AF3147AFB18000A2CFD /* QuizViewController.m in Sources */,
+				3AD40AF8147AFC4D000A2CFD /* ResultViewController.m in Sources */,
+				3A76EE42147B2A8D00690E92 /* GugudanListViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		3AD40ACB147AF9D7000A2CFD /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3AD40ACC147AF9D7000A2CFD /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		3AD40AD4147AF9D7000A2CFD /* MainWindow.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3AD40AD5147AF9D7000A2CFD /* en */,
+			);
+			name = MainWindow.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		3AD40ADD147AF9D7000A2CFD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		3AD40ADE147AF9D7000A2CFD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		3AD40AE0147AF9D7000A2CFD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "guguquiz/guguquiz-Prefix.pch";
+				INFOPLIST_FILE = "guguquiz/guguquiz-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		3AD40AE1147AF9D7000A2CFD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "guguquiz/guguquiz-Prefix.pch";
+				INFOPLIST_FILE = "guguquiz/guguquiz-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3AD40AB8147AF9D7000A2CFD /* Build configuration list for PBXProject "guguquiz" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3AD40ADD147AF9D7000A2CFD /* Debug */,
+				3AD40ADE147AF9D7000A2CFD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3AD40ADF147AF9D7000A2CFD /* Build configuration list for PBXNativeTarget "guguquiz" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3AD40AE0147AF9D7000A2CFD /* Debug */,
+				3AD40AE1147AF9D7000A2CFD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3AD40AB5147AF9D7000A2CFD /* Project object */;
+}

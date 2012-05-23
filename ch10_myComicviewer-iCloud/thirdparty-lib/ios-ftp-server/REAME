@@ -1,0 +1,9 @@
+This is ios-ftp-server library
+
+home : http://code.google.com/p/ios-ftp-server/source/checkout
+
+how-to-get-source : 
+
+"""
+svn checkout http://ios-ftp-server.googlecode.com/svn/trunk/ ios-ftp-server-read-only
+"""

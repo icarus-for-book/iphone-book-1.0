@@ -1,0 +1,843 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		3A223B191429BDF80042C5F7 /* libCorePlot-CocoaTouch.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3A223B181429BDF80042C5F7 /* libCorePlot-CocoaTouch.a */; };
+		3A42CF9D13EE49E0002840AB /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3A42CF9C13EE49E0002840AB /* UIKit.framework */; };
+		3A42CF9F13EE49E0002840AB /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3A42CF9E13EE49E0002840AB /* Foundation.framework */; };
+		3A42CFA113EE49E0002840AB /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3A42CFA013EE49E0002840AB /* CoreGraphics.framework */; };
+		3A42CFA713EE49E0002840AB /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 3A42CFA513EE49E0002840AB /* InfoPlist.strings */; };
+		3A42CFA913EE49E0002840AB /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A42CFA813EE49E0002840AB /* main.m */; };
+		3A42CFAD13EE49E0002840AB /* DeviceInfoControlAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A42CFAC13EE49E0002840AB /* DeviceInfoControlAppDelegate.m */; };
+		3A42CFB013EE49E0002840AB /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3A42CFAE13EE49E0002840AB /* MainWindow.xib */; };
+		3A42CFB313EE49E0002840AB /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A42CFB213EE49E0002840AB /* MainViewController.m */; };
+		3A42CFB613EE49E0002840AB /* MainViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3A42CFB413EE49E0002840AB /* MainViewController.xib */; };
+		3A42CFDF13EE4C1B002840AB /* MemoryInfoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A42CFDD13EE4C1B002840AB /* MemoryInfoViewController.m */; };
+		3A42CFE013EE4C1B002840AB /* MemoryInfoViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3A42CFDE13EE4C1B002840AB /* MemoryInfoViewController.xib */; };
+		3A42CFE213EE4CFC002840AB /* memory.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A42CFE113EE4CFC002840AB /* memory.png */; };
+		3A42CFEB13EE5296002840AB /* NetworkInfoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A42CFE913EE5296002840AB /* NetworkInfoViewController.m */; };
+		3A42CFEC13EE5296002840AB /* NetworkInfoViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3A42CFEA13EE5296002840AB /* NetworkInfoViewController.xib */; };
+		3A42CFF513EE52B7002840AB /* GeneralInfoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A42CFF313EE52B7002840AB /* GeneralInfoViewController.m */; };
+		3A42CFF613EE52B7002840AB /* GeneralInfoViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3A42CFF413EE52B7002840AB /* GeneralInfoViewController.xib */; };
+		3A42D00013EE52DF002840AB /* BatteryInfoViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3A42CFFE13EE52DF002840AB /* BatteryInfoViewController.xib */; };
+		3A42D00413EE52ED002840AB /* StorageInfoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A42D00213EE52ED002840AB /* StorageInfoViewController.m */; };
+		3A42D00513EE52ED002840AB /* StorageInfoViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3A42D00313EE52ED002840AB /* StorageInfoViewController.xib */; };
+		3A42D00913EE5390002840AB /* ProcessInfoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A42D00713EE5390002840AB /* ProcessInfoViewController.m */; };
+		3A42D00A13EE5390002840AB /* ProcessInfoViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3A42D00813EE5390002840AB /* ProcessInfoViewController.xib */; };
+		3A42D00D13EE6526002840AB /* MemoryInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A42D00C13EE6526002840AB /* MemoryInfo.m */; };
+		3AAFA66D142719FD004AF32A /* GPSInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 3AAFA66C142719FD004AF32A /* GPSInfo.m */; };
+		3AAFA68B142736AD004AF32A /* GpsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3AAFA68A142736AD004AF32A /* GpsViewController.m */; };
+		3AE2BF9B1429C41900B8D676 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3AE2BF9A1429C41900B8D676 /* QuartzCore.framework */; };
+		3AEC67D51432E118001B0943 /* OverlayViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3AEC67D31432E118001B0943 /* OverlayViewController.m */; };
+		3AEC67D61432E118001B0943 /* OverlayViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3AEC67D41432E118001B0943 /* OverlayViewController.xib */; };
+		3AED343B1435767F00815DD0 /* MediaPlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3AED343A1435767F00815DD0 /* MediaPlayer.framework */; };
+		3AED343F14357D4800815DD0 /* CPUInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 3AED343E14357D4800815DD0 /* CPUInfo.m */; };
+		3AEDD3661435D1600033F1BF /* flashBackground@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3AEDD3631435D1600033F1BF /* flashBackground@2x.png */; };
+		3AEDD3671435D1600033F1BF /* poweroff@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3AEDD3641435D1600033F1BF /* poweroff@2x.png */; };
+		3AEDD3681435D1600033F1BF /* poweron@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3AEDD3651435D1600033F1BF /* poweron@2x.png */; };
+		9E09815D13F2DC09005148D8 /* NetworkInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 9E09815C13F2DC09005148D8 /* NetworkInfo.m */; };
+		9E09816613F2DD6B005148D8 /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 9E09816513F2DD6B005148D8 /* Reachability.m */; };
+		9E09816813F2DDA4005148D8 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9E09816713F2DDA4005148D8 /* SystemConfiguration.framework */; };
+		9E09816E13F2F311005148D8 /* ProcessInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 9E09816D13F2F311005148D8 /* ProcessInfo.m */; };
+		9E09817113F429E4005148D8 /* ProcessInfoCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 9E09817013F429E4005148D8 /* ProcessInfoCell.m */; };
+		9E09817313F42B62005148D8 /* ProcessInfoCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9E09817213F42B62005148D8 /* ProcessInfoCell.xib */; };
+		9E23EB991424F0BE00EA77B9 /* BatteryInfoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9E23EB981424F0BD00EA77B9 /* BatteryInfoViewController.m */; };
+		9E23EB9D1424F8FB00EA77B9 /* CameraViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9E23EB9B1424F8FB00EA77B9 /* CameraViewController.m */; };
+		9E23EB9E1424F8FB00EA77B9 /* CameraViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9E23EB9C1424F8FB00EA77B9 /* CameraViewController.xib */; };
+		9E7083BE14207845005060C6 /* TorchViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9E7083BC14207845005060C6 /* TorchViewController.m */; };
+		9E7083BF14207845005060C6 /* TorchViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9E7083BD14207845005060C6 /* TorchViewController.xib */; };
+		9EDD22A31423A63D00E82DC3 /* battery1.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EDD229E1423A63D00E82DC3 /* battery1.png */; };
+		9EDD22A41423A63D00E82DC3 /* battery2.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EDD229F1423A63D00E82DC3 /* battery2.png */; };
+		9EDD22A51423A63D00E82DC3 /* battery3.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EDD22A01423A63D00E82DC3 /* battery3.png */; };
+		9EDD22A61423A63D00E82DC3 /* battery4.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EDD22A11423A63D00E82DC3 /* battery4.png */; };
+		9EDD22A71423A63D00E82DC3 /* battery5.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EDD22A21423A63D00E82DC3 /* battery5.png */; };
+		9EDD22B41423A82100E82DC3 /* charging01.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EDD22A81423A81F00E82DC3 /* charging01.png */; };
+		9EDD22B51423A82100E82DC3 /* charging02.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EDD22A91423A81F00E82DC3 /* charging02.png */; };
+		9EDD22B61423A82100E82DC3 /* charging03.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EDD22AA1423A81F00E82DC3 /* charging03.png */; };
+		9EDD22B71423A82100E82DC3 /* charging04.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EDD22AB1423A81F00E82DC3 /* charging04.png */; };
+		9EDD22B81423A82100E82DC3 /* charging05.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EDD22AC1423A81F00E82DC3 /* charging05.png */; };
+		9EDD22B91423A82100E82DC3 /* charging06.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EDD22AD1423A81F00E82DC3 /* charging06.png */; };
+		9EDD22BA1423A82100E82DC3 /* charging07.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EDD22AE1423A82000E82DC3 /* charging07.png */; };
+		9EDD22BB1423A82100E82DC3 /* charging08.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EDD22AF1423A82000E82DC3 /* charging08.png */; };
+		9EDD22BC1423A82100E82DC3 /* charging09.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EDD22B01423A82000E82DC3 /* charging09.png */; };
+		9EDD22BD1423A82100E82DC3 /* charging10.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EDD22B11423A82000E82DC3 /* charging10.png */; };
+		9EDD22BE1423A82100E82DC3 /* charging11.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EDD22B21423A82000E82DC3 /* charging11.png */; };
+		9EDD22BF1423A82100E82DC3 /* charging12.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EDD22B31423A82000E82DC3 /* charging12.png */; };
+		9EDD22C11423B6FD00E82DC3 /* battery.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EDD22C01423B6FB00E82DC3 /* battery.png */; };
+		9EF043FF13EEE00B0025204B /* BatteryInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EF043FE13EEE00B0025204B /* BatteryInfo.m */; };
+		9EF0440313EEE05C0025204B /* DeviceInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EF0440213EEE05C0025204B /* DeviceInfo.m */; };
+		9EF0440613EEE8E60025204B /* StorageInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EF0440513EEE8E60025204B /* StorageInfo.m */; };
+		9EF709D9142080D900A7B51F /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9EF709D8142080D900A7B51F /* AVFoundation.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
+		9EF709DE1420EE4400A7B51F /* GyroscopeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EF709DC1420EE4400A7B51F /* GyroscopeViewController.m */; };
+		9EF709DF1420EE4400A7B51F /* GyroscopeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9EF709DD1420EE4400A7B51F /* GyroscopeViewController.xib */; };
+		9EF709E11420EF2500A7B51F /* CoreMotion.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9EF709E01420EF2500A7B51F /* CoreMotion.framework */; };
+		9EF709E51420F19700A7B51F /* AccelerometerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EF709E31420F19700A7B51F /* AccelerometerViewController.m */; };
+		9EF709E61420F19700A7B51F /* AccelerometerViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9EF709E41420F19700A7B51F /* AccelerometerViewController.xib */; };
+		9EF709F81420FF9700A7B51F /* PieChart.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EF709F71420FF9700A7B51F /* PieChart.m */; };
+		9EF709FA1421046C00A7B51F /* memBackgroud.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EF709F91421046C00A7B51F /* memBackgroud.png */; };
+		9EF730EE1423203400762C8B /* compass.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EF730ED1423203400762C8B /* compass.png */; };
+		9EF730F41423207400762C8B /* CompassViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EF730F21423207400762C8B /* CompassViewController.m */; };
+		9EF730F51423207400762C8B /* CompassViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9EF730F31423207400762C8B /* CompassViewController.xib */; };
+		9EF730F7142320F300762C8B /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9EF730F6142320F200762C8B /* CoreLocation.framework */; };
+		BDC9C92A1561D37E007FC159 /* README.rtf in Resources */ = {isa = PBXBuildFile; fileRef = BDC9C9291561D37E007FC159 /* README.rtf */; };
+		BDC9C97B1561E5DD007FC159 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BDC9C97A1561E5DD007FC159 /* Default@2x.png */; };
+		BDC9C97D1561E606007FC159 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = BDC9C97C1561E606007FC159 /* Default.png */; };
+		BDC9C98C1561E7E6007FC159 /* Icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = BDC9C9851561E7E6007FC159 /* Icon-72.png */; };
+		BDC9C98D1561E7E6007FC159 /* Icon-Small-50.png in Resources */ = {isa = PBXBuildFile; fileRef = BDC9C9861561E7E6007FC159 /* Icon-Small-50.png */; };
+		BDC9C98E1561E7E6007FC159 /* Icon-Small.png in Resources */ = {isa = PBXBuildFile; fileRef = BDC9C9871561E7E6007FC159 /* Icon-Small.png */; };
+		BDC9C98F1561E7E6007FC159 /* Icon-Small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BDC9C9881561E7E6007FC159 /* Icon-Small@2x.png */; };
+		BDC9C9901561E7E6007FC159 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = BDC9C9891561E7E6007FC159 /* Icon.png */; };
+		BDC9C9911561E7E6007FC159 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BDC9C98A1561E7E6007FC159 /* Icon@2x.png */; };
+		BDC9C9921561E7E6007FC159 /* iTunesArtwork in Resources */ = {isa = PBXBuildFile; fileRef = BDC9C98B1561E7E6007FC159 /* iTunesArtwork */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		3A223B181429BDF80042C5F7 /* libCorePlot-CocoaTouch.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = "libCorePlot-CocoaTouch.a"; path = "vendor/CorePlot_0.4/Binaries/iOS/libCorePlot-CocoaTouch.a"; sourceTree = "<group>"; };
+		3A42CF9813EE49E0002840AB /* myDeviceChecker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = myDeviceChecker.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3A42CF9C13EE49E0002840AB /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		3A42CF9E13EE49E0002840AB /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		3A42CFA013EE49E0002840AB /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		3A42CFA413EE49E0002840AB /* myDeviceChecker-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "myDeviceChecker-Info.plist"; sourceTree = "<group>"; };
+		3A42CFA613EE49E0002840AB /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		3A42CFA813EE49E0002840AB /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		3A42CFAA13EE49E0002840AB /* myDeviceChecker-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "myDeviceChecker-Prefix.pch"; sourceTree = "<group>"; };
+		3A42CFAB13EE49E0002840AB /* DeviceInfoControlAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DeviceInfoControlAppDelegate.h; sourceTree = "<group>"; };
+		3A42CFAC13EE49E0002840AB /* DeviceInfoControlAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DeviceInfoControlAppDelegate.m; sourceTree = "<group>"; };
+		3A42CFAF13EE49E0002840AB /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
+		3A42CFB113EE49E0002840AB /* MainViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
+		3A42CFB213EE49E0002840AB /* MainViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
+		3A42CFB513EE49E0002840AB /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainViewController.xib; sourceTree = "<group>"; };
+		3A42CFBD13EE49E1002840AB /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
+		3A42CFDA13EE4BEB002840AB /* DeviceViewItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DeviceViewItem.h; sourceTree = "<group>"; };
+		3A42CFDC13EE4C1B002840AB /* MemoryInfoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MemoryInfoViewController.h; sourceTree = "<group>"; };
+		3A42CFDD13EE4C1B002840AB /* MemoryInfoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MemoryInfoViewController.m; sourceTree = "<group>"; };
+		3A42CFDE13EE4C1B002840AB /* MemoryInfoViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MemoryInfoViewController.xib; sourceTree = "<group>"; };
+		3A42CFE113EE4CFC002840AB /* memory.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = memory.png; sourceTree = "<group>"; };
+		3A42CFE813EE5296002840AB /* NetworkInfoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NetworkInfoViewController.h; sourceTree = "<group>"; };
+		3A42CFE913EE5296002840AB /* NetworkInfoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NetworkInfoViewController.m; sourceTree = "<group>"; };
+		3A42CFEA13EE5296002840AB /* NetworkInfoViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = NetworkInfoViewController.xib; sourceTree = "<group>"; };
+		3A42CFF213EE52B7002840AB /* GeneralInfoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GeneralInfoViewController.h; sourceTree = "<group>"; };
+		3A42CFF313EE52B7002840AB /* GeneralInfoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GeneralInfoViewController.m; sourceTree = "<group>"; };
+		3A42CFF413EE52B7002840AB /* GeneralInfoViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = GeneralInfoViewController.xib; sourceTree = "<group>"; };
+		3A42CFFC13EE52DF002840AB /* BatteryInfoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BatteryInfoViewController.h; sourceTree = "<group>"; };
+		3A42CFFE13EE52DF002840AB /* BatteryInfoViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = BatteryInfoViewController.xib; sourceTree = "<group>"; };
+		3A42D00113EE52ED002840AB /* StorageInfoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StorageInfoViewController.h; sourceTree = "<group>"; };
+		3A42D00213EE52ED002840AB /* StorageInfoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StorageInfoViewController.m; sourceTree = "<group>"; };
+		3A42D00313EE52ED002840AB /* StorageInfoViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = StorageInfoViewController.xib; sourceTree = "<group>"; };
+		3A42D00613EE5390002840AB /* ProcessInfoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ProcessInfoViewController.h; sourceTree = "<group>"; };
+		3A42D00713EE5390002840AB /* ProcessInfoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ProcessInfoViewController.m; sourceTree = "<group>"; };
+		3A42D00813EE5390002840AB /* ProcessInfoViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ProcessInfoViewController.xib; sourceTree = "<group>"; };
+		3A42D00B13EE6526002840AB /* MemoryInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MemoryInfo.h; sourceTree = "<group>"; };
+		3A42D00C13EE6526002840AB /* MemoryInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MemoryInfo.m; sourceTree = "<group>"; };
+		3AAFA66B142719FD004AF32A /* GPSInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GPSInfo.h; sourceTree = "<group>"; };
+		3AAFA66C142719FD004AF32A /* GPSInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GPSInfo.m; sourceTree = "<group>"; };
+		3AAFA689142736AD004AF32A /* GpsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GpsViewController.h; sourceTree = "<group>"; };
+		3AAFA68A142736AD004AF32A /* GpsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GpsViewController.m; sourceTree = "<group>"; };
+		3AE2BF9A1429C41900B8D676 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		3AEC67D01432D458001B0943 /* libIOKit.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libIOKit.dylib; path = usr/lib/libIOKit.dylib; sourceTree = SDKROOT; };
+		3AEC67D21432E118001B0943 /* OverlayViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OverlayViewController.h; sourceTree = "<group>"; };
+		3AEC67D31432E118001B0943 /* OverlayViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OverlayViewController.m; sourceTree = "<group>"; };
+		3AEC67D41432E118001B0943 /* OverlayViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = OverlayViewController.xib; sourceTree = "<group>"; };
+		3AED343A1435767F00815DD0 /* MediaPlayer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MediaPlayer.framework; path = System/Library/Frameworks/MediaPlayer.framework; sourceTree = SDKROOT; };
+		3AED343D14357D4800815DD0 /* CPUInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CPUInfo.h; sourceTree = "<group>"; };
+		3AED343E14357D4800815DD0 /* CPUInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CPUInfo.m; sourceTree = "<group>"; };
+		3AEDD3631435D1600033F1BF /* flashBackground@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "flashBackground@2x.png"; sourceTree = "<group>"; };
+		3AEDD3641435D1600033F1BF /* poweroff@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "poweroff@2x.png"; sourceTree = "<group>"; };
+		3AEDD3651435D1600033F1BF /* poweron@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "poweron@2x.png"; sourceTree = "<group>"; };
+		9E09815B13F2DC09005148D8 /* NetworkInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NetworkInfo.h; sourceTree = "<group>"; };
+		9E09815C13F2DC09005148D8 /* NetworkInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NetworkInfo.m; sourceTree = "<group>"; };
+		9E09816413F2DD6B005148D8 /* Reachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Reachability.h; sourceTree = "<group>"; };
+		9E09816513F2DD6B005148D8 /* Reachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Reachability.m; sourceTree = "<group>"; };
+		9E09816713F2DDA4005148D8 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		9E09816C13F2F311005148D8 /* ProcessInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ProcessInfo.h; sourceTree = "<group>"; };
+		9E09816D13F2F311005148D8 /* ProcessInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ProcessInfo.m; sourceTree = "<group>"; };
+		9E09816F13F429E4005148D8 /* ProcessInfoCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ProcessInfoCell.h; sourceTree = "<group>"; };
+		9E09817013F429E4005148D8 /* ProcessInfoCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ProcessInfoCell.m; sourceTree = "<group>"; };
+		9E09817213F42B62005148D8 /* ProcessInfoCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ProcessInfoCell.xib; sourceTree = "<group>"; };
+		9E23EB981424F0BD00EA77B9 /* BatteryInfoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BatteryInfoViewController.m; sourceTree = "<group>"; };
+		9E23EB9A1424F8FB00EA77B9 /* CameraViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CameraViewController.h; sourceTree = "<group>"; };
+		9E23EB9B1424F8FB00EA77B9 /* CameraViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CameraViewController.m; sourceTree = "<group>"; };
+		9E23EB9C1424F8FB00EA77B9 /* CameraViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CameraViewController.xib; sourceTree = "<group>"; };
+		9E5BFD2B13F436A4004F49F3 /* IOPowerSources.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = IOPowerSources.h; path = Apple/IOPowerSources.h; sourceTree = "<group>"; };
+		9E5BFD2C13F436A4004F49F3 /* IOPSKeys.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = IOPSKeys.h; path = Apple/IOPSKeys.h; sourceTree = "<group>"; };
+		9E7083BB14207845005060C6 /* TorchViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TorchViewController.h; sourceTree = "<group>"; };
+		9E7083BC14207845005060C6 /* TorchViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TorchViewController.m; sourceTree = "<group>"; };
+		9E7083BD14207845005060C6 /* TorchViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TorchViewController.xib; sourceTree = "<group>"; };
+		9EDD229E1423A63D00E82DC3 /* battery1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = battery1.png; sourceTree = "<group>"; };
+		9EDD229F1423A63D00E82DC3 /* battery2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = battery2.png; sourceTree = "<group>"; };
+		9EDD22A01423A63D00E82DC3 /* battery3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = battery3.png; sourceTree = "<group>"; };
+		9EDD22A11423A63D00E82DC3 /* battery4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = battery4.png; sourceTree = "<group>"; };
+		9EDD22A21423A63D00E82DC3 /* battery5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = battery5.png; sourceTree = "<group>"; };
+		9EDD22A81423A81F00E82DC3 /* charging01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = charging01.png; sourceTree = "<group>"; };
+		9EDD22A91423A81F00E82DC3 /* charging02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = charging02.png; sourceTree = "<group>"; };
+		9EDD22AA1423A81F00E82DC3 /* charging03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = charging03.png; sourceTree = "<group>"; };
+		9EDD22AB1423A81F00E82DC3 /* charging04.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = charging04.png; sourceTree = "<group>"; };
+		9EDD22AC1423A81F00E82DC3 /* charging05.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = charging05.png; sourceTree = "<group>"; };
+		9EDD22AD1423A81F00E82DC3 /* charging06.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = charging06.png; sourceTree = "<group>"; };
+		9EDD22AE1423A82000E82DC3 /* charging07.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = charging07.png; sourceTree = "<group>"; };
+		9EDD22AF1423A82000E82DC3 /* charging08.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = charging08.png; sourceTree = "<group>"; };
+		9EDD22B01423A82000E82DC3 /* charging09.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = charging09.png; sourceTree = "<group>"; };
+		9EDD22B11423A82000E82DC3 /* charging10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = charging10.png; sourceTree = "<group>"; };
+		9EDD22B21423A82000E82DC3 /* charging11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = charging11.png; sourceTree = "<group>"; };
+		9EDD22B31423A82000E82DC3 /* charging12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = charging12.png; sourceTree = "<group>"; };
+		9EDD22C01423B6FB00E82DC3 /* battery.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = battery.png; sourceTree = "<group>"; };
+		9EF043FD13EEE00B0025204B /* BatteryInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BatteryInfo.h; sourceTree = "<group>"; };
+		9EF043FE13EEE00B0025204B /* BatteryInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BatteryInfo.m; sourceTree = "<group>"; };
+		9EF0440113EEE05C0025204B /* DeviceInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DeviceInfo.h; sourceTree = "<group>"; };
+		9EF0440213EEE05C0025204B /* DeviceInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DeviceInfo.m; sourceTree = "<group>"; };
+		9EF0440413EEE8E60025204B /* StorageInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StorageInfo.h; sourceTree = "<group>"; };
+		9EF0440513EEE8E60025204B /* StorageInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StorageInfo.m; sourceTree = "<group>"; };
+		9EF709D8142080D900A7B51F /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		9EF709DB1420EE4400A7B51F /* GyroscopeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GyroscopeViewController.h; sourceTree = "<group>"; };
+		9EF709DC1420EE4400A7B51F /* GyroscopeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GyroscopeViewController.m; sourceTree = "<group>"; };
+		9EF709DD1420EE4400A7B51F /* GyroscopeViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = GyroscopeViewController.xib; sourceTree = "<group>"; };
+		9EF709E01420EF2500A7B51F /* CoreMotion.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMotion.framework; path = System/Library/Frameworks/CoreMotion.framework; sourceTree = SDKROOT; };
+		9EF709E21420F19700A7B51F /* AccelerometerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AccelerometerViewController.h; sourceTree = "<group>"; };
+		9EF709E31420F19700A7B51F /* AccelerometerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AccelerometerViewController.m; sourceTree = "<group>"; };
+		9EF709E41420F19700A7B51F /* AccelerometerViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AccelerometerViewController.xib; sourceTree = "<group>"; };
+		9EF709F61420FF9700A7B51F /* PieChart.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PieChart.h; sourceTree = "<group>"; };
+		9EF709F71420FF9700A7B51F /* PieChart.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PieChart.m; sourceTree = "<group>"; };
+		9EF709F91421046C00A7B51F /* memBackgroud.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = memBackgroud.png; sourceTree = "<group>"; };
+		9EF730ED1423203400762C8B /* compass.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = compass.png; sourceTree = "<group>"; };
+		9EF730F11423207400762C8B /* CompassViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CompassViewController.h; sourceTree = "<group>"; };
+		9EF730F21423207400762C8B /* CompassViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CompassViewController.m; sourceTree = "<group>"; };
+		9EF730F31423207400762C8B /* CompassViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CompassViewController.xib; sourceTree = "<group>"; };
+		9EF730F6142320F200762C8B /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		BDC9C9291561D37E007FC159 /* README.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = README.rtf; sourceTree = "<group>"; };
+		BDC9C97A1561E5DD007FC159 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		BDC9C97C1561E606007FC159 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		BDC9C9851561E7E6007FC159 /* Icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-72.png"; sourceTree = "<group>"; };
+		BDC9C9861561E7E6007FC159 /* Icon-Small-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small-50.png"; sourceTree = "<group>"; };
+		BDC9C9871561E7E6007FC159 /* Icon-Small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small.png"; sourceTree = "<group>"; };
+		BDC9C9881561E7E6007FC159 /* Icon-Small@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small@2x.png"; sourceTree = "<group>"; };
+		BDC9C9891561E7E6007FC159 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		BDC9C98A1561E7E6007FC159 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
+		BDC9C98B1561E7E6007FC159 /* iTunesArtwork */ = {isa = PBXFileReference; lastKnownFileType = file; path = iTunesArtwork; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3A42CF9513EE49E0002840AB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3AED343B1435767F00815DD0 /* MediaPlayer.framework in Frameworks */,
+				3A42CFA113EE49E0002840AB /* CoreGraphics.framework in Frameworks */,
+				3AE2BF9B1429C41900B8D676 /* QuartzCore.framework in Frameworks */,
+				3A223B191429BDF80042C5F7 /* libCorePlot-CocoaTouch.a in Frameworks */,
+				9EF730F7142320F300762C8B /* CoreLocation.framework in Frameworks */,
+				9EF709E11420EF2500A7B51F /* CoreMotion.framework in Frameworks */,
+				9EF709D9142080D900A7B51F /* AVFoundation.framework in Frameworks */,
+				9E09816813F2DDA4005148D8 /* SystemConfiguration.framework in Frameworks */,
+				3A42CF9D13EE49E0002840AB /* UIKit.framework in Frameworks */,
+				3A42CF9F13EE49E0002840AB /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3A42CF8D13EE49E0002840AB = {
+			isa = PBXGroup;
+			children = (
+				BDC9C9851561E7E6007FC159 /* Icon-72.png */,
+				BDC9C9861561E7E6007FC159 /* Icon-Small-50.png */,
+				BDC9C9871561E7E6007FC159 /* Icon-Small.png */,
+				BDC9C9881561E7E6007FC159 /* Icon-Small@2x.png */,
+				BDC9C9891561E7E6007FC159 /* Icon.png */,
+				BDC9C98A1561E7E6007FC159 /* Icon@2x.png */,
+				BDC9C98B1561E7E6007FC159 /* iTunesArtwork */,
+				BDC9C97C1561E606007FC159 /* Default.png */,
+				BDC9C97A1561E5DD007FC159 /* Default@2x.png */,
+				BDC9C9291561D37E007FC159 /* README.rtf */,
+				3A42CFA213EE49E0002840AB /* myDeviceChecker */,
+				3A42CF9B13EE49E0002840AB /* Frameworks */,
+				3A42CF9913EE49E0002840AB /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		3A42CF9913EE49E0002840AB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3A42CF9813EE49E0002840AB /* myDeviceChecker.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		3A42CF9B13EE49E0002840AB /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				3AED343A1435767F00815DD0 /* MediaPlayer.framework */,
+				3AEC67D01432D458001B0943 /* libIOKit.dylib */,
+				3AE2BF9A1429C41900B8D676 /* QuartzCore.framework */,
+				3A223B181429BDF80042C5F7 /* libCorePlot-CocoaTouch.a */,
+				9EF730F6142320F200762C8B /* CoreLocation.framework */,
+				9EF709E01420EF2500A7B51F /* CoreMotion.framework */,
+				9EF709D8142080D900A7B51F /* AVFoundation.framework */,
+				9E09816713F2DDA4005148D8 /* SystemConfiguration.framework */,
+				3A42CF9C13EE49E0002840AB /* UIKit.framework */,
+				3A42CF9E13EE49E0002840AB /* Foundation.framework */,
+				3A42CFA013EE49E0002840AB /* CoreGraphics.framework */,
+				3A42CFBD13EE49E1002840AB /* SenTestingKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		3A42CFA213EE49E0002840AB /* myDeviceChecker */ = {
+			isa = PBXGroup;
+			children = (
+				3A42CFD913EE4A1C002840AB /* Model */,
+				3A42CFD813EE4A10002840AB /* UI */,
+				3A42CFA313EE49E0002840AB /* Supporting Files */,
+			);
+			name = myDeviceChecker;
+			path = DeviceInfoControl;
+			sourceTree = "<group>";
+		};
+		3A42CFA313EE49E0002840AB /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				3A42CFAB13EE49E0002840AB /* DeviceInfoControlAppDelegate.h */,
+				3A42CFAC13EE49E0002840AB /* DeviceInfoControlAppDelegate.m */,
+				3A42CFAE13EE49E0002840AB /* MainWindow.xib */,
+				3A42CFB113EE49E0002840AB /* MainViewController.h */,
+				3A42CFB213EE49E0002840AB /* MainViewController.m */,
+				3A42CFB413EE49E0002840AB /* MainViewController.xib */,
+				9EF709E71420FDE800A7B51F /* images */,
+				3A42CFA413EE49E0002840AB /* myDeviceChecker-Info.plist */,
+				3A42CFA513EE49E0002840AB /* InfoPlist.strings */,
+				3A42CFA813EE49E0002840AB /* main.m */,
+				3A42CFAA13EE49E0002840AB /* myDeviceChecker-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		3A42CFD613EE49F9002840AB /* DeviceInfo */ = {
+			isa = PBXGroup;
+			children = (
+				3A42CFE713EE5278002840AB /* Storage */,
+				3A42CFE613EE526F002840AB /* Battery */,
+				3A42CFE513EE5263002840AB /* GeneralInfo */,
+				3A42CFE413EE5257002840AB /* Process */,
+				3A42CFE313EE524B002840AB /* Network */,
+				3A42CFDB13EE4BF9002840AB /* Memroy */,
+			);
+			name = DeviceInfo;
+			sourceTree = "<group>";
+		};
+		3A42CFD713EE4A03002840AB /* DeviceControl */ = {
+			isa = PBXGroup;
+			children = (
+				3AAFA68814273694004AF32A /* GPS */,
+				9EF730F01423206100762C8B /* Compass */,
+				9E7083C2142078AE005060C6 /* Camera */,
+				9E7083C11420788A005060C6 /* Accelerometer */,
+				9E7083C01420784B005060C6 /* Gyroscope */,
+				9E7083B914207806005060C6 /* Torch */,
+			);
+			name = DeviceControl;
+			sourceTree = "<group>";
+		};
+		3A42CFD813EE4A10002840AB /* UI */ = {
+			isa = PBXGroup;
+			children = (
+				3A42CFDA13EE4BEB002840AB /* DeviceViewItem.h */,
+				9EF709FB14210E3400A7B51F /* Common */,
+				3A42CFD713EE4A03002840AB /* DeviceControl */,
+				3A42CFD613EE49F9002840AB /* DeviceInfo */,
+			);
+			name = UI;
+			sourceTree = "<group>";
+		};
+		3A42CFD913EE4A1C002840AB /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				9E09816313F2DD22005148D8 /* AppleCode */,
+				3A42D00B13EE6526002840AB /* MemoryInfo.h */,
+				3A42D00C13EE6526002840AB /* MemoryInfo.m */,
+				9EF043FD13EEE00B0025204B /* BatteryInfo.h */,
+				9EF043FE13EEE00B0025204B /* BatteryInfo.m */,
+				9EF0440113EEE05C0025204B /* DeviceInfo.h */,
+				9EF0440213EEE05C0025204B /* DeviceInfo.m */,
+				9EF0440413EEE8E60025204B /* StorageInfo.h */,
+				9EF0440513EEE8E60025204B /* StorageInfo.m */,
+				9E09815B13F2DC09005148D8 /* NetworkInfo.h */,
+				9E09815C13F2DC09005148D8 /* NetworkInfo.m */,
+				9E09816C13F2F311005148D8 /* ProcessInfo.h */,
+				9E09816D13F2F311005148D8 /* ProcessInfo.m */,
+				3AAFA66B142719FD004AF32A /* GPSInfo.h */,
+				3AAFA66C142719FD004AF32A /* GPSInfo.m */,
+				3AED343D14357D4800815DD0 /* CPUInfo.h */,
+				3AED343E14357D4800815DD0 /* CPUInfo.m */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		3A42CFDB13EE4BF9002840AB /* Memroy */ = {
+			isa = PBXGroup;
+			children = (
+				3A42CFDC13EE4C1B002840AB /* MemoryInfoViewController.h */,
+				3A42CFDD13EE4C1B002840AB /* MemoryInfoViewController.m */,
+				3A42CFDE13EE4C1B002840AB /* MemoryInfoViewController.xib */,
+			);
+			name = Memroy;
+			sourceTree = "<group>";
+		};
+		3A42CFE313EE524B002840AB /* Network */ = {
+			isa = PBXGroup;
+			children = (
+				3A42CFE813EE5296002840AB /* NetworkInfoViewController.h */,
+				3A42CFE913EE5296002840AB /* NetworkInfoViewController.m */,
+				3A42CFEA13EE5296002840AB /* NetworkInfoViewController.xib */,
+			);
+			name = Network;
+			sourceTree = "<group>";
+		};
+		3A42CFE413EE5257002840AB /* Process */ = {
+			isa = PBXGroup;
+			children = (
+				3A42D00613EE5390002840AB /* ProcessInfoViewController.h */,
+				3A42D00713EE5390002840AB /* ProcessInfoViewController.m */,
+				3A42D00813EE5390002840AB /* ProcessInfoViewController.xib */,
+				9E09816F13F429E4005148D8 /* ProcessInfoCell.h */,
+				9E09817013F429E4005148D8 /* ProcessInfoCell.m */,
+				9E09817213F42B62005148D8 /* ProcessInfoCell.xib */,
+			);
+			name = Process;
+			sourceTree = "<group>";
+		};
+		3A42CFE513EE5263002840AB /* GeneralInfo */ = {
+			isa = PBXGroup;
+			children = (
+				3A42CFF213EE52B7002840AB /* GeneralInfoViewController.h */,
+				3A42CFF313EE52B7002840AB /* GeneralInfoViewController.m */,
+				3A42CFF413EE52B7002840AB /* GeneralInfoViewController.xib */,
+			);
+			name = GeneralInfo;
+			sourceTree = "<group>";
+		};
+		3A42CFE613EE526F002840AB /* Battery */ = {
+			isa = PBXGroup;
+			children = (
+				3A42CFFC13EE52DF002840AB /* BatteryInfoViewController.h */,
+				9E23EB981424F0BD00EA77B9 /* BatteryInfoViewController.m */,
+				3A42CFFE13EE52DF002840AB /* BatteryInfoViewController.xib */,
+			);
+			name = Battery;
+			sourceTree = "<group>";
+		};
+		3A42CFE713EE5278002840AB /* Storage */ = {
+			isa = PBXGroup;
+			children = (
+				3A42D00113EE52ED002840AB /* StorageInfoViewController.h */,
+				3A42D00213EE52ED002840AB /* StorageInfoViewController.m */,
+				3A42D00313EE52ED002840AB /* StorageInfoViewController.xib */,
+			);
+			name = Storage;
+			sourceTree = "<group>";
+		};
+		3AAFA68814273694004AF32A /* GPS */ = {
+			isa = PBXGroup;
+			children = (
+				3AAFA689142736AD004AF32A /* GpsViewController.h */,
+				3AAFA68A142736AD004AF32A /* GpsViewController.m */,
+			);
+			name = GPS;
+			sourceTree = "<group>";
+		};
+		9E09816313F2DD22005148D8 /* AppleCode */ = {
+			isa = PBXGroup;
+			children = (
+				9E5BFD2B13F436A4004F49F3 /* IOPowerSources.h */,
+				9E5BFD2C13F436A4004F49F3 /* IOPSKeys.h */,
+				9E09816413F2DD6B005148D8 /* Reachability.h */,
+				9E09816513F2DD6B005148D8 /* Reachability.m */,
+			);
+			name = AppleCode;
+			sourceTree = "<group>";
+		};
+		9E7083B914207806005060C6 /* Torch */ = {
+			isa = PBXGroup;
+			children = (
+				9E7083BB14207845005060C6 /* TorchViewController.h */,
+				9E7083BC14207845005060C6 /* TorchViewController.m */,
+				9E7083BD14207845005060C6 /* TorchViewController.xib */,
+			);
+			name = Torch;
+			sourceTree = "<group>";
+		};
+		9E7083C01420784B005060C6 /* Gyroscope */ = {
+			isa = PBXGroup;
+			children = (
+				9EF709DB1420EE4400A7B51F /* GyroscopeViewController.h */,
+				9EF709DC1420EE4400A7B51F /* GyroscopeViewController.m */,
+				9EF709DD1420EE4400A7B51F /* GyroscopeViewController.xib */,
+			);
+			name = Gyroscope;
+			sourceTree = "<group>";
+		};
+		9E7083C11420788A005060C6 /* Accelerometer */ = {
+			isa = PBXGroup;
+			children = (
+				9EF709E21420F19700A7B51F /* AccelerometerViewController.h */,
+				9EF709E31420F19700A7B51F /* AccelerometerViewController.m */,
+				9EF709E41420F19700A7B51F /* AccelerometerViewController.xib */,
+			);
+			name = Accelerometer;
+			sourceTree = "<group>";
+		};
+		9E7083C2142078AE005060C6 /* Camera */ = {
+			isa = PBXGroup;
+			children = (
+				9E23EB9A1424F8FB00EA77B9 /* CameraViewController.h */,
+				9E23EB9B1424F8FB00EA77B9 /* CameraViewController.m */,
+				9E23EB9C1424F8FB00EA77B9 /* CameraViewController.xib */,
+				3AEC67D21432E118001B0943 /* OverlayViewController.h */,
+				3AEC67D31432E118001B0943 /* OverlayViewController.m */,
+				3AEC67D41432E118001B0943 /* OverlayViewController.xib */,
+			);
+			name = Camera;
+			sourceTree = "<group>";
+		};
+		9EF709E71420FDE800A7B51F /* images */ = {
+			isa = PBXGroup;
+			children = (
+				3A42CFE113EE4CFC002840AB /* memory.png */,
+				3AEDD3631435D1600033F1BF /* flashBackground@2x.png */,
+				3AEDD3641435D1600033F1BF /* poweroff@2x.png */,
+				3AEDD3651435D1600033F1BF /* poweron@2x.png */,
+				9EDD22C01423B6FB00E82DC3 /* battery.png */,
+				9EDD22A81423A81F00E82DC3 /* charging01.png */,
+				9EDD22A91423A81F00E82DC3 /* charging02.png */,
+				9EDD22AA1423A81F00E82DC3 /* charging03.png */,
+				9EDD22AB1423A81F00E82DC3 /* charging04.png */,
+				9EDD22AC1423A81F00E82DC3 /* charging05.png */,
+				9EDD22AD1423A81F00E82DC3 /* charging06.png */,
+				9EDD22AE1423A82000E82DC3 /* charging07.png */,
+				9EDD22AF1423A82000E82DC3 /* charging08.png */,
+				9EDD22B01423A82000E82DC3 /* charging09.png */,
+				9EDD22B11423A82000E82DC3 /* charging10.png */,
+				9EDD22B21423A82000E82DC3 /* charging11.png */,
+				9EDD22B31423A82000E82DC3 /* charging12.png */,
+				9EDD229E1423A63D00E82DC3 /* battery1.png */,
+				9EDD229F1423A63D00E82DC3 /* battery2.png */,
+				9EDD22A01423A63D00E82DC3 /* battery3.png */,
+				9EDD22A11423A63D00E82DC3 /* battery4.png */,
+				9EDD22A21423A63D00E82DC3 /* battery5.png */,
+				9EF730ED1423203400762C8B /* compass.png */,
+				9EF709F91421046C00A7B51F /* memBackgroud.png */,
+			);
+			name = images;
+			sourceTree = "<group>";
+		};
+		9EF709FB14210E3400A7B51F /* Common */ = {
+			isa = PBXGroup;
+			children = (
+				9EF709F61420FF9700A7B51F /* PieChart.h */,
+				9EF709F71420FF9700A7B51F /* PieChart.m */,
+			);
+			name = Common;
+			sourceTree = "<group>";
+		};
+		9EF730F01423206100762C8B /* Compass */ = {
+			isa = PBXGroup;
+			children = (
+				9EF730F11423207400762C8B /* CompassViewController.h */,
+				9EF730F21423207400762C8B /* CompassViewController.m */,
+				9EF730F31423207400762C8B /* CompassViewController.xib */,
+			);
+			name = Compass;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3A42CF9713EE49E0002840AB /* myDeviceChecker */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3A42CFD013EE49E1002840AB /* Build configuration list for PBXNativeTarget "myDeviceChecker" */;
+			buildPhases = (
+				3A42CF9413EE49E0002840AB /* Sources */,
+				3A42CF9513EE49E0002840AB /* Frameworks */,
+				3A42CF9613EE49E0002840AB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = myDeviceChecker;
+			productName = DeviceInfoControl;
+			productReference = 3A42CF9813EE49E0002840AB /* myDeviceChecker.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3A42CF8F13EE49E0002840AB /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0430;
+			};
+			buildConfigurationList = 3A42CF9213EE49E0002840AB /* Build configuration list for PBXProject "myDeviceChecker" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 3A42CF8D13EE49E0002840AB;
+			productRefGroup = 3A42CF9913EE49E0002840AB /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3A42CF9713EE49E0002840AB /* myDeviceChecker */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3A42CF9613EE49E0002840AB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3A42CFA713EE49E0002840AB /* InfoPlist.strings in Resources */,
+				3A42CFB013EE49E0002840AB /* MainWindow.xib in Resources */,
+				3A42CFB613EE49E0002840AB /* MainViewController.xib in Resources */,
+				3A42CFE013EE4C1B002840AB /* MemoryInfoViewController.xib in Resources */,
+				3A42CFE213EE4CFC002840AB /* memory.png in Resources */,
+				3A42CFEC13EE5296002840AB /* NetworkInfoViewController.xib in Resources */,
+				3A42CFF613EE52B7002840AB /* GeneralInfoViewController.xib in Resources */,
+				3A42D00013EE52DF002840AB /* BatteryInfoViewController.xib in Resources */,
+				3A42D00513EE52ED002840AB /* StorageInfoViewController.xib in Resources */,
+				3A42D00A13EE5390002840AB /* ProcessInfoViewController.xib in Resources */,
+				9E09817313F42B62005148D8 /* ProcessInfoCell.xib in Resources */,
+				9E7083BF14207845005060C6 /* TorchViewController.xib in Resources */,
+				9EF709DF1420EE4400A7B51F /* GyroscopeViewController.xib in Resources */,
+				9EF709E61420F19700A7B51F /* AccelerometerViewController.xib in Resources */,
+				9EF709FA1421046C00A7B51F /* memBackgroud.png in Resources */,
+				9EF730EE1423203400762C8B /* compass.png in Resources */,
+				9EF730F51423207400762C8B /* CompassViewController.xib in Resources */,
+				9EDD22A31423A63D00E82DC3 /* battery1.png in Resources */,
+				9EDD22A41423A63D00E82DC3 /* battery2.png in Resources */,
+				9EDD22A51423A63D00E82DC3 /* battery3.png in Resources */,
+				9EDD22A61423A63D00E82DC3 /* battery4.png in Resources */,
+				9EDD22A71423A63D00E82DC3 /* battery5.png in Resources */,
+				9EDD22B41423A82100E82DC3 /* charging01.png in Resources */,
+				9EDD22B51423A82100E82DC3 /* charging02.png in Resources */,
+				9EDD22B61423A82100E82DC3 /* charging03.png in Resources */,
+				9EDD22B71423A82100E82DC3 /* charging04.png in Resources */,
+				9EDD22B81423A82100E82DC3 /* charging05.png in Resources */,
+				9EDD22B91423A82100E82DC3 /* charging06.png in Resources */,
+				9EDD22BA1423A82100E82DC3 /* charging07.png in Resources */,
+				9EDD22BB1423A82100E82DC3 /* charging08.png in Resources */,
+				9EDD22BC1423A82100E82DC3 /* charging09.png in Resources */,
+				9EDD22BD1423A82100E82DC3 /* charging10.png in Resources */,
+				9EDD22BE1423A82100E82DC3 /* charging11.png in Resources */,
+				9EDD22BF1423A82100E82DC3 /* charging12.png in Resources */,
+				9EDD22C11423B6FD00E82DC3 /* battery.png in Resources */,
+				9E23EB9E1424F8FB00EA77B9 /* CameraViewController.xib in Resources */,
+				3AEC67D61432E118001B0943 /* OverlayViewController.xib in Resources */,
+				3AEDD3661435D1600033F1BF /* flashBackground@2x.png in Resources */,
+				3AEDD3671435D1600033F1BF /* poweroff@2x.png in Resources */,
+				3AEDD3681435D1600033F1BF /* poweron@2x.png in Resources */,
+				BDC9C92A1561D37E007FC159 /* README.rtf in Resources */,
+				BDC9C97B1561E5DD007FC159 /* Default@2x.png in Resources */,
+				BDC9C97D1561E606007FC159 /* Default.png in Resources */,
+				BDC9C98C1561E7E6007FC159 /* Icon-72.png in Resources */,
+				BDC9C98D1561E7E6007FC159 /* Icon-Small-50.png in Resources */,
+				BDC9C98E1561E7E6007FC159 /* Icon-Small.png in Resources */,
+				BDC9C98F1561E7E6007FC159 /* Icon-Small@2x.png in Resources */,
+				BDC9C9901561E7E6007FC159 /* Icon.png in Resources */,
+				BDC9C9911561E7E6007FC159 /* Icon@2x.png in Resources */,
+				BDC9C9921561E7E6007FC159 /* iTunesArtwork in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3A42CF9413EE49E0002840AB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3A42CFA913EE49E0002840AB /* main.m in Sources */,
+				3A42CFAD13EE49E0002840AB /* DeviceInfoControlAppDelegate.m in Sources */,
+				3A42CFB313EE49E0002840AB /* MainViewController.m in Sources */,
+				3A42CFDF13EE4C1B002840AB /* MemoryInfoViewController.m in Sources */,
+				3A42CFEB13EE5296002840AB /* NetworkInfoViewController.m in Sources */,
+				3A42CFF513EE52B7002840AB /* GeneralInfoViewController.m in Sources */,
+				3A42D00413EE52ED002840AB /* StorageInfoViewController.m in Sources */,
+				3A42D00913EE5390002840AB /* ProcessInfoViewController.m in Sources */,
+				3A42D00D13EE6526002840AB /* MemoryInfo.m in Sources */,
+				9EF043FF13EEE00B0025204B /* BatteryInfo.m in Sources */,
+				9EF0440313EEE05C0025204B /* DeviceInfo.m in Sources */,
+				9EF0440613EEE8E60025204B /* StorageInfo.m in Sources */,
+				9E09815D13F2DC09005148D8 /* NetworkInfo.m in Sources */,
+				9E09816613F2DD6B005148D8 /* Reachability.m in Sources */,
+				9E09816E13F2F311005148D8 /* ProcessInfo.m in Sources */,
+				9E09817113F429E4005148D8 /* ProcessInfoCell.m in Sources */,
+				9E7083BE14207845005060C6 /* TorchViewController.m in Sources */,
+				9EF709DE1420EE4400A7B51F /* GyroscopeViewController.m in Sources */,
+				9EF709E51420F19700A7B51F /* AccelerometerViewController.m in Sources */,
+				9EF709F81420FF9700A7B51F /* PieChart.m in Sources */,
+				9EF730F41423207400762C8B /* CompassViewController.m in Sources */,
+				9E23EB991424F0BE00EA77B9 /* BatteryInfoViewController.m in Sources */,
+				9E23EB9D1424F8FB00EA77B9 /* CameraViewController.m in Sources */,
+				3AAFA66D142719FD004AF32A /* GPSInfo.m in Sources */,
+				3AAFA68B142736AD004AF32A /* GpsViewController.m in Sources */,
+				3AEC67D51432E118001B0943 /* OverlayViewController.m in Sources */,
+				3AED343F14357D4800815DD0 /* CPUInfo.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		3A42CFA513EE49E0002840AB /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3A42CFA613EE49E0002840AB /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		3A42CFAE13EE49E0002840AB /* MainWindow.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3A42CFAF13EE49E0002840AB /* en */,
+			);
+			name = MainWindow.xib;
+			sourceTree = "<group>";
+		};
+		3A42CFB413EE49E0002840AB /* MainViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3A42CFB513EE49E0002840AB /* en */,
+			);
+			name = MainViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		3A42CFCE13EE49E1002840AB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		3A42CFCF13EE49E1002840AB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		3A42CFD113EE49E1002840AB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = (
+					"$(ARCHS_STANDARD_32_BIT)",
+					armv6,
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "DeviceInfoControl/myDeviceChecker-Prefix.pch";
+				GCC_THUMB_SUPPORT = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				HEADER_SEARCH_PATHS = "$(SRCROOT)/vendor/CorePlot_0.4/Binaries/iOS/CorePlotHeaders";
+				INFOPLIST_FILE = "DeviceInfoControl/myDeviceChecker-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
+				LIBRARY_SEARCH_PATHS = "$(SRCROOT)/vendor/CorePlot_0.4/Binaries/iOS";
+				OTHER_LDFLAGS = (
+					"-all_load",
+					"-ObjC",
+				);
+				PRODUCT_NAME = myDeviceChecker;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		3A42CFD213EE49E1002840AB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = (
+					"$(ARCHS_STANDARD_32_BIT)",
+					armv6,
+				);
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "DeviceInfoControl/myDeviceChecker-Prefix.pch";
+				GCC_THUMB_SUPPORT = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				HEADER_SEARCH_PATHS = "$(SRCROOT)/vendor/CorePlot_0.4/Binaries/iOS/CorePlotHeaders";
+				INFOPLIST_FILE = "DeviceInfoControl/myDeviceChecker-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
+				LIBRARY_SEARCH_PATHS = "$(SRCROOT)/vendor/CorePlot_0.4/Binaries/iOS";
+				OTHER_LDFLAGS = (
+					"-all_load",
+					"-ObjC",
+				);
+				PRODUCT_NAME = myDeviceChecker;
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3A42CF9213EE49E0002840AB /* Build configuration list for PBXProject "myDeviceChecker" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3A42CFCE13EE49E1002840AB /* Debug */,
+				3A42CFCF13EE49E1002840AB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3A42CFD013EE49E1002840AB /* Build configuration list for PBXNativeTarget "myDeviceChecker" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3A42CFD113EE49E1002840AB /* Debug */,
+				3A42CFD213EE49E1002840AB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3A42CF8F13EE49E0002840AB /* Project object */;
+}

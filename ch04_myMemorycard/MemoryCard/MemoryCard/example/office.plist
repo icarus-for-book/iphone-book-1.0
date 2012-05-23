@@ -1,0 +1,2629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>books</key>
+	<array>
+		<dict>
+			<key>groups</key>
+			<array>
+				<dict>
+					<key>title</key>
+					<string>네트워크</string>
+					<key>words</key>
+					<array>
+						<dict>
+							<key>example</key>
+							<string>He went on another expedition in order to gain information.</string>
+							<key>level</key>
+							<integer>4</integer>
+							<key>meanning</key>
+							<string>정보</string>
+							<key>pronunciation</key>
+							<string>[`ynfərm'eyshən]</string>
+							<key>spelling</key>
+							<string>information</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The soup needs to be boiled over medium heat to prevent burning.</string>
+							<key>level</key>
+							<integer>1</integer>
+							<key>meanning</key>
+							<string>중간의</string>
+							<key>pronunciation</key>
+							<string>[m'eedyəm]</string>
+							<key>spelling</key>
+							<string>medium</string>
+							<key>wordclass</key>
+							<string>adj.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>All outgoing calls must be made with the appropriate area code.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>외부 전화</string>
+							<key>pronunciation</key>
+							<string></string>
+							<key>spelling</key>
+							<string>outgoing call</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>You should attach a photo on your resume.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>붙이다</string>
+							<key>pronunciation</key>
+							<string>[ət'ach]</string>
+							<key>spelling</key>
+							<string>attach</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>I couldn't hear the call signal when I made a call from a rural area.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>호출 신호</string>
+							<key>pronunciation</key>
+							<string></string>
+							<key>spelling</key>
+							<string>call signal</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The pay phone in the phone booth began to ring.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>공중 전화 박스</string>
+							<key>pronunciation</key>
+							<string></string>
+							<key>spelling</key>
+							<string>phone booth</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>She got engaged to him a couple of months ago.</string>
+							<key>level</key>
+							<integer>5</integer>
+							<key>meanning</key>
+							<string>약혼한</string>
+							<key>pronunciation</key>
+							<string>[eng'eyjd]</string>
+							<key>spelling</key>
+							<string>engaged</string>
+							<key>wordclass</key>
+							<string>adj.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>I cannot make external calls on this phone, but I can receive them.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>외부 전화</string>
+							<key>pronunciation</key>
+							<string></string>
+							<key>spelling</key>
+							<string>external call</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>I got an incoming call from my mother at 10 o' clock in the morning.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>외래 전화</string>
+							<key>pronunciation</key>
+							<string></string>
+							<key>spelling</key>
+							<string>incoming call</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Internal calls between departments are free of charge.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>내부 전화</string>
+							<key>pronunciation</key>
+							<string></string>
+							<key>spelling</key>
+							<string>internal call</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The secretary misheard her boss and canceled the afternoon meeting.</string>
+							<key>level</key>
+							<integer>10</integer>
+							<key>meanning</key>
+							<string>잘못 듣다</string>
+							<key>pronunciation</key>
+							<string>[m`ysh'yər]</string>
+							<key>spelling</key>
+							<string>mishear</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The call could not be traced because it came from a pay phone.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>공중 전화</string>
+							<key>pronunciation</key>
+							<string></string>
+							<key>spelling</key>
+							<string>pay phone</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>I found his home phone number in the phone book.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>전화번호부</string>
+							<key>pronunciation</key>
+							<string></string>
+							<key>spelling</key>
+							<string>phone book</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Prank calls to 911 will be punished by law.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>장난 전화</string>
+							<key>pronunciation</key>
+							<string></string>
+							<key>spelling</key>
+							<string>prank call</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The average telephone rate was 25 dollars per month.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>전화요금</string>
+							<key>pronunciation</key>
+							<string></string>
+							<key>spelling</key>
+							<string>telephone rate</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>She tried calling the restaurant but had the wrong number</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>잘못 건 전화</string>
+							<key>pronunciation</key>
+							<string></string>
+							<key>spelling</key>
+							<string>wrong number</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Her argument does not correspond with her previous report.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>일치하다, 해당하다</string>
+							<key>pronunciation</key>
+							<string>[k`awrəsp'and]</string>
+							<key>spelling</key>
+							<string>correspond</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The conference room is available today.</string>
+							<key>level</key>
+							<integer>2</integer>
+							<key>meanning</key>
+							<string>이용할 수 있는</string>
+							<key>pronunciation</key>
+							<string>[əv'eyləbl]</string>
+							<key>spelling</key>
+							<string>available</string>
+							<key>wordclass</key>
+							<string>adj.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>He abruptly canceled the appointment.</string>
+							<key>level</key>
+							<integer>2</integer>
+							<key>meanning</key>
+							<string>취소하다</string>
+							<key>pronunciation</key>
+							<string>[k'ansl]</string>
+							<key>spelling</key>
+							<string>cancel</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>It is crucial for managers to communicate with the workers.</string>
+							<key>level</key>
+							<integer>2</integer>
+							<key>meanning</key>
+							<string>소통하다, 전달하다</string>
+							<key>pronunciation</key>
+							<string>[kəmy'oonək`eyt]</string>
+							<key>spelling</key>
+							<string>communicate</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>He has lost contact with his family after the great earthquake.</string>
+							<key>level</key>
+							<integer>2</integer>
+							<key>meanning</key>
+							<string>접촉</string>
+							<key>pronunciation</key>
+							<string>[k'əntakt]</string>
+							<key>spelling</key>
+							<string>contact</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The excerpt conveys the author's outlook on life.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>운반하다</string>
+							<key>pronunciation</key>
+							<string>[kənv'ey]</string>
+							<key>spelling</key>
+							<string>convey</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Reinforcement troops were dispatched to the area.</string>
+							<key>level</key>
+							<integer>11</integer>
+							<key>meanning</key>
+							<string>급송하다, 급히 해치우다</string>
+							<key>pronunciation</key>
+							<string>[dysp'ach]</string>
+							<key>spelling</key>
+							<string>dispatch</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The panels decide separate cases to expedite the processing of appeals.</string>
+							<key>level</key>
+							<integer>13</integer>
+							<key>meanning</key>
+							<string>촉진하다</string>
+							<key>pronunciation</key>
+							<string>['ekspəd`ahyt]</string>
+							<key>spelling</key>
+							<string>expedite</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>She likes to express her opinions in class.</string>
+							<key>level</key>
+							<integer>2</integer>
+							<key>meanning</key>
+							<string>표현하다</string>
+							<key>pronunciation</key>
+							<string>[ykspr'es]</string>
+							<key>spelling</key>
+							<string>express</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>문서작업</string>
+					<key>words</key>
+					<array>
+						<dict>
+							<key>example</key>
+							<string>You should align the students before the headmaster enters the room.</string>
+							<key>level</key>
+							<integer>6</integer>
+							<key>meanning</key>
+							<string>일렬로 세우다</string>
+							<key>pronunciation</key>
+							<string>[əl'ahyn]</string>
+							<key>spelling</key>
+							<string>align</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Classified information from the CIA was anonymously released.</string>
+							<key>level</key>
+							<integer>9</integer>
+							<key>meanning</key>
+							<string>분류된, 기밀의</string>
+							<key>pronunciation</key>
+							<string>[kl'asəf`ahyd]</string>
+							<key>spelling</key>
+							<string>classified</string>
+							<key>wordclass</key>
+							<string>adj.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The author compiled his articles into a book.</string>
+							<key>level</key>
+							<integer>7</integer>
+							<key>meanning</key>
+							<string>(자료를) 엮다, 수집하다</string>
+							<key>pronunciation</key>
+							<string>[kəmp'ahyl]</string>
+							<key>spelling</key>
+							<string>compile</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>This file is confidential, so do not open it.</string>
+							<key>level</key>
+							<integer>8</integer>
+							<key>meanning</key>
+							<string>기밀의</string>
+							<key>pronunciation</key>
+							<string>[k`anfəd'enshəl]</string>
+							<key>spelling</key>
+							<string>confidential</string>
+							<key>wordclass</key>
+							<string>adj.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The teacher drew a diagram on the blackboard.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>도식</string>
+							<key>pronunciation</key>
+							<string>[d'ahyəgr`am]</string>
+							<key>spelling</key>
+							<string>diagram</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>I want you to dictate the following monologue.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>받아쓰게하다</string>
+							<key>pronunciation</key>
+							<string>[d'ykteyt]</string>
+							<key>spelling</key>
+							<string>dictate</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>These documents are classified, so don’t make any copies.</string>
+							<key>level</key>
+							<integer>2</integer>
+							<key>meanning</key>
+							<string>문서</string>
+							<key>pronunciation</key>
+							<string>[d'akyoomənt]</string>
+							<key>spelling</key>
+							<string>document</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The report is due next week, but I still haven’t finished my first draft.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>초안</string>
+							<key>pronunciation</key>
+							<string>[draft]</string>
+							<key>spelling</key>
+							<string>draft</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>He made a duplicate copy of his birth certificate.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>복제의</string>
+							<key>pronunciation</key>
+							<string>[dy'oopləkyt]</string>
+							<key>spelling</key>
+							<string>duplicate</string>
+							<key>wordclass</key>
+							<string>adj.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>He diligently took notes during the lecture, marking the important points with a red pen.</string>
+							<key>level</key>
+							<integer>1</integer>
+							<key>meanning</key>
+							<string>(짧은) 기록</string>
+							<key>pronunciation</key>
+							<string>[noht]</string>
+							<key>spelling</key>
+							<string>note</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Did you notice his new girlfriend?</string>
+							<key>level</key>
+							<integer>2</integer>
+							<key>meanning</key>
+							<string>인지하다</string>
+							<key>pronunciation</key>
+							<string>[n'ohtys]</string>
+							<key>spelling</key>
+							<string>notice</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The plan was revised, but it did not change so much from the original.</string>
+							<key>level</key>
+							<integer>4</integer>
+							<key>meanning</key>
+							<string>최초의</string>
+							<key>pronunciation</key>
+							<string>[ər'yjənəl]</string>
+							<key>spelling</key>
+							<string>original</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Prior to the meeting, the members were given an overview of the project.</string>
+							<key>level</key>
+							<integer>7</integer>
+							<key>meanning</key>
+							<string>개관</string>
+							<key>pronunciation</key>
+							<string>['ohvərvy`oo]</string>
+							<key>spelling</key>
+							<string>overview</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>I have a pile of paperwork to do, so I won’t be able to make it to the party tonight.</string>
+							<key>level</key>
+							<integer>7</integer>
+							<key>meanning</key>
+							<string>서류 작업</string>
+							<key>pronunciation</key>
+							<string>[p'eypərw`ə:rk]</string>
+							<key>spelling</key>
+							<string>paperwork</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Please do not forget to register for the special seminar by tomorrow.</string>
+							<key>level</key>
+							<integer>7</integer>
+							<key>meanning</key>
+							<string>등록하다</string>
+							<key>pronunciation</key>
+							<string>[r'ejystər]</string>
+							<key>spelling</key>
+							<string>register</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>She is very sensitive about her appearance.</string>
+							<key>level</key>
+							<integer>6</integer>
+							<key>meanning</key>
+							<string>예민한</string>
+							<key>pronunciation</key>
+							<string>[s'ensətyv]</string>
+							<key>spelling</key>
+							<string>sensitive</string>
+							<key>wordclass</key>
+							<string>adj.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>It is stipulated that the applicants should have experience.</string>
+							<key>level</key>
+							<integer>12</integer>
+							<key>meanning</key>
+							<string>규정하다</string>
+							<key>pronunciation</key>
+							<string>[st'ypyəl`eyt]</string>
+							<key>spelling</key>
+							<string>stipulate</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>She scribbled some numbers on the piece of paper.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>종이</string>
+							<key>pronunciation</key>
+							<string>[p'eypər]</string>
+							<key>spelling</key>
+							<string>paper</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>No one could read his scrawl.</string>
+							<key>level</key>
+							<integer>7</integer>
+							<key>meanning</key>
+							<string>휘갈겨 쓴 글씨</string>
+							<key>pronunciation</key>
+							<string>[skr'awl]</string>
+							<key>spelling</key>
+							<string>scrawl</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>This cream contains 15% of real aloe extract.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>추출하다</string>
+							<key>pronunciation</key>
+							<string>[ykstr'akt]</string>
+							<key>spelling</key>
+							<string>extract</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>사무실</string>
+					<key>words</key>
+					<array>
+						<dict>
+							<key>example</key>
+							<string>We were accountable for the failure of the system.</string>
+							<key>level</key>
+							<integer>9</integer>
+							<key>meanning</key>
+							<string>책임 있는</string>
+							<key>pronunciation</key>
+							<string>[ək'ountəbəl]</string>
+							<key>spelling</key>
+							<string>accountable</string>
+							<key>wordclass</key>
+							<string>adj.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The auxiliary electric motor helps the water flow into the pipe.</string>
+							<key>level</key>
+							<integer>15</integer>
+							<key>meanning</key>
+							<string>보조의</string>
+							<key>pronunciation</key>
+							<string>[awgz'ylyəry]</string>
+							<key>spelling</key>
+							<string>auxiliary</string>
+							<key>wordclass</key>
+							<string>adj.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The companies took a collaborative approach.</string>
+							<key>level</key>
+							<integer>9</integer>
+							<key>meanning</key>
+							<string>협력적인, 공동의</string>
+							<key>pronunciation</key>
+							<string>[kəl'abər`eytyv]</string>
+							<key>spelling</key>
+							<string>collaborative</string>
+							<key>wordclass</key>
+							<string>adj.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Chicken and coleslaw is a popular combination platter at this restaurant.</string>
+							<key>level</key>
+							<integer>5</integer>
+							<key>meanning</key>
+							<string>결합</string>
+							<key>pronunciation</key>
+							<string>[k`ambən'eyshən]</string>
+							<key>spelling</key>
+							<string>combination</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The colonel commanded the platoon to open fire.</string>
+							<key>level</key>
+							<integer>3</integer>
+							<key>meanning</key>
+							<string>명령하다</string>
+							<key>pronunciation</key>
+							<string>[kəm'and]</string>
+							<key>spelling</key>
+							<string>command</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Managing a company isn't an easy job for an individual.</string>
+							<key>level</key>
+							<integer>2</integer>
+							<key>meanning</key>
+							<string>회사</string>
+							<key>pronunciation</key>
+							<string>[k'əmpəny]</string>
+							<key>spelling</key>
+							<string>company</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>We put our luggage in the overhead compartment on the plane.</string>
+							<key>level</key>
+							<integer>7</integer>
+							<key>meanning</key>
+							<string>구획, 칸막이</string>
+							<key>pronunciation</key>
+							<string>[kəmp'ahrtmənt]</string>
+							<key>spelling</key>
+							<string>compartment</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The competition ended the ten year friendship.</string>
+							<key>level</key>
+							<integer>3</integer>
+							<key>meanning</key>
+							<string>경쟁</string>
+							<key>pronunciation</key>
+							<string>[k`ampət'yshən]</string>
+							<key>spelling</key>
+							<string>competition</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Thanks to his constructive advice, I was able to make the right decisions.</string>
+							<key>level</key>
+							<integer>6</integer>
+							<key>meanning</key>
+							<string>건설적인</string>
+							<key>pronunciation</key>
+							<string>[kənstr'əktyv]</string>
+							<key>spelling</key>
+							<string>constructive</string>
+							<key>wordclass</key>
+							<string>adj.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>We placed a lamp at the corner of the room.</string>
+							<key>level</key>
+							<integer>1</integer>
+							<key>meanning</key>
+							<string>모퉁이</string>
+							<key>pronunciation</key>
+							<string>[k'awrnər]</string>
+							<key>spelling</key>
+							<string>corner</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>She works as a courier at the national heritage site.</string>
+							<key>level</key>
+							<integer>15</integer>
+							<key>meanning</key>
+							<string>안내원</string>
+							<key>pronunciation</key>
+							<string>[k'ooryər]</string>
+							<key>spelling</key>
+							<string>courier</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>I am sick and tired of working in this cubicle.</string>
+							<key>level</key>
+							<integer>8</integer>
+							<key>meanning</key>
+							<string>작은 방, 공간</string>
+							<key>pronunciation</key>
+							<string>[ky'oobykl]</string>
+							<key>spelling</key>
+							<string>cubicle</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The president’s proposition lacked persuasiveness, and failed to pass Congress.</string>
+							<key>level</key>
+							<integer>9</integer>
+							<key>meanning</key>
+							<string>제안</string>
+							<key>pronunciation</key>
+							<string>[pr`apəz'yshən]</string>
+							<key>spelling</key>
+							<string>proposition</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>A secretary was employed to keep the schedule organized.</string>
+							<key>level</key>
+							<integer>3</integer>
+							<key>meanning</key>
+							<string>고용하다</string>
+							<key>pronunciation</key>
+							<string>[empl'oy]</string>
+							<key>spelling</key>
+							<string>employ</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>I guess the evaluation of his ability was underestimated.</string>
+							<key>level</key>
+							<integer>6</integer>
+							<key>meanning</key>
+							<string>평가</string>
+							<key>pronunciation</key>
+							<string>[yv`alyoo'eyshən]</string>
+							<key>spelling</key>
+							<string>evaluation</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The masculine man had neat handwriting just like a girl.</string>
+							<key>level</key>
+							<integer>1</integer>
+							<key>meanning</key>
+							<string>깔끔한</string>
+							<key>pronunciation</key>
+							<string>[neet]</string>
+							<key>spelling</key>
+							<string>neat</string>
+							<key>wordclass</key>
+							<string>adj.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>We should notify their parents now.</string>
+							<key>level</key>
+							<integer>6</integer>
+							<key>meanning</key>
+							<string>통지하다</string>
+							<key>pronunciation</key>
+							<string>[n'ohtəf`ahy]</string>
+							<key>spelling</key>
+							<string>notify</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The children walked in an orderly manner.</string>
+							<key>level</key>
+							<integer>4</integer>
+							<key>meanning</key>
+							<string>정돈된</string>
+							<key>pronunciation</key>
+							<string>['awrdərly]</string>
+							<key>spelling</key>
+							<string>orderly</string>
+							<key>wordclass</key>
+							<string>adj.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The children will need someone to oversee their work.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>감독하다</string>
+							<key>pronunciation</key>
+							<string>[`ohvərs'ee]</string>
+							<key>spelling</key>
+							<string>oversee</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The wardrobe acts as a partition.</string>
+							<key>level</key>
+							<integer>9</integer>
+							<key>meanning</key>
+							<string>분할, 칸막이</string>
+							<key>pronunciation</key>
+							<string>[pahrt'yshən]</string>
+							<key>spelling</key>
+							<string>partition</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The scientist gathered his team for the new space project.</string>
+							<key>level</key>
+							<integer>1</integer>
+							<key>meanning</key>
+							<string>계획안, 프로젝트</string>
+							<key>pronunciation</key>
+							<string>[prəj'ekt]</string>
+							<key>spelling</key>
+							<string>project</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>She kept her tennis racket in her locker, instead of carrying it to classes.</string>
+							<key>level</key>
+							<integer>2</integer>
+							<key>meanning</key>
+							<string>사물함</string>
+							<key>pronunciation</key>
+							<string>[l'akər]</string>
+							<key>spelling</key>
+							<string>locker</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>I hung fresh towels on the rack.</string>
+							<key>level</key>
+							<integer>9</integer>
+							<key>meanning</key>
+							<string>(모자 등의) 걸이</string>
+							<key>pronunciation</key>
+							<string>[rak]</string>
+							<key>spelling</key>
+							<string>rack</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Please refer to the company website for more information.</string>
+							<key>level</key>
+							<integer>6</integer>
+							<key>meanning</key>
+							<string>알아보도록 하다</string>
+							<key>pronunciation</key>
+							<string>[ryf'ə:r]</string>
+							<key>spelling</key>
+							<string>refer</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>We relaxed on the beach, listening to the soothing sound of the waves.</string>
+							<key>level</key>
+							<integer>1</integer>
+							<key>meanning</key>
+							<string>(긴장, 힘 등을) 늦추다</string>
+							<key>pronunciation</key>
+							<string>[ryl'aks]</string>
+							<key>spelling</key>
+							<string>relax</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>We sat in the shade, under the giant willow tree.</string>
+							<key>level</key>
+							<integer>4</integer>
+							<key>meanning</key>
+							<string>그늘</string>
+							<key>pronunciation</key>
+							<string>[sheyed]</string>
+							<key>spelling</key>
+							<string>shade</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The angry man tore letter into shreds.</string>
+							<key>level</key>
+							<integer>9</integer>
+							<key>meanning</key>
+							<string>조각</string>
+							<key>pronunciation</key>
+							<string>[shred]</string>
+							<key>spelling</key>
+							<string>shred</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>I went to a stationery store to buy paper.</string>
+							<key>level</key>
+							<integer>9</integer>
+							<key>meanning</key>
+							<string>문방구</string>
+							<key>pronunciation</key>
+							<string>[st'eyshən`ery]</string>
+							<key>spelling</key>
+							<string>stationery</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Do you happen to know who the caller was?</string>
+							<key>level</key>
+							<integer>4</integer>
+							<key>meanning</key>
+							<string>전화한 사람</string>
+							<key>pronunciation</key>
+							<string>[k'awlər]</string>
+							<key>spelling</key>
+							<string>caller</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Most clubs have a coat rack where you can check-in your coats.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>코트 걸이</string>
+							<key>pronunciation</key>
+							<string></string>
+							<key>spelling</key>
+							<string>coat rack</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>She was a copier of Beethoven’s work.</string>
+							<key>level</key>
+							<integer>3</integer>
+							<key>meanning</key>
+							<string>모방자</string>
+							<key>pronunciation</key>
+							<string>[k'apyər]</string>
+							<key>spelling</key>
+							<string>copier</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>I used the fax machine to send some documents to our office in India.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>팩스 기계</string>
+							<key>pronunciation</key>
+							<string></string>
+							<key>spelling</key>
+							<string>fax machine</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>We have a number of file cabinets full of patient records.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>파일 수납장</string>
+							<key>pronunciation</key>
+							<string></string>
+							<key>spelling</key>
+							<string>file cabinet</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The printer ran out of ink, and I had to replace the ink cartridge.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>잉크 카트리지</string>
+							<key>pronunciation</key>
+							<string></string>
+							<key>spelling</key>
+							<string>ink cartridge</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>We need more office supplies at the new office.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>사무용품</string>
+							<key>pronunciation</key>
+							<string></string>
+							<key>spelling</key>
+							<string>office supplies</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The printer was caught in a paper jam.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>종이 따위의 막힘</string>
+							<key>pronunciation</key>
+							<string></string>
+							<key>spelling</key>
+							<string>paper jam</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>I made a photocopy of the handouts for a friend who was absent.</string>
+							<key>level</key>
+							<integer>3</integer>
+							<key>meanning</key>
+							<string>복사본</string>
+							<key>pronunciation</key>
+							<string>[f'ohtohk`apy]</string>
+							<key>spelling</key>
+							<string>photocopy</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>I emptied the overflowing wastebasket.</string>
+							<key>level</key>
+							<integer>3</integer>
+							<key>meanning</key>
+							<string>쓰레기통</string>
+							<key>pronunciation</key>
+							<string>[w'eystb`askyt]</string>
+							<key>spelling</key>
+							<string>wastebasket</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>If the pain continues, consult your doctor.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>상담하다</string>
+							<key>pronunciation</key>
+							<string>[kəns'əlt]</string>
+							<key>spelling</key>
+							<string>consult</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>I run errands for my mother on weekends.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>심부름</string>
+							<key>pronunciation</key>
+							<string>['erənd]</string>
+							<key>spelling</key>
+							<string>errand</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The old interoffice message system was slow and inefficient.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>부국간의</string>
+							<key>pronunciation</key>
+							<string>[`yntər'awfys]</string>
+							<key>spelling</key>
+							<string>interoffice</string>
+							<key>wordclass</key>
+							<string>adj.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>I use a cellphone as my portable reminder.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>생각나게 하는 것</string>
+							<key>pronunciation</key>
+							<string>[rym'ahyndər]</string>
+							<key>spelling</key>
+							<string>reminder</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Replenish yourself with food and water before going outside again.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>다시 채우다</string>
+							<key>pronunciation</key>
+							<string>[rypl'enysh]</string>
+							<key>spelling</key>
+							<string>replenish</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The products were uniform in size, shape, and color.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>일정한</string>
+							<key>pronunciation</key>
+							<string>[y'oonyfawrm]</string>
+							<key>spelling</key>
+							<string>uniform</string>
+							<key>wordclass</key>
+							<string>adj.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>We had to put the blinds down the window because it was hard to see the slide show presentation with all the sunlight.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>(창문에 치는) 블라인드</string>
+							<key>pronunciation</key>
+							<string>[bl'ahynd]</string>
+							<key>spelling</key>
+							<string>blind</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>컴퓨터</string>
+					<key>words</key>
+					<array>
+						<dict>
+							<key>example</key>
+							<string>The detectives gained access to the suspect’s house.</string>
+							<key>level</key>
+							<integer>2</integer>
+							<key>meanning</key>
+							<string>접근, 출입</string>
+							<key>pronunciation</key>
+							<string>['akses]</string>
+							<key>spelling</key>
+							<string>access</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Once you have filled out the application form, you can hand it in.</string>
+							<key>level</key>
+							<integer>6</integer>
+							<key>meanning</key>
+							<string>신청, 원서</string>
+							<key>pronunciation</key>
+							<string>[`aplyk'eyshən]</string>
+							<key>spelling</key>
+							<string>application</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The bar was decorated with an array of various beer bottles.</string>
+							<key>level</key>
+							<integer>6</integer>
+							<key>meanning</key>
+							<string>정렬, 무리</string>
+							<key>pronunciation</key>
+							<string>[ər'ey]</string>
+							<key>spelling</key>
+							<string>array</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>I have attached my cover letter to my resume.</string>
+							<key>level</key>
+							<integer>2</integer>
+							<key>meanning</key>
+							<string>접착하다, 첨부하다</string>
+							<key>pronunciation</key>
+							<string>[ət'ach]</string>
+							<key>spelling</key>
+							<string>attach</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The maximum capacity for this hall is about 300 people.</string>
+							<key>level</key>
+							<integer>3</integer>
+							<key>meanning</key>
+							<string>수용력, 역량</string>
+							<key>pronunciation</key>
+							<string>[kəp'asəty]</string>
+							<key>spelling</key>
+							<string>capacity</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>This software is not compatible with my PC.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>양립할 수 있는</string>
+							<key>pronunciation</key>
+							<string>[kəmp'atəbl]</string>
+							<key>spelling</key>
+							<string>compatible</string>
+							<key>wordclass</key>
+							<string>adj.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The shopkeeper displayed the spring line of products.</string>
+							<key>level</key>
+							<integer>2</integer>
+							<key>meanning</key>
+							<string>보이다</string>
+							<key>pronunciation</key>
+							<string>[dyspl'ey]</string>
+							<key>spelling</key>
+							<string>display</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Such policy is inapplicable to the public domain.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>영토, 범위</string>
+							<key>pronunciation</key>
+							<string>[dohm'eyn]</string>
+							<key>spelling</key>
+							<string>domain</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>My uncle drives a SUV.</string>
+							<key>level</key>
+							<integer>1</integer>
+							<key>meanning</key>
+							<string>운전하다</string>
+							<key>pronunciation</key>
+							<string>[drahyv]</string>
+							<key>spelling</key>
+							<string>drive</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>I inserted a coin into the vending machine to get a coke.</string>
+							<key>level</key>
+							<integer>5</integer>
+							<key>meanning</key>
+							<string>삽입하다</string>
+							<key>pronunciation</key>
+							<string>[yns'ə:rt]</string>
+							<key>spelling</key>
+							<string>insert</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>I called a technician to install the computer for me.</string>
+							<key>level</key>
+							<integer>4</integer>
+							<key>meanning</key>
+							<string>설치하다</string>
+							<key>pronunciation</key>
+							<string>[ynst'awl]</string>
+							<key>spelling</key>
+							<string>install</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The railway runs parallel to the national highway.</string>
+							<key>level</key>
+							<integer>7</integer>
+							<key>meanning</key>
+							<string>평행의</string>
+							<key>pronunciation</key>
+							<string>[p'arəl`el]</string>
+							<key>spelling</key>
+							<string>parallel</string>
+							<key>wordclass</key>
+							<string>adj.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Move the cursor upward just a little bit.</string>
+							<key>level</key>
+							<integer>9</integer>
+							<key>meanning</key>
+							<string>커서</string>
+							<key>pronunciation</key>
+							<string>[k'ə:rsər]</string>
+							<key>spelling</key>
+							<string>cursor</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>My eyes were tired from staring at the computer screen all day long.</string>
+							<key>level</key>
+							<integer>3</integer>
+							<key>meanning</key>
+							<string>화면</string>
+							<key>pronunciation</key>
+							<string>[skreen]</string>
+							<key>spelling</key>
+							<string>screen</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Use the wheel on the mouse to scroll through long documents.</string>
+							<key>level</key>
+							<integer>9</integer>
+							<key>meanning</key>
+							<string>(컴퓨터마우스를) 스크롤하다</string>
+							<key>pronunciation</key>
+							<string>[skrohl]</string>
+							<key>spelling</key>
+							<string>scroll</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Electric power transmission is about 95 percent efficient.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>전달, 전파</string>
+							<key>pronunciation</key>
+							<string>[transm'yshən]</string>
+							<key>spelling</key>
+							<string>transmission</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The news was transmitted all over the world.</string>
+							<key>level</key>
+							<integer>8</integer>
+							<key>meanning</key>
+							<string>전달하다, 전파시키다</string>
+							<key>pronunciation</key>
+							<string>[transm'yt]</string>
+							<key>spelling</key>
+							<string>transmit</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>I will gladly send you an audio tape.</string>
+							<key>level</key>
+							<integer>4</integer>
+							<key>meanning</key>
+							<string>녹음의</string>
+							<key>pronunciation</key>
+							<string>['awdy`oh]</string>
+							<key>spelling</key>
+							<string>audio</string>
+							<key>wordclass</key>
+							<string>adj.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Computer crimes are becoming a serious issue as the technology develops.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>컴퓨터 범죄</string>
+							<key>pronunciation</key>
+							<string></string>
+							<key>spelling</key>
+							<string>computer crime</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Most computer viruses can be treated with the corresponding computer vaccine.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>컴퓨터 백신</string>
+							<key>pronunciation</key>
+							<string></string>
+							<key>spelling</key>
+							<string>computer vaccine</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The computer virus caused my computer to crash.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>컴퓨터 바이러스</string>
+							<key>pronunciation</key>
+							<string></string>
+							<key>spelling</key>
+							<string>computer virus</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>With the rise of the smart phone era, has the personal computer era come to an end?</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>개인용 컴퓨터</string>
+							<key>pronunciation</key>
+							<string></string>
+							<key>spelling</key>
+							<string>personal computer</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>It took me awhile to decode this encrypted letter.</string>
+							<key>level</key>
+							<integer>9</integer>
+							<key>meanning</key>
+							<string>해독하다</string>
+							<key>pronunciation</key>
+							<string>[deek'ohd]</string>
+							<key>spelling</key>
+							<string>decode</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>I no longer write letters but send e-mails to keep in touch with my family.</string>
+							<key>level</key>
+							<integer>1</integer>
+							<key>meanning</key>
+							<string>전자 우편</string>
+							<key>pronunciation</key>
+							<string>['eemeyl]</string>
+							<key>spelling</key>
+							<string>email</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The documents were encoded into special ciphers to protect classified information.</string>
+							<key>level</key>
+							<integer>9</integer>
+							<key>meanning</key>
+							<string>암호화하다</string>
+							<key>pronunciation</key>
+							<string>[enk'ohd]</string>
+							<key>spelling</key>
+							<string>encode</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Ethernet is a common type of local area network, or LAN.</string>
+							<key>level</key>
+							<integer>16</integer>
+							<key>meanning</key>
+							<string>근거리 통신망의 프로토콜</string>
+							<key>pronunciation</key>
+							<string>['eethərn`et]</string>
+							<key>spelling</key>
+							<string>ethernet</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Check the FAQ section before calling the company hotline.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>자주 묻는 질문</string>
+							<key>pronunciation</key>
+							<string></string>
+							<key>spelling</key>
+							<string>FAQ</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The report must be written in a certain type of font set by the professor.</string>
+							<key>level</key>
+							<integer>3</integer>
+							<key>meanning</key>
+							<string>폰트</string>
+							<key>pronunciation</key>
+							<string>[fant]</string>
+							<key>spelling</key>
+							<string>font</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>I've posted a very short animated gif in the folder.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>그래픽 인터체인지 포맷</string>
+							<key>pronunciation</key>
+							<string></string>
+							<key>spelling</key>
+							<string>GIF</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>They didn't even initialize the project until the second quarter.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>초기화하다</string>
+							<key>pronunciation</key>
+							<string>[yn'yshəl`ahyz]</string>
+							<key>spelling</key>
+							<string>initialize</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>An interactive relationship will encourage both workers and managers.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>서로 작용하는</string>
+							<key>pronunciation</key>
+							<string>[`yntər'aktyv]</string>
+							<key>spelling</key>
+							<string>interactive</string>
+							<key>wordclass</key>
+							<string>adj.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>With the development of the telecommunication technology, many people have fallen victim to Internet addiction.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>인터넷 중독</string>
+							<key>pronunciation</key>
+							<string></string>
+							<key>spelling</key>
+							<string>internet addiction</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Too many users sharing the same local area network has slowed the Internet connection.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>근거리 통신망</string>
+							<key>pronunciation</key>
+							<string></string>
+							<key>spelling</key>
+							<string>local area network</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Our company went under restructuring along with an introduction of a new operating system.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>운영 체제</string>
+							<key>pronunciation</key>
+							<string></string>
+							<key>spelling</key>
+							<string>operating system</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Spam is filtered out and put into a separate folder in the mailbox.</string>
+							<key>level</key>
+							<integer>6</integer>
+							<key>meanning</key>
+							<string>스팸 메일</string>
+							<key>pronunciation</key>
+							<string>[spam]</string>
+							<key>spelling</key>
+							<string>spam</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Make sure to put all the data onto a single spreadsheet.</string>
+							<key>level</key>
+							<integer>9</integer>
+							<key>meanning</key>
+							<string>스프레드시트</string>
+							<key>pronunciation</key>
+							<string>[spr'edsheet]</string>
+							<key>spelling</key>
+							<string>spreadsheet</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>We hired a web designer to make a website for our company.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>웹 디자이너</string>
+							<key>pronunciation</key>
+							<string></string>
+							<key>spelling</key>
+							<string>web designer</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>He detached two bowls that were stuck together.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>분리하다</string>
+							<key>pronunciation</key>
+							<string>[dyt'ach]</string>
+							<key>spelling</key>
+							<string>detach</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Additional information about the company can be found in the attachments clipped to each printout.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>부착물</string>
+							<key>pronunciation</key>
+							<string>[ət'achmənt]</string>
+							<key>spelling</key>
+							<string>attachment</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>It took only a couple of minutes to browse the Internet and find all the necessary information.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>인터넷을 검색하다</string>
+							<key>pronunciation</key>
+							<string>[br'ouz]</string>
+							<key>spelling</key>
+							<string>browse</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The information has been corrupted by subjectivity.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>오류가 생긴</string>
+							<key>pronunciation</key>
+							<string>[kər'əpt]</string>
+							<key>spelling</key>
+							<string>corrupt</string>
+							<key>wordclass</key>
+							<string>adj.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>This screen saver is part of the default setting of this particular PC.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>디폴트</string>
+							<key>pronunciation</key>
+							<string>[dyf'awlt]</string>
+							<key>spelling</key>
+							<string>default</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>I forwarded the client's email to my boss.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>전달하다</string>
+							<key>pronunciation</key>
+							<string>[f'awrwərd]</string>
+							<key>spelling</key>
+							<string>forward</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>He copied the excerpt from the internet and pasted to his blog.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>붙여넣다</string>
+							<key>pronunciation</key>
+							<string>[peyst]</string>
+							<key>spelling</key>
+							<string>paste</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The Kyoto Protocol was signed by many countries except for the United States.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>프로토콜, 통신규약</string>
+							<key>pronunciation</key>
+							<string>[pr'ohtək`awl]</string>
+							<key>spelling</key>
+							<string>protocol</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Refresh the page and try it again.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>새로 고치다</string>
+							<key>pronunciation</key>
+							<string>[ryfr'esh]</string>
+							<key>spelling</key>
+							<string>refresh</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>He retrieved some information about the organization from its website.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>검색하다</string>
+							<key>pronunciation</key>
+							<string>[rytr'eev]</string>
+							<key>spelling</key>
+							<string>retrieve</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Can you scan this picture for me?</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>스캔하다</string>
+							<key>pronunciation</key>
+							<string>[skan]</string>
+							<key>spelling</key>
+							<string>scan</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Using a router, we managed to gain access to the Internet.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>라우터, 일종의 중계장치</string>
+							<key>pronunciation</key>
+							<string>[r'outər]</string>
+							<key>spelling</key>
+							<string>router</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>회의</string>
+					<key>words</key>
+					<array>
+						<dict>
+							<key>example</key>
+							<string>The President should act in accordance with the interests of the people.</string>
+							<key>level</key>
+							<integer>6</integer>
+							<key>meanning</key>
+							<string>일치, 조화</string>
+							<key>pronunciation</key>
+							<string>[ək'awrdəns]</string>
+							<key>spelling</key>
+							<string>accordance</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The judge adjourned the court for a lunch break.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>연기하다</string>
+							<key>pronunciation</key>
+							<string>[əj'ə:rn]</string>
+							<key>spelling</key>
+							<string>adjourn</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>We have several items on the agenda, so the discussion will take about two hours.</string>
+							<key>level</key>
+							<integer>2</integer>
+							<key>meanning</key>
+							<string>회의사항, 의제</string>
+							<key>pronunciation</key>
+							<string>[əj'endə]</string>
+							<key>spelling</key>
+							<string>agenda</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>My parents and I agreed that I will go to a university in California.</string>
+							<key>level</key>
+							<integer>1</integer>
+							<key>meanning</key>
+							<string>동의하다</string>
+							<key>pronunciation</key>
+							<string>[əgr'ee]</string>
+							<key>spelling</key>
+							<string>agree</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>My group members and I made an agreement to meet at the library around noon.</string>
+							<key>level</key>
+							<integer>3</integer>
+							<key>meanning</key>
+							<string>동의, 계약</string>
+							<key>pronunciation</key>
+							<string>[əgr'yːmənt]</string>
+							<key>spelling</key>
+							<string>agreement</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>We always keep an alternative strategy just in case of an emergency.</string>
+							<key>level</key>
+							<integer>8</integer>
+							<key>meanning</key>
+							<string>양자택일, 대안</string>
+							<key>pronunciation</key>
+							<string>[awlt'ə:rnətyv]</string>
+							<key>spelling</key>
+							<string>alternative</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>She announced the winners of the spelling bee.</string>
+							<key>level</key>
+							<integer>3</integer>
+							<key>meanning</key>
+							<string>발표하다</string>
+							<key>pronunciation</key>
+							<string>[ən'ouns]</string>
+							<key>spelling</key>
+							<string>announce</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The announcement was written in English.</string>
+							<key>level</key>
+							<integer>3</integer>
+							<key>meanning</key>
+							<string>발표</string>
+							<key>pronunciation</key>
+							<string>[ən'ounsmənt]</string>
+							<key>spelling</key>
+							<string>announcement</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The president appointed him as his secretary.</string>
+							<key>level</key>
+							<integer>6</integer>
+							<key>meanning</key>
+							<string>임명하다, 지정하다</string>
+							<key>pronunciation</key>
+							<string>[əp'oynt]</string>
+							<key>spelling</key>
+							<string>appoint</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>He received approval from his teacher to turn in his essay a week late.</string>
+							<key>level</key>
+							<integer>4</integer>
+							<key>meanning</key>
+							<string>시인, 찬성, 허가</string>
+							<key>pronunciation</key>
+							<string>[əpr'oovəl]</string>
+							<key>spelling</key>
+							<string>approval</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The mother did not approve of their marriage.</string>
+							<key>level</key>
+							<integer>3</integer>
+							<key>meanning</key>
+							<string>찬성하다, 인가하다</string>
+							<key>pronunciation</key>
+							<string>[əpr'oov]</string>
+							<key>spelling</key>
+							<string>approve</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>I always argue with my brother.</string>
+							<key>level</key>
+							<integer>2</integer>
+							<key>meanning</key>
+							<string>논하다, 논쟁하다</string>
+							<key>pronunciation</key>
+							<string>['ahrgyoo]</string>
+							<key>spelling</key>
+							<string>argue</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Tommy and Bill will both participate in the debate.</string>
+							<key>level</key>
+							<integer>7</integer>
+							<key>meanning</key>
+							<string>토론</string>
+							<key>pronunciation</key>
+							<string>[dyb'eyt]</string>
+							<key>spelling</key>
+							<string>debate</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>We received the court’s assent to continue the investigation.</string>
+							<key>level</key>
+							<integer>11</integer>
+							<key>meanning</key>
+							<string>승인, 동의</string>
+							<key>pronunciation</key>
+							<string>[əs'ent]</string>
+							<key>spelling</key>
+							<string>assent</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>She asserted that she was the best player on the team.</string>
+							<key>level</key>
+							<integer>6</integer>
+							<key>meanning</key>
+							<string>단언하다</string>
+							<key>pronunciation</key>
+							<string>[əs'ə:rt]</string>
+							<key>spelling</key>
+							<string>assert</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The idol star attended high school for two years before making his debut on stage.</string>
+							<key>level</key>
+							<integer>2</integer>
+							<key>meanning</key>
+							<string>출석하다, 돌보다</string>
+							<key>pronunciation</key>
+							<string>[ət'end]</string>
+							<key>spelling</key>
+							<string>attend</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>He prepared a briefing for the president.</string>
+							<key>level</key>
+							<integer>8</integer>
+							<key>meanning</key>
+							<string>상황 설명(회)</string>
+							<key>pronunciation</key>
+							<string>[br'eefyng]</string>
+							<key>spelling</key>
+							<string>briefing</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>I don’t like to make compromises.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>타협, 화해</string>
+							<key>pronunciation</key>
+							<string>[k'amprəm`ahyz]</string>
+							<key>spelling</key>
+							<string>compromise</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>You need to attend a press conference this afternoon.</string>
+							<key>level</key>
+							<integer>4</integer>
+							<key>meanning</key>
+							<string>회의</string>
+							<key>pronunciation</key>
+							<string>[k'anfərəns]</string>
+							<key>spelling</key>
+							<string>conference</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>They reached a consensus after hours of negotiation.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>일치, 합의</string>
+							<key>pronunciation</key>
+							<string>[kəns'ensəs]</string>
+							<key>spelling</key>
+							<string>consensus</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>An ad hoc committee has been convened.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>소집하다</string>
+							<key>pronunciation</key>
+							<string>[kənv'een]</string>
+							<key>spelling</key>
+							<string>convene</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>After each presentation, the class was encouraged to give feedback to the presenters.</string>
+							<key>level</key>
+							<integer>3</integer>
+							<key>meanning</key>
+							<string>피드백</string>
+							<key>pronunciation</key>
+							<string>[f'eedb`ak]</string>
+							<key>spelling</key>
+							<string>feedback</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The members disputed for long hours regarding the necessity of the policy revision.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>논쟁하다</string>
+							<key>pronunciation</key>
+							<string>[dyspy'oot]</string>
+							<key>spelling</key>
+							<string>dispute</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>His latest film was a moderate success.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>온건한</string>
+							<key>pronunciation</key>
+							<string>[m'adərət]</string>
+							<key>spelling</key>
+							<string>moderate</string>
+							<key>wordclass</key>
+							<string>adj.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>In slow motion, scientists were able to observe the exact direction of the blast.</string>
+							<key>level</key>
+							<integer>2</integer>
+							<key>meanning</key>
+							<string>움직임</string>
+							<key>pronunciation</key>
+							<string>[m'ohshən]</string>
+							<key>spelling</key>
+							<string>motion</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The man was negotiable when it came to selling cars.</string>
+							<key>level</key>
+							<integer>7</integer>
+							<key>meanning</key>
+							<string>교섭할 수 있는</string>
+							<key>pronunciation</key>
+							<string>[nyg'ohshyəbl]</string>
+							<key>spelling</key>
+							<string>negotiable</string>
+							<key>wordclass</key>
+							<string>adj.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The two parties negotiated a deal that would be mutually beneficial.</string>
+							<key>level</key>
+							<integer>6</integer>
+							<key>meanning</key>
+							<string>협상하다</string>
+							<key>pronunciation</key>
+							<string>[nyg'ohshy`eyt]</string>
+							<key>spelling</key>
+							<string>negotiate</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>She tried to persuade him to come with her, but he didn't even listen.</string>
+							<key>level</key>
+							<integer>4</integer>
+							<key>meanning</key>
+							<string>설득하다</string>
+							<key>pronunciation</key>
+							<string>[pə:rsw'eyd]</string>
+							<key>spelling</key>
+							<string>persuade</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The politician's claims were refuted by a group of professionals.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>논박하다</string>
+							<key>pronunciation</key>
+							<string>[ryfy'oot]</string>
+							<key>spelling</key>
+							<string>refute</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The ancient castle is a popular venue for weddings.</string>
+							<key>level</key>
+							<integer>7</integer>
+							<key>meanning</key>
+							<string>장소</string>
+							<key>pronunciation</key>
+							<string>[v'enyoo]</string>
+							<key>spelling</key>
+							<string>venue</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The idea is the same, but the viewpoint is different.</string>
+							<key>level</key>
+							<integer>7</integer>
+							<key>meanning</key>
+							<string>관점</string>
+							<key>pronunciation</key>
+							<string>[vy'oop`oynt]</string>
+							<key>spelling</key>
+							<string>viewpoint</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>He was a regular attendee at the meeting.</string>
+							<key>level</key>
+							<integer>7</integer>
+							<key>meanning</key>
+							<string>참석자</string>
+							<key>pronunciation</key>
+							<string>[`ətend'ee]</string>
+							<key>spelling</key>
+							<string>attendee</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The board meeting will be held in this conference room.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>회의실</string>
+							<key>pronunciation</key>
+							<string></string>
+							<key>spelling</key>
+							<string>conference room</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>I double-checked my report for spelling and grammar mistakes.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>재확인하다</string>
+							<key>pronunciation</key>
+							<string></string>
+							<key>spelling</key>
+							<string>double-check</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>In my humble opinion, we should listen to the victim's side of the story.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>겸손한 의견</string>
+							<key>pronunciation</key>
+							<string></string>
+							<key>spelling</key>
+							<string>humble opinion</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>They've mutually agreed on the agreement in order to maintain healthy competition.</string>
+							<key>level</key>
+							<integer>7</integer>
+							<key>meanning</key>
+							<string>서로</string>
+							<key>pronunciation</key>
+							<string>[my'oochooəly]</string>
+							<key>spelling</key>
+							<string>mutually</string>
+							<key>wordclass</key>
+							<string>adv.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The police obtained a tip-off about the planned robbery.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>비밀 누설</string>
+							<key>pronunciation</key>
+							<string></string>
+							<key>spelling</key>
+							<string>tip-off</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The professor gave each of his students a handout with detailed information about the midterm.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>인쇄물</string>
+							<key>pronunciation</key>
+							<string>[h'and`out]</string>
+							<key>spelling</key>
+							<string>handout</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The politician refused to preside over the meeting because many of the members were absent.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>관장하다</string>
+							<key>pronunciation</key>
+							<string>[pryz'ahyd]</string>
+							<key>spelling</key>
+							<string>preside</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Although she did not say it straight out, her tentative answer was "yes".</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>잠정적인</string>
+							<key>pronunciation</key>
+							<string>[t'entətyv]</string>
+							<key>spelling</key>
+							<string>tentative</string>
+							<key>wordclass</key>
+							<string>adj.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Decisions with potentially high external costs should require unanimity.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>만장일치</string>
+							<key>pronunciation</key>
+							<string>[y`oonən'yməty]</string>
+							<key>spelling</key>
+							<string>unanimity</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>With a unanimous vote, Charlie became the class president.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>만장일치의</string>
+							<key>pronunciation</key>
+							<string>[yoon'anyməs]</string>
+							<key>spelling</key>
+							<string>unanimous</string>
+							<key>wordclass</key>
+							<string>adj.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The result of the research accorded closely with our hypothesis.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>부합하다</string>
+							<key>pronunciation</key>
+							<string>[ək'awrd]</string>
+							<key>spelling</key>
+							<string>accord</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The two opposing parties clashed on every issue.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>언쟁을 벌이다</string>
+							<key>pronunciation</key>
+							<string>[klash]</string>
+							<key>spelling</key>
+							<string>clash</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Difference in the political views resulted in long hours of dispute.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>관점</string>
+							<key>pronunciation</key>
+							<string>[vyoo]</string>
+							<key>spelling</key>
+							<string>view</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+					</array>
+				</dict>
+			</array>
+			<key>title</key>
+			<string>office</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Office</string>
+</dict>
+</plist>

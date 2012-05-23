@@ -1,0 +1,1621 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>books</key>
+	<array>
+		<dict>
+			<key>groups</key>
+			<array>
+				<dict>
+					<key>title</key>
+					<string>보험</string>
+					<key>words</key>
+					<array>
+						<dict>
+							<key>example</key>
+							<string>The most obvious beneficiary was his brother John, who was next in line to the throne.</string>
+							<key>level</key>
+							<integer>11</integer>
+							<key>meanning</key>
+							<string>은혜를 받는 사람, 수혜자</string>
+							<key>pronunciation</key>
+							<string>[b`enəf'yshy`ery]</string>
+							<key>spelling</key>
+							<string>beneficiary</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>He claimed his right to see his children, but the court refused his appeal.</string>
+							<key>level</key>
+							<integer>2</integer>
+							<key>meanning</key>
+							<string>(권리, 유산 등을) 요구하다</string>
+							<key>pronunciation</key>
+							<string>[kl'eym]</string>
+							<key>spelling</key>
+							<string>claim</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The government has the power to impose tax on people.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>(의무, 세금 등을) 과하다</string>
+							<key>pronunciation</key>
+							<string>[ymp'ohz]</string>
+							<key>spelling</key>
+							<string>impose</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>My parents held full liability for my actions.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>책임</string>
+							<key>pronunciation</key>
+							<string>[l`ahyəb'yləty]</string>
+							<key>spelling</key>
+							<string>liability</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Our country has placed tariffs on certain products to protect our domestic industries.</string>
+							<key>level</key>
+							<integer>9</integer>
+							<key>meanning</key>
+							<string>관세</string>
+							<key>pronunciation</key>
+							<string>[t'aryf]</string>
+							<key>spelling</key>
+							<string>tariff</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>She covered the sofa with a large blanket.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>덮다</string>
+							<key>pronunciation</key>
+							<string>[k'əvər]</string>
+							<key>spelling</key>
+							<string>cover</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>I have an insurance policy on my car, which keeps it fully covered and protected from damage.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>보험 증권</string>
+							<key>pronunciation</key>
+							<string></string>
+							<key>spelling</key>
+							<string>insurance policy</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The soccer player got his legs insured.</string>
+							<key>level</key>
+							<integer>7</integer>
+							<key>meanning</key>
+							<string>보험에 들다</string>
+							<key>pronunciation</key>
+							<string>[ynsh'ooər]</string>
+							<key>spelling</key>
+							<string>insure</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The price on the menu is the pretax price.</string>
+							<key>level</key>
+							<integer>11</integer>
+							<key>meanning</key>
+							<string>세금 공제 전의</string>
+							<key>pronunciation</key>
+							<string>[preet'aks]</string>
+							<key>spelling</key>
+							<string>pretax</string>
+							<key>wordclass</key>
+							<string>adj.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The wealthy man was accused of tax evasion.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>탈세</string>
+							<key>pronunciation</key>
+							<string></string>
+							<key>spelling</key>
+							<string>tax evasion</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Even the insured are having difficulties in getting insurance coverage.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>피보험자</string>
+							<key>pronunciation</key>
+							<string></string>
+							<key>spelling</key>
+							<string>the insured</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Please fasten your seatbelt to ensure your safety while the flight takes off and lands.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>확실하게 하다</string>
+							<key>pronunciation</key>
+							<string>[ensh'ooər]</string>
+							<key>spelling</key>
+							<string>ensure</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>All employees get insurance coverage from the company.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>보장범위</string>
+							<key>pronunciation</key>
+							<string>[k'əvəryj]</string>
+							<key>spelling</key>
+							<string>coverage</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The monthly premium of the car insurance will increase after every accident.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>보험료</string>
+							<key>pronunciation</key>
+							<string>[pr'eemyəm]</string>
+							<key>spelling</key>
+							<string>premium</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>You need to reimburse for any damages done on my car.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>변제하다</string>
+							<key>pronunciation</key>
+							<string>[r`eeymb'ə:rs]</string>
+							<key>spelling</key>
+							<string>reimburse</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>부동산</string>
+					<key>words</key>
+					<array>
+						<dict>
+							<key>example</key>
+							<string>You have to write down your name, address and phone number.</string>
+							<key>level</key>
+							<integer>1</integer>
+							<key>meanning</key>
+							<string>주소</string>
+							<key>pronunciation</key>
+							<string>[ədr'es]</string>
+							<key>spelling</key>
+							<string>address</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>He annexed the footnotes on his research paper for references.</string>
+							<key>level</key>
+							<integer>10</integer>
+							<key>meanning</key>
+							<string>부가하다, 합병하다</string>
+							<key>pronunciation</key>
+							<string>[ən'eks]</string>
+							<key>spelling</key>
+							<string>annex</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>We will assess your work and get back to you by the end of the week.</string>
+							<key>level</key>
+							<integer>2</integer>
+							<key>meanning</key>
+							<string>과세하다, 평가하다</string>
+							<key>pronunciation</key>
+							<string>[əs'es]</string>
+							<key>spelling</key>
+							<string>assess</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The seller bid 100,000 dollars for a rare painting.</string>
+							<key>level</key>
+							<integer>6</integer>
+							<key>meanning</key>
+							<string>입찰하다</string>
+							<key>pronunciation</key>
+							<string>[byd]</string>
+							<key>spelling</key>
+							<string>bid</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The company attempted to capitalize on the growth of pop music.</string>
+							<key>level</key>
+							<integer>8</integer>
+							<key>meanning</key>
+							<string>자본화하다</string>
+							<key>pronunciation</key>
+							<string>[k'apətəl`ahyz]</string>
+							<key>spelling</key>
+							<string>capitalize</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>You should leave this column on the spread sheet empty.</string>
+							<key>level</key>
+							<integer>3</integer>
+							<key>meanning</key>
+							<string>단</string>
+							<key>pronunciation</key>
+							<string>[k'aləm]</string>
+							<key>spelling</key>
+							<string>column</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>I have a lovely cottage by the lake.</string>
+							<key>level</key>
+							<integer>3</integer>
+							<key>meanning</key>
+							<string>시골집, 작은 집</string>
+							<key>pronunciation</key>
+							<string>[k'atyj]</string>
+							<key>spelling</key>
+							<string>cottage</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Your room is so warm and cozy!</string>
+							<key>level</key>
+							<integer>3</integer>
+							<key>meanning</key>
+							<string>포근한</string>
+							<key>pronunciation</key>
+							<string>[k'ohzy]</string>
+							<key>spelling</key>
+							<string>cozy</string>
+							<key>wordclass</key>
+							<string>adj.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>My dog is sleeping on the driveway.</string>
+							<key>level</key>
+							<integer>3</integer>
+							<key>meanning</key>
+							<string>진입로</string>
+							<key>pronunciation</key>
+							<string>[dr'ahyvw`ey]</string>
+							<key>spelling</key>
+							<string>driveway</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The ogre dwelled in the swamps of the magical forest.</string>
+							<key>level</key>
+							<integer>7</integer>
+							<key>meanning</key>
+							<string>살다</string>
+							<key>pronunciation</key>
+							<string>[dwel]</string>
+							<key>spelling</key>
+							<string>dwell</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>I estimate It will take more than three hours to get there.</string>
+							<key>level</key>
+							<integer>7</integer>
+							<key>meanning</key>
+							<string>어림하다</string>
+							<key>pronunciation</key>
+							<string>['estəm`eyt]</string>
+							<key>spelling</key>
+							<string>estimate</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The garage door would not open, and we could not get the car out.</string>
+							<key>level</key>
+							<integer>2</integer>
+							<key>meanning</key>
+							<string>차고</string>
+							<key>pronunciation</key>
+							<string>[gər'ahzh]</string>
+							<key>spelling</key>
+							<string>garage</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>They are moving to the outskirts of the city.</string>
+							<key>level</key>
+							<integer>9</integer>
+							<key>meanning</key>
+							<string>변두리</string>
+							<key>pronunciation</key>
+							<string>['outsk`ərts]</string>
+							<key>spelling</key>
+							<string>outskirts</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Hold onto the handrails when going up the escalator for safety.</string>
+							<key>level</key>
+							<integer>16</integer>
+							<key>meanning</key>
+							<string>난간</string>
+							<key>pronunciation</key>
+							<string>[h'andr`eyl]</string>
+							<key>spelling</key>
+							<string>handrail</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Many endangered species inhabit this forest.</string>
+							<key>level</key>
+							<integer>5</integer>
+							<key>meanning</key>
+							<string>거주(서식)하다</string>
+							<key>pronunciation</key>
+							<string>[ynh'abyt]</string>
+							<key>spelling</key>
+							<string>inhabit</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>It was surprising how the house stayed intact even after a few hundred years.</string>
+							<key>level</key>
+							<integer>10</integer>
+							<key>meanning</key>
+							<string>완전한</string>
+							<key>pronunciation</key>
+							<string>[ynt'akt]</string>
+							<key>spelling</key>
+							<string>intact</string>
+							<key>wordclass</key>
+							<string>adj.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>He got a job as the night janitor at the elementary school.</string>
+							<key>level</key>
+							<integer>9</integer>
+							<key>meanning</key>
+							<string>수위</string>
+							<key>pronunciation</key>
+							<string>[j'anətər]</string>
+							<key>spelling</key>
+							<string>janitor</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The landlord raised the rent.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>(하숙집 등의) 주인</string>
+							<key>pronunciation</key>
+							<string>[l'andl`awrd]</string>
+							<key>spelling</key>
+							<string>landlord</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Because he intended to stay in the city only for a year, he decided to lease an apartment.</string>
+							<key>level</key>
+							<integer>13</integer>
+							<key>meanning</key>
+							<string>임대하다</string>
+							<key>pronunciation</key>
+							<string>[lees]</string>
+							<key>spelling</key>
+							<string>lease</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Because it was getting dark already, they decided to lodge at a motel for the night.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>숙박하다</string>
+							<key>pronunciation</key>
+							<string>[laj]</string>
+							<key>spelling</key>
+							<string>lodge</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The enemy occupied much of the nation’s territories.</string>
+							<key>level</key>
+							<integer>4</integer>
+							<key>meanning</key>
+							<string>차지하다</string>
+							<key>pronunciation</key>
+							<string>['akyəpahy]</string>
+							<key>spelling</key>
+							<string>occupy</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>After playing out in the sun all day, they are all at the bungalow now, drinking beer.</string>
+							<key>level</key>
+							<integer>9</integer>
+							<key>meanning</key>
+							<string>방갈로</string>
+							<key>pronunciation</key>
+							<string>[b'ənggəl`oh]</string>
+							<key>spelling</key>
+							<string>bungalow</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The failure of the project clearly indicated that the team's capacity had been overestimated.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>과대 평가하다</string>
+							<key>pronunciation</key>
+							<string>[`ohvər'estəmeyt]</string>
+							<key>spelling</key>
+							<string>overestimate</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The entire statue was balanced on that one pillar.</string>
+							<key>level</key>
+							<integer>9</integer>
+							<key>meanning</key>
+							<string>기둥</string>
+							<key>pronunciation</key>
+							<string>[p'ylər]</string>
+							<key>spelling</key>
+							<string>pillar</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Public property does not belong to any one single individual.</string>
+							<key>level</key>
+							<integer>6</integer>
+							<key>meanning</key>
+							<string>재산</string>
+							<key>pronunciation</key>
+							<string>[pr'apərty]</string>
+							<key>spelling</key>
+							<string>property</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>His mansion was located in a remote area, outside the city boundaries.</string>
+							<key>level</key>
+							<integer>7</integer>
+							<key>meanning</key>
+							<string>(거리가) 먼</string>
+							<key>pronunciation</key>
+							<string>[rym'oht]</string>
+							<key>spelling</key>
+							<string>remote</string>
+							<key>wordclass</key>
+							<string>adj.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>They decided to rent a room near the office.</string>
+							<key>level</key>
+							<integer>2</integer>
+							<key>meanning</key>
+							<string>임대하다</string>
+							<key>pronunciation</key>
+							<string>[rent]</string>
+							<key>spelling</key>
+							<string>rent</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>We were invited to the ambassador’s official residence.</string>
+							<key>level</key>
+							<integer>4</integer>
+							<key>meanning</key>
+							<string>주거</string>
+							<key>pronunciation</key>
+							<string>[r'ezədəns]</string>
+							<key>spelling</key>
+							<string>residence</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>This building is the tallest skyscraper in the world.</string>
+							<key>level</key>
+							<integer>8</integer>
+							<key>meanning</key>
+							<string>초고층 건물</string>
+							<key>pronunciation</key>
+							<string>[sk'ahyskr`eypər]</string>
+							<key>spelling</key>
+							<string>skyscraper</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>It is the responsibility of the school's superintendent to ensure the safety of the students.</string>
+							<key>level</key>
+							<integer>15</integer>
+							<key>meanning</key>
+							<string>감독, 관리자</string>
+							<key>pronunciation</key>
+							<string>[s`oopərynt'endənt]</string>
+							<key>spelling</key>
+							<string>superintendent</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>I am sorry that I underestimated your abilities.</string>
+							<key>level</key>
+							<integer>7</integer>
+							<key>meanning</key>
+							<string>과소평가하다</string>
+							<key>pronunciation</key>
+							<string>[`əndər'estəm`eyt]</string>
+							<key>spelling</key>
+							<string>underestimate</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The city ordered him to vacate the premises.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>비우다</string>
+							<key>pronunciation</key>
+							<string>[v'eykeyt]</string>
+							<key>spelling</key>
+							<string>vacate</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>He is a great asset to our firm.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>자산</string>
+							<key>pronunciation</key>
+							<string>['aset]</string>
+							<key>spelling</key>
+							<string>asset</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Moonlight softly lit the atrium by night.</string>
+							<key>level</key>
+							<integer>16</integer>
+							<key>meanning</key>
+							<string>유리 천장으로 된 중앙 홀</string>
+							<key>pronunciation</key>
+							<string>['eytryəm]</string>
+							<key>spelling</key>
+							<string>atrium</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Custom-built houses are built according to the specific needs and requirements of the individual residents.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>맞춤식 주택</string>
+							<key>pronunciation</key>
+							<string></string>
+							<key>spelling</key>
+							<string>custom-built house</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The rich man lived in a detached house, as far away from media attention as possible.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>단독 주택</string>
+							<key>pronunciation</key>
+							<string></string>
+							<key>spelling</key>
+							<string>detached house</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>To save money, we moved into a duplex house.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>연립 주택</string>
+							<key>pronunciation</key>
+							<string></string>
+							<key>spelling</key>
+							<string>duplex house</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Without proper housing, we will not be able to stay here for a long time.</string>
+							<key>level</key>
+							<integer>3</integer>
+							<key>meanning</key>
+							<string>주거</string>
+							<key>pronunciation</key>
+							<string>[h'ouzyng]</string>
+							<key>spelling</key>
+							<string>housing</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>There is a new housing complex under construction near the city.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>주택 단지</string>
+							<key>pronunciation</key>
+							<string></string>
+							<key>spelling</key>
+							<string>housing complex</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>I got a housing loan to buy my own place.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>주택 대출</string>
+							<key>pronunciation</key>
+							<string></string>
+							<key>spelling</key>
+							<string>housing loan</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The key money for the rental car was $500.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>보증금</string>
+							<key>pronunciation</key>
+							<string></string>
+							<key>spelling</key>
+							<string>key money</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>I used to live in a lodging house, after moving out of the dormitory.</string>
+							<key>level</key>
+							<integer>5</integer>
+							<key>meanning</key>
+							<string>하숙</string>
+							<key>pronunciation</key>
+							<string>[l'ajyng]</string>
+							<key>spelling</key>
+							<string>lodging</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>There are many convenient stores around the neighborhood.</string>
+							<key>level</key>
+							<integer>3</integer>
+							<key>meanning</key>
+							<string>동네</string>
+							<key>pronunciation</key>
+							<string>[n'eybərh`ood]</string>
+							<key>spelling</key>
+							<string>neighborhood</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The children played outside on the patio while their mothers prepared dinner.</string>
+							<key>level</key>
+							<integer>9</integer>
+							<key>meanning</key>
+							<string>문밖 테라스(마당)</string>
+							<key>pronunciation</key>
+							<string>[p'atyoh]</string>
+							<key>spelling</key>
+							<string>patio</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The number of houses increased dramatically with the introduction of prefabricated houses.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>조립식 주택</string>
+							<key>pronunciation</key>
+							<string></string>
+							<key>spelling</key>
+							<string>prefabricated house</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>She quoted a passage from the book.</string>
+							<key>level</key>
+							<integer>3</integer>
+							<key>meanning</key>
+							<string>인용하다</string>
+							<key>pronunciation</key>
+							<string>[kw'oht]</string>
+							<key>spelling</key>
+							<string>quote</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>London is famous for their row houses.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>연립 주택</string>
+							<key>pronunciation</key>
+							<string></string>
+							<key>spelling</key>
+							<string>row house</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Could you read the line on the title deed that states who is the owner of the property?</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>부동산 권리증서</string>
+							<key>pronunciation</key>
+							<string></string>
+							<key>spelling</key>
+							<string>title deed</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>He returned to Rome on July 27, and stayed in his private villa.</string>
+							<key>level</key>
+							<integer>6</integer>
+							<key>meanning</key>
+							<string>별장</string>
+							<key>pronunciation</key>
+							<string>[v'ylə]</string>
+							<key>spelling</key>
+							<string>villa</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>This room is most suitable for a single occupant.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>점유자</string>
+							<key>pronunciation</key>
+							<string>['akyəpənt]</string>
+							<key>spelling</key>
+							<string>occupant</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>We reside in Seattle, Washington right now.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>(장기간) 거주하다</string>
+							<key>pronunciation</key>
+							<string>[ryz'ahyd]</string>
+							<key>spelling</key>
+							<string>reside</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>My parents and I live in the same apartment complex.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>복합건물</string>
+							<key>pronunciation</key>
+							<string>[kampl'eks]</string>
+							<key>spelling</key>
+							<string>complex</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>I invited some of my friends to my flat for a sleepover.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>공동주택</string>
+							<key>pronunciation</key>
+							<string>[flat]</string>
+							<key>spelling</key>
+							<string>flat</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>We decided to plant tomatoes and cabbages on the small plot of land.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>작은 구획의 땅, 도면</string>
+							<key>pronunciation</key>
+							<string>[plat]</string>
+							<key>spelling</key>
+							<string>plot</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Along with food and clothing, shelter is one of the fundamental requirements of life.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>주거지</string>
+							<key>pronunciation</key>
+							<string>[sh'eltər]</string>
+							<key>spelling</key>
+							<string>shelter</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>I do not recommend you dipping too deep in speculation.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>투기</string>
+							<key>pronunciation</key>
+							<string>[sp`ekyuhl'eyshən]</string>
+							<key>spelling</key>
+							<string>speculation</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>There is a vacant room at my place that you can stay at.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>비어있는</string>
+							<key>pronunciation</key>
+							<string>[v'eykənt]</string>
+							<key>spelling</key>
+							<string>vacant</string>
+							<key>wordclass</key>
+							<string>adj.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>He owned a collective land tenure of this place.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>거주권</string>
+							<key>pronunciation</key>
+							<string>[t'enyər]</string>
+							<key>spelling</key>
+							<string>tenure</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>은행</string>
+					<key>words</key>
+					<array>
+						<dict>
+							<key>example</key>
+							<string>The troubled company declared bankruptcy.</string>
+							<key>level</key>
+							<integer>8</integer>
+							<key>meanning</key>
+							<string>파산, 파탄</string>
+							<key>pronunciation</key>
+							<string>[b'angkrəptsy]</string>
+							<key>spelling</key>
+							<string>bankruptcy</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>He was broke after losing all his money in the casino.</string>
+							<key>level</key>
+							<integer>2</integer>
+							<key>meanning</key>
+							<string>무일푼의</string>
+							<key>pronunciation</key>
+							<string>[brohk]</string>
+							<key>spelling</key>
+							<string>broke</string>
+							<key>wordclass</key>
+							<string>adj.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>I have some money on deposit.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>보관, 예금, 침전물</string>
+							<key>pronunciation</key>
+							<string>[dyp'azyt]</string>
+							<key>spelling</key>
+							<string>deposit</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>He endorsed the check and gave it to his partner.</string>
+							<key>level</key>
+							<integer>10</integer>
+							<key>meanning</key>
+							<string>배서하다, 확인하다</string>
+							<key>pronunciation</key>
+							<string>[end'awrs]</string>
+							<key>spelling</key>
+							<string>endorse</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Companies were appraised based on their financial conditions.</string>
+							<key>level</key>
+							<integer>6</integer>
+							<key>meanning</key>
+							<string>재정상의, 금융의</string>
+							<key>pronunciation</key>
+							<string>[fahyn'anshəl]</string>
+							<key>spelling</key>
+							<string>financial</string>
+							<key>wordclass</key>
+							<string>adj.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Many of the loans will turn into nonperforming assets.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>대출</string>
+							<key>pronunciation</key>
+							<string>[lohn]</string>
+							<key>spelling</key>
+							<string>loan</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>We need to reestablish the monetary system.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>화폐의</string>
+							<key>pronunciation</key>
+							<string>[m'anət`ery]</string>
+							<key>spelling</key>
+							<string>monetary</string>
+							<key>wordclass</key>
+							<string>adj.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>I cannot afford another car because I am having trouble meeting my mortgage payments.</string>
+							<key>level</key>
+							<integer>11</integer>
+							<key>meanning</key>
+							<string>대출, 융자</string>
+							<key>pronunciation</key>
+							<string>[m'awrgyj]</string>
+							<key>spelling</key>
+							<string>mortgage</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>He forgot to remit last month’s rent to the landlord.</string>
+							<key>level</key>
+							<integer>15</integer>
+							<key>meanning</key>
+							<string>송금하다</string>
+							<key>pronunciation</key>
+							<string>[rym'yt]</string>
+							<key>spelling</key>
+							<string>remit</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>She worked as a teller at the bank for over fifteen years.</string>
+							<key>level</key>
+							<integer>13</integer>
+							<key>meanning</key>
+							<string>은행의 금전 출납계 직원</string>
+							<key>pronunciation</key>
+							<string>[t'elər]</string>
+							<key>spelling</key>
+							<string>teller</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Although small in size, the newly established company transacted internationally.</string>
+							<key>level</key>
+							<integer>10</integer>
+							<key>meanning</key>
+							<string>거래하다</string>
+							<key>pronunciation</key>
+							<string>[trans'akt]</string>
+							<key>spelling</key>
+							<string>transact</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Just log in and complete the transaction.</string>
+							<key>level</key>
+							<integer>11</integer>
+							<key>meanning</key>
+							<string>거래</string>
+							<key>pronunciation</key>
+							<string>[trans'akshən]</string>
+							<key>spelling</key>
+							<string>transaction</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Loan companies only lend money to those who have met their qualifications.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>금융 회사</string>
+							<key>pronunciation</key>
+							<string></string>
+							<key>spelling</key>
+							<string>loan company</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Daniel is a member of the university's board of trustees.</string>
+							<key>level</key>
+							<integer>13</integer>
+							<key>meanning</key>
+							<string>신탁 관리자</string>
+							<key>pronunciation</key>
+							<string>[trəst'ee]</string>
+							<key>spelling</key>
+							<string>trustee</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The tennis player had to withdraw from the competition after injuring his shoulder.</string>
+							<key>level</key>
+							<integer>7</integer>
+							<key>meanning</key>
+							<string>철회하다</string>
+							<key>pronunciation</key>
+							<string>[wydhdr'aw]</string>
+							<key>spelling</key>
+							<string>withdraw</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>This prompts the banks to lend money more indiscriminately, creating bad loans.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>부실 대출</string>
+							<key>pronunciation</key>
+							<string></string>
+							<key>spelling</key>
+							<string>bad loan</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>I stopped by the #cash #dispensers on my way to work and withdrew $300 from my account.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>현금 인출기</string>
+							<key>pronunciation</key>
+							<string></string>
+							<key>spelling</key>
+							<string>cash dispenser</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>My computer is locked with a confidential access number.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>비밀번호</string>
+							<key>pronunciation</key>
+							<string></string>
+							<key>spelling</key>
+							<string>confidential access number</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>You cannot receive a loan with a bad credit record.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>신용 기록</string>
+							<key>pronunciation</key>
+							<string></string>
+							<key>spelling</key>
+							<string>credit record</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>He visited the credit union for consultation, prior to applying for a loan.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>신용 조합</string>
+							<key>pronunciation</key>
+							<string></string>
+							<key>spelling</key>
+							<string>credit union</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>I had to fill out a deposit slip to make the $50 deposit.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>예금 전표</string>
+							<key>pronunciation</key>
+							<string></string>
+							<key>spelling</key>
+							<string>deposit slip</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Although his account was well overdrawn, the man could not give up his lavish lifestyle.</string>
+							<key>level</key>
+							<integer>10</integer>
+							<key>meanning</key>
+							<string>초과 인출된</string>
+							<key>pronunciation</key>
+							<string>[`ohvərdr'awn]</string>
+							<key>spelling</key>
+							<string>overdrawn</string>
+							<key>wordclass</key>
+							<string>adj.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>These coupons are redeemable against any merchandise.</string>
+							<key>level</key>
+							<integer>10</integer>
+							<key>meanning</key>
+							<string>교환할 수 있는</string>
+							<key>pronunciation</key>
+							<string>[ryd'eeməbl]</string>
+							<key>spelling</key>
+							<string>redeemable</string>
+							<key>wordclass</key>
+							<string>adj.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Citizens are obligated to pay the utility bill, in return for the public services.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>공과금</string>
+							<key>pronunciation</key>
+							<string></string>
+							<key>spelling</key>
+							<string>utility bill</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>My mother sent the money to my account by wire transfer.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>송금</string>
+							<key>pronunciation</key>
+							<string></string>
+							<key>spelling</key>
+							<string>wire transfer</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Please fill out a withdrawal slip to withdraw money from your account.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>출금 신청서</string>
+							<key>pronunciation</key>
+							<string></string>
+							<key>spelling</key>
+							<string>withdrawal slip</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>This research paper is due next Friday.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>만기된, 마땅한</string>
+							<key>pronunciation</key>
+							<string>[dyoo]</string>
+							<key>spelling</key>
+							<string>due</string>
+							<key>wordclass</key>
+							<string>adj.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>These books are long overdue.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>기한이 지난</string>
+							<key>pronunciation</key>
+							<string>[`ohvərdy'oo]</string>
+							<key>spelling</key>
+							<string>overdue</string>
+							<key>wordclass</key>
+							<string>adj.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The company directly transferred the cash award to the winner's bank account.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>계좌</string>
+							<key>pronunciation</key>
+							<string>[ək'ount]</string>
+							<key>spelling</key>
+							<string>account</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>At the end of each year, people who regularly pay tax receive governmental allowance for their total spending.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>공제액</string>
+							<key>pronunciation</key>
+							<string>[əl'ouəns]</string>
+							<key>spelling</key>
+							<string>allowance</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Surprisingly, he began his first business with absolutely nothing in his balance.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>잔고</string>
+							<key>pronunciation</key>
+							<string>[b'aləns]</string>
+							<key>spelling</key>
+							<string>balance</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>After the company went bankrupt, the company cheques were automatically bounced.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>(수표를) 부도처리하다</string>
+							<key>pronunciation</key>
+							<string>[b'ouns]</string>
+							<key>spelling</key>
+							<string>bounce</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>With millions in debt, the delinquent company lost its credentials greatly.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>돈이 체납된</string>
+							<key>pronunciation</key>
+							<string>[dyl'yngkwənt]</string>
+							<key>spelling</key>
+							<string>delinquent</string>
+							<key>wordclass</key>
+							<string>adj.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Instead of paying with cash, I wrote a bank draft for 500 dollars.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>수표</string>
+							<key>pronunciation</key>
+							<string>[draft]</string>
+							<key>spelling</key>
+							<string>draft</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>Having missed the due date, I had to pay a late fee for the book.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>수수료</string>
+							<key>pronunciation</key>
+							<string>[fee]</string>
+							<key>spelling</key>
+							<string>fee</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The bank issued a note to the company only because it had good credentials.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>어음</string>
+							<key>pronunciation</key>
+							<string>[noht]</string>
+							<key>spelling</key>
+							<string>note</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>I save half of my salary every month.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>저축하다</string>
+							<key>pronunciation</key>
+							<string>[seyv]</string>
+							<key>spelling</key>
+							<string>save</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>We assure you that your valuables will be secure in our vault.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>금고</string>
+							<key>pronunciation</key>
+							<string>[vawlt]</string>
+							<key>spelling</key>
+							<string>vault</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The insurance matured after five years.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>만기가 된</string>
+							<key>pronunciation</key>
+							<string>[məty'ooər]</string>
+							<key>spelling</key>
+							<string>mature</string>
+							<key>wordclass</key>
+							<string>v.</string>
+						</dict>
+						<dict>
+							<key>example</key>
+							<string>The principal will be returned when the bond reaches its maturity.</string>
+							<key>level</key>
+							<integer>0</integer>
+							<key>meanning</key>
+							<string>원금</string>
+							<key>pronunciation</key>
+							<string>[pr'ynsəpəl]</string>
+							<key>spelling</key>
+							<string>principal</string>
+							<key>wordclass</key>
+							<string>n.</string>
+						</dict>
+					</array>
+				</dict>
+			</array>
+			<key>title</key>
+			<string>finance</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Finance</string>
+</dict>
+</plist>

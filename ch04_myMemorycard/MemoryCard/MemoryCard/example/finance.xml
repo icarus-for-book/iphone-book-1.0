@@ -1,0 +1,930 @@
+<?xml version='1.0' encoding='utf-8'?>
+<category>
+  <title>Finance</title>
+  <books>
+    <book>
+      <title>finance</title>
+      <groups>
+        <group>
+          <title>보험</title>
+          <words>
+            <word>
+              <level>11</level>
+              <wordclass>n.</wordclass>
+              <meanning>은혜를 받는 사람, 수혜자</meanning>
+              <spelling>beneficiary</spelling>
+              <example>The most obvious beneficiary was his brother John, who was next in line to the throne.</example>
+              <pronunciation>[b`enəf'yshy`ery]</pronunciation>
+            </word>
+            <word>
+              <level>2</level>
+              <wordclass>v.</wordclass>
+              <meanning>(권리, 유산 등을) 요구하다</meanning>
+              <spelling>claim</spelling>
+              <example>He claimed his right to see his children, but the court refused his appeal.</example>
+              <pronunciation>[kl'eym]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>v.</wordclass>
+              <meanning>(의무, 세금 등을) 과하다</meanning>
+              <spelling>impose</spelling>
+              <example>The government has the power to impose tax on people.</example>
+              <pronunciation>[ymp'ohz]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>책임</meanning>
+              <spelling>liability</spelling>
+              <example>My parents held full liability for my actions.</example>
+              <pronunciation>[l`ahyəb'yləty]</pronunciation>
+            </word>
+            <word>
+              <level>9</level>
+              <wordclass>n.</wordclass>
+              <meanning>관세</meanning>
+              <spelling>tariff</spelling>
+              <example>Our country has placed tariffs on certain products to protect our domestic industries.</example>
+              <pronunciation>[t'aryf]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>v.</wordclass>
+              <meanning>덮다</meanning>
+              <spelling>cover</spelling>
+              <example>She covered the sofa with a large blanket.</example>
+              <pronunciation>[k'əvər]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>보험 증권</meanning>
+              <spelling>insurance policy</spelling>
+              <example>I have an insurance policy on my car, which keeps it fully covered and protected from damage.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>7</level>
+              <wordclass>v.</wordclass>
+              <meanning>보험에 들다</meanning>
+              <spelling>insure</spelling>
+              <example>The soccer player got his legs insured.</example>
+              <pronunciation>[ynsh'ooər]</pronunciation>
+            </word>
+            <word>
+              <level>11</level>
+              <wordclass>adj.</wordclass>
+              <meanning>세금 공제 전의</meanning>
+              <spelling>pretax</spelling>
+              <example>The price on the menu is the pretax price.</example>
+              <pronunciation>[preet'aks]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>탈세</meanning>
+              <spelling>tax evasion</spelling>
+              <example>The wealthy man was accused of tax evasion.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>피보험자</meanning>
+              <spelling>the insured</spelling>
+              <example>Even the insured are having difficulties in getting insurance coverage.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>v.</wordclass>
+              <meanning>확실하게 하다</meanning>
+              <spelling>ensure</spelling>
+              <example>Please fasten your seatbelt to ensure your safety while the flight takes off and lands.</example>
+              <pronunciation>[ensh'ooər]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>보장범위</meanning>
+              <spelling>coverage</spelling>
+              <example>All employees get insurance coverage from the company.</example>
+              <pronunciation>[k'əvəryj]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>보험료</meanning>
+              <spelling>premium</spelling>
+              <example>The monthly premium of the car insurance will increase after every accident.</example>
+              <pronunciation>[pr'eemyəm]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>v.</wordclass>
+              <meanning>변제하다</meanning>
+              <spelling>reimburse</spelling>
+              <example>You need to reimburse for any damages done on my car.</example>
+              <pronunciation>[r`eeymb'ə:rs]</pronunciation>
+            </word>
+          </words>
+        </group>
+        <group>
+          <title>부동산</title>
+          <words>
+            <word>
+              <level>1</level>
+              <wordclass>n.</wordclass>
+              <meanning>주소</meanning>
+              <spelling>address</spelling>
+              <example>You have to write down your name, address and phone number.</example>
+              <pronunciation>[ədr'es]</pronunciation>
+            </word>
+            <word>
+              <level>10</level>
+              <wordclass>v.</wordclass>
+              <meanning>부가하다, 합병하다</meanning>
+              <spelling>annex</spelling>
+              <example>He annexed the footnotes on his research paper for references.</example>
+              <pronunciation>[ən'eks]</pronunciation>
+            </word>
+            <word>
+              <level>2</level>
+              <wordclass>v.</wordclass>
+              <meanning>과세하다, 평가하다</meanning>
+              <spelling>assess</spelling>
+              <example>We will assess your work and get back to you by the end of the week.</example>
+              <pronunciation>[əs'es]</pronunciation>
+            </word>
+            <word>
+              <level>6</level>
+              <wordclass>v.</wordclass>
+              <meanning>입찰하다</meanning>
+              <spelling>bid</spelling>
+              <example>The seller bid 100,000 dollars for a rare painting.</example>
+              <pronunciation>[byd]</pronunciation>
+            </word>
+            <word>
+              <level>8</level>
+              <wordclass>v.</wordclass>
+              <meanning>자본화하다</meanning>
+              <spelling>capitalize</spelling>
+              <example>The company attempted to capitalize on the growth of pop music.</example>
+              <pronunciation>[k'apətəl`ahyz]</pronunciation>
+            </word>
+            <word>
+              <level>3</level>
+              <wordclass>n.</wordclass>
+              <meanning>단</meanning>
+              <spelling>column</spelling>
+              <example>You should leave this column on the spread sheet empty.</example>
+              <pronunciation>[k'aləm]</pronunciation>
+            </word>
+            <word>
+              <level>3</level>
+              <wordclass>n.</wordclass>
+              <meanning>시골집, 작은 집</meanning>
+              <spelling>cottage</spelling>
+              <example>I have a lovely cottage by the lake.</example>
+              <pronunciation>[k'atyj]</pronunciation>
+            </word>
+            <word>
+              <level>3</level>
+              <wordclass>adj.</wordclass>
+              <meanning>포근한</meanning>
+              <spelling>cozy</spelling>
+              <example>Your room is so warm and cozy!</example>
+              <pronunciation>[k'ohzy]</pronunciation>
+            </word>
+            <word>
+              <level>3</level>
+              <wordclass>n.</wordclass>
+              <meanning>진입로</meanning>
+              <spelling>driveway</spelling>
+              <example>My dog is sleeping on the driveway.</example>
+              <pronunciation>[dr'ahyvw`ey]</pronunciation>
+            </word>
+            <word>
+              <level>7</level>
+              <wordclass>v.</wordclass>
+              <meanning>살다</meanning>
+              <spelling>dwell</spelling>
+              <example>The ogre dwelled in the swamps of the magical forest.</example>
+              <pronunciation>[dwel]</pronunciation>
+            </word>
+            <word>
+              <level>7</level>
+              <wordclass>v.</wordclass>
+              <meanning>어림하다</meanning>
+              <spelling>estimate</spelling>
+              <example>I estimate It will take more than three hours to get there.</example>
+              <pronunciation>['estəm`eyt]</pronunciation>
+            </word>
+            <word>
+              <level>2</level>
+              <wordclass>n.</wordclass>
+              <meanning>차고</meanning>
+              <spelling>garage</spelling>
+              <example>The garage door would not open, and we could not get the car out.</example>
+              <pronunciation>[gər'ahzh]</pronunciation>
+            </word>
+            <word>
+              <level>9</level>
+              <wordclass>n.</wordclass>
+              <meanning>변두리</meanning>
+              <spelling>outskirts</spelling>
+              <example>They are moving to the outskirts of the city.</example>
+              <pronunciation>['outsk`ərts]</pronunciation>
+            </word>
+            <word>
+              <level>16</level>
+              <wordclass>n.</wordclass>
+              <meanning>난간</meanning>
+              <spelling>handrail</spelling>
+              <example>Hold onto the handrails when going up the escalator for safety.</example>
+              <pronunciation>[h'andr`eyl]</pronunciation>
+            </word>
+            <word>
+              <level>5</level>
+              <wordclass>v.</wordclass>
+              <meanning>거주(서식)하다</meanning>
+              <spelling>inhabit</spelling>
+              <example>Many endangered species inhabit this forest.</example>
+              <pronunciation>[ynh'abyt]</pronunciation>
+            </word>
+            <word>
+              <level>10</level>
+              <wordclass>adj.</wordclass>
+              <meanning>완전한</meanning>
+              <spelling>intact</spelling>
+              <example>It was surprising how the house stayed intact even after a few hundred years.</example>
+              <pronunciation>[ynt'akt]</pronunciation>
+            </word>
+            <word>
+              <level>9</level>
+              <wordclass>n.</wordclass>
+              <meanning>수위</meanning>
+              <spelling>janitor</spelling>
+              <example>He got a job as the night janitor at the elementary school.</example>
+              <pronunciation>[j'anətər]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>(하숙집 등의) 주인</meanning>
+              <spelling>landlord</spelling>
+              <example>The landlord raised the rent.</example>
+              <pronunciation>[l'andl`awrd]</pronunciation>
+            </word>
+            <word>
+              <level>13</level>
+              <wordclass>v.</wordclass>
+              <meanning>임대하다</meanning>
+              <spelling>lease</spelling>
+              <example>Because he intended to stay in the city only for a year, he decided to lease an apartment.</example>
+              <pronunciation>[lees]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>v.</wordclass>
+              <meanning>숙박하다</meanning>
+              <spelling>lodge</spelling>
+              <example>Because it was getting dark already, they decided to lodge at a motel for the night.</example>
+              <pronunciation>[laj]</pronunciation>
+            </word>
+            <word>
+              <level>4</level>
+              <wordclass>v.</wordclass>
+              <meanning>차지하다</meanning>
+              <spelling>occupy</spelling>
+              <example>The enemy occupied much of the nation’s territories.</example>
+              <pronunciation>['akyəpahy]</pronunciation>
+            </word>
+            <word>
+              <level>9</level>
+              <wordclass>n.</wordclass>
+              <meanning>방갈로</meanning>
+              <spelling>bungalow</spelling>
+              <example>After playing out in the sun all day, they are all at the bungalow now, drinking beer.</example>
+              <pronunciation>[b'ənggəl`oh]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>v.</wordclass>
+              <meanning>과대 평가하다</meanning>
+              <spelling>overestimate</spelling>
+              <example>The failure of the project clearly indicated that the team's capacity had been overestimated.</example>
+              <pronunciation>[`ohvər'estəmeyt]</pronunciation>
+            </word>
+            <word>
+              <level>9</level>
+              <wordclass>n.</wordclass>
+              <meanning>기둥</meanning>
+              <spelling>pillar</spelling>
+              <example>The entire statue was balanced on that one pillar.</example>
+              <pronunciation>[p'ylər]</pronunciation>
+            </word>
+            <word>
+              <level>6</level>
+              <wordclass>n.</wordclass>
+              <meanning>재산</meanning>
+              <spelling>property</spelling>
+              <example>Public property does not belong to any one single individual.</example>
+              <pronunciation>[pr'apərty]</pronunciation>
+            </word>
+            <word>
+              <level>7</level>
+              <wordclass>adj.</wordclass>
+              <meanning>(거리가) 먼</meanning>
+              <spelling>remote</spelling>
+              <example>His mansion was located in a remote area, outside the city boundaries.</example>
+              <pronunciation>[rym'oht]</pronunciation>
+            </word>
+            <word>
+              <level>2</level>
+              <wordclass>v.</wordclass>
+              <meanning>임대하다</meanning>
+              <spelling>rent</spelling>
+              <example>They decided to rent a room near the office.</example>
+              <pronunciation>[rent]</pronunciation>
+            </word>
+            <word>
+              <level>4</level>
+              <wordclass>n.</wordclass>
+              <meanning>주거</meanning>
+              <spelling>residence</spelling>
+              <example>We were invited to the ambassador’s official residence.</example>
+              <pronunciation>[r'ezədəns]</pronunciation>
+            </word>
+            <word>
+              <level>8</level>
+              <wordclass>n.</wordclass>
+              <meanning>초고층 건물</meanning>
+              <spelling>skyscraper</spelling>
+              <example>This building is the tallest skyscraper in the world.</example>
+              <pronunciation>[sk'ahyskr`eypər]</pronunciation>
+            </word>
+            <word>
+              <level>15</level>
+              <wordclass>n.</wordclass>
+              <meanning>감독, 관리자</meanning>
+              <spelling>superintendent</spelling>
+              <example>It is the responsibility of the school's superintendent to ensure the safety of the students.</example>
+              <pronunciation>[s`oopərynt'endənt]</pronunciation>
+            </word>
+            <word>
+              <level>7</level>
+              <wordclass>v.</wordclass>
+              <meanning>과소평가하다</meanning>
+              <spelling>underestimate</spelling>
+              <example>I am sorry that I underestimated your abilities.</example>
+              <pronunciation>[`əndər'estəm`eyt]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>v.</wordclass>
+              <meanning>비우다</meanning>
+              <spelling>vacate</spelling>
+              <example>The city ordered him to vacate the premises.</example>
+              <pronunciation>[v'eykeyt]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>자산</meanning>
+              <spelling>asset</spelling>
+              <example>He is a great asset to our firm.</example>
+              <pronunciation>['aset]</pronunciation>
+            </word>
+            <word>
+              <level>16</level>
+              <wordclass>n.</wordclass>
+              <meanning>유리 천장으로 된 중앙 홀</meanning>
+              <spelling>atrium</spelling>
+              <example>Moonlight softly lit the atrium by night.</example>
+              <pronunciation>['eytryəm]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>맞춤식 주택</meanning>
+              <spelling>custom-built house</spelling>
+              <example>Custom-built houses are built according to the specific needs and requirements of the individual residents.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>단독 주택</meanning>
+              <spelling>detached house</spelling>
+              <example>The rich man lived in a detached house, as far away from media attention as possible.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>연립 주택</meanning>
+              <spelling>duplex house</spelling>
+              <example>To save money, we moved into a duplex house.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>3</level>
+              <wordclass>n.</wordclass>
+              <meanning>주거</meanning>
+              <spelling>housing</spelling>
+              <example>Without proper housing, we will not be able to stay here for a long time.</example>
+              <pronunciation>[h'ouzyng]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>주택 단지</meanning>
+              <spelling>housing complex</spelling>
+              <example>There is a new housing complex under construction near the city.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>주택 대출</meanning>
+              <spelling>housing loan</spelling>
+              <example>I got a housing loan to buy my own place.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>보증금</meanning>
+              <spelling>key money</spelling>
+              <example>The key money for the rental car was $500.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>5</level>
+              <wordclass>n.</wordclass>
+              <meanning>하숙</meanning>
+              <spelling>lodging</spelling>
+              <example>I used to live in a lodging house, after moving out of the dormitory.</example>
+              <pronunciation>[l'ajyng]</pronunciation>
+            </word>
+            <word>
+              <level>3</level>
+              <wordclass>n.</wordclass>
+              <meanning>동네</meanning>
+              <spelling>neighborhood</spelling>
+              <example>There are many convenient stores around the neighborhood.</example>
+              <pronunciation>[n'eybərh`ood]</pronunciation>
+            </word>
+            <word>
+              <level>9</level>
+              <wordclass>n.</wordclass>
+              <meanning>문밖 테라스(마당)</meanning>
+              <spelling>patio</spelling>
+              <example>The children played outside on the patio while their mothers prepared dinner.</example>
+              <pronunciation>[p'atyoh]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>조립식 주택</meanning>
+              <spelling>prefabricated house</spelling>
+              <example>The number of houses increased dramatically with the introduction of prefabricated houses.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>3</level>
+              <wordclass>v.</wordclass>
+              <meanning>인용하다</meanning>
+              <spelling>quote</spelling>
+              <example>She quoted a passage from the book.</example>
+              <pronunciation>[kw'oht]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>연립 주택</meanning>
+              <spelling>row house</spelling>
+              <example>London is famous for their row houses.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>부동산 권리증서</meanning>
+              <spelling>title deed</spelling>
+              <example>Could you read the line on the title deed that states who is the owner of the property?</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>6</level>
+              <wordclass>n.</wordclass>
+              <meanning>별장</meanning>
+              <spelling>villa</spelling>
+              <example>He returned to Rome on July 27, and stayed in his private villa.</example>
+              <pronunciation>[v'ylə]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>점유자</meanning>
+              <spelling>occupant</spelling>
+              <example>This room is most suitable for a single occupant.</example>
+              <pronunciation>['akyəpənt]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>v.</wordclass>
+              <meanning>(장기간) 거주하다</meanning>
+              <spelling>reside</spelling>
+              <example>We reside in Seattle, Washington right now.</example>
+              <pronunciation>[ryz'ahyd]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>복합건물</meanning>
+              <spelling>complex</spelling>
+              <example>My parents and I live in the same apartment complex.</example>
+              <pronunciation>[kampl'eks]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>공동주택</meanning>
+              <spelling>flat</spelling>
+              <example>I invited some of my friends to my flat for a sleepover.</example>
+              <pronunciation>[flat]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>작은 구획의 땅, 도면</meanning>
+              <spelling>plot</spelling>
+              <example>We decided to plant tomatoes and cabbages on the small plot of land.</example>
+              <pronunciation>[plat]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>주거지</meanning>
+              <spelling>shelter</spelling>
+              <example>Along with food and clothing, shelter is one of the fundamental requirements of life.</example>
+              <pronunciation>[sh'eltər]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>투기</meanning>
+              <spelling>speculation</spelling>
+              <example>I do not recommend you dipping too deep in speculation.</example>
+              <pronunciation>[sp`ekyuhl'eyshən]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>adj.</wordclass>
+              <meanning>비어있는</meanning>
+              <spelling>vacant</spelling>
+              <example>There is a vacant room at my place that you can stay at.</example>
+              <pronunciation>[v'eykənt]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>거주권</meanning>
+              <spelling>tenure</spelling>
+              <example>He owned a collective land tenure of this place.</example>
+              <pronunciation>[t'enyər]</pronunciation>
+            </word>
+          </words>
+        </group>
+        <group>
+          <title>은행</title>
+          <words>
+            <word>
+              <level>8</level>
+              <wordclass>n.</wordclass>
+              <meanning>파산, 파탄</meanning>
+              <spelling>bankruptcy</spelling>
+              <example>The troubled company declared bankruptcy.</example>
+              <pronunciation>[b'angkrəptsy]</pronunciation>
+            </word>
+            <word>
+              <level>2</level>
+              <wordclass>adj.</wordclass>
+              <meanning>무일푼의</meanning>
+              <spelling>broke</spelling>
+              <example>He was broke after losing all his money in the casino.</example>
+              <pronunciation>[brohk]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>보관, 예금, 침전물</meanning>
+              <spelling>deposit</spelling>
+              <example>I have some money on deposit.</example>
+              <pronunciation>[dyp'azyt]</pronunciation>
+            </word>
+            <word>
+              <level>10</level>
+              <wordclass>v.</wordclass>
+              <meanning>배서하다, 확인하다</meanning>
+              <spelling>endorse</spelling>
+              <example>He endorsed the check and gave it to his partner.</example>
+              <pronunciation>[end'awrs]</pronunciation>
+            </word>
+            <word>
+              <level>6</level>
+              <wordclass>adj.</wordclass>
+              <meanning>재정상의, 금융의</meanning>
+              <spelling>financial</spelling>
+              <example>Companies were appraised based on their financial conditions.</example>
+              <pronunciation>[fahyn'anshəl]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>대출</meanning>
+              <spelling>loan</spelling>
+              <example>Many of the loans will turn into nonperforming assets.</example>
+              <pronunciation>[lohn]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>adj.</wordclass>
+              <meanning>화폐의</meanning>
+              <spelling>monetary</spelling>
+              <example>We need to reestablish the monetary system.</example>
+              <pronunciation>[m'anət`ery]</pronunciation>
+            </word>
+            <word>
+              <level>11</level>
+              <wordclass>n.</wordclass>
+              <meanning>대출, 융자</meanning>
+              <spelling>mortgage</spelling>
+              <example>I cannot afford another car because I am having trouble meeting my mortgage payments.</example>
+              <pronunciation>[m'awrgyj]</pronunciation>
+            </word>
+            <word>
+              <level>15</level>
+              <wordclass>v.</wordclass>
+              <meanning>송금하다</meanning>
+              <spelling>remit</spelling>
+              <example>He forgot to remit last month’s rent to the landlord.</example>
+              <pronunciation>[rym'yt]</pronunciation>
+            </word>
+            <word>
+              <level>13</level>
+              <wordclass>n.</wordclass>
+              <meanning>은행의 금전 출납계 직원</meanning>
+              <spelling>teller</spelling>
+              <example>She worked as a teller at the bank for over fifteen years.</example>
+              <pronunciation>[t'elər]</pronunciation>
+            </word>
+            <word>
+              <level>10</level>
+              <wordclass>v.</wordclass>
+              <meanning>거래하다</meanning>
+              <spelling>transact</spelling>
+              <example>Although small in size, the newly established company transacted internationally.</example>
+              <pronunciation>[trans'akt]</pronunciation>
+            </word>
+            <word>
+              <level>11</level>
+              <wordclass>n.</wordclass>
+              <meanning>거래</meanning>
+              <spelling>transaction</spelling>
+              <example>Just log in and complete the transaction.</example>
+              <pronunciation>[trans'akshən]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>금융 회사</meanning>
+              <spelling>loan company</spelling>
+              <example>Loan companies only lend money to those who have met their qualifications.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>13</level>
+              <wordclass>n.</wordclass>
+              <meanning>신탁 관리자</meanning>
+              <spelling>trustee</spelling>
+              <example>Daniel is a member of the university's board of trustees.</example>
+              <pronunciation>[trəst'ee]</pronunciation>
+            </word>
+            <word>
+              <level>7</level>
+              <wordclass>v.</wordclass>
+              <meanning>철회하다</meanning>
+              <spelling>withdraw</spelling>
+              <example>The tennis player had to withdraw from the competition after injuring his shoulder.</example>
+              <pronunciation>[wydhdr'aw]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>부실 대출</meanning>
+              <spelling>bad loan</spelling>
+              <example>This prompts the banks to lend money more indiscriminately, creating bad loans.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>현금 인출기</meanning>
+              <spelling>cash dispenser</spelling>
+              <example>I stopped by the #cash #dispensers on my way to work and withdrew $300 from my account.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>비밀번호</meanning>
+              <spelling>confidential access number</spelling>
+              <example>My computer is locked with a confidential access number.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>신용 기록</meanning>
+              <spelling>credit record</spelling>
+              <example>You cannot receive a loan with a bad credit record.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>신용 조합</meanning>
+              <spelling>credit union</spelling>
+              <example>He visited the credit union for consultation, prior to applying for a loan.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>예금 전표</meanning>
+              <spelling>deposit slip</spelling>
+              <example>I had to fill out a deposit slip to make the $50 deposit.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>10</level>
+              <wordclass>adj.</wordclass>
+              <meanning>초과 인출된</meanning>
+              <spelling>overdrawn</spelling>
+              <example>Although his account was well overdrawn, the man could not give up his lavish lifestyle.</example>
+              <pronunciation>[`ohvərdr'awn]</pronunciation>
+            </word>
+            <word>
+              <level>10</level>
+              <wordclass>adj.</wordclass>
+              <meanning>교환할 수 있는</meanning>
+              <spelling>redeemable</spelling>
+              <example>These coupons are redeemable against any merchandise.</example>
+              <pronunciation>[ryd'eeməbl]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>공과금</meanning>
+              <spelling>utility bill</spelling>
+              <example>Citizens are obligated to pay the utility bill, in return for the public services.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>송금</meanning>
+              <spelling>wire transfer</spelling>
+              <example>My mother sent the money to my account by wire transfer.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>출금 신청서</meanning>
+              <spelling>withdrawal slip</spelling>
+              <example>Please fill out a withdrawal slip to withdraw money from your account.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>adj.</wordclass>
+              <meanning>만기된, 마땅한</meanning>
+              <spelling>due</spelling>
+              <example>This research paper is due next Friday.</example>
+              <pronunciation>[dyoo]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>adj.</wordclass>
+              <meanning>기한이 지난</meanning>
+              <spelling>overdue</spelling>
+              <example>These books are long overdue.</example>
+              <pronunciation>[`ohvərdy'oo]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>계좌</meanning>
+              <spelling>account</spelling>
+              <example>The company directly transferred the cash award to the winner's bank account.</example>
+              <pronunciation>[ək'ount]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>공제액</meanning>
+              <spelling>allowance</spelling>
+              <example>At the end of each year, people who regularly pay tax receive governmental allowance for their total spending.</example>
+              <pronunciation>[əl'ouəns]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>잔고</meanning>
+              <spelling>balance</spelling>
+              <example>Surprisingly, he began his first business with absolutely nothing in his balance.</example>
+              <pronunciation>[b'aləns]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>v.</wordclass>
+              <meanning>(수표를) 부도처리하다</meanning>
+              <spelling>bounce</spelling>
+              <example>After the company went bankrupt, the company cheques were automatically bounced.</example>
+              <pronunciation>[b'ouns]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>adj.</wordclass>
+              <meanning>돈이 체납된</meanning>
+              <spelling>delinquent</spelling>
+              <example>With millions in debt, the delinquent company lost its credentials greatly.</example>
+              <pronunciation>[dyl'yngkwənt]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>수표</meanning>
+              <spelling>draft</spelling>
+              <example>Instead of paying with cash, I wrote a bank draft for 500 dollars.</example>
+              <pronunciation>[draft]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>수수료</meanning>
+              <spelling>fee</spelling>
+              <example>Having missed the due date, I had to pay a late fee for the book.</example>
+              <pronunciation>[fee]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>어음</meanning>
+              <spelling>note</spelling>
+              <example>The bank issued a note to the company only because it had good credentials.</example>
+              <pronunciation>[noht]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>v.</wordclass>
+              <meanning>저축하다</meanning>
+              <spelling>save</spelling>
+              <example>I save half of my salary every month.</example>
+              <pronunciation>[seyv]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>금고</meanning>
+              <spelling>vault</spelling>
+              <example>We assure you that your valuables will be secure in our vault.</example>
+              <pronunciation>[vawlt]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>v.</wordclass>
+              <meanning>만기가 된</meanning>
+              <spelling>mature</spelling>
+              <example>The insurance matured after five years.</example>
+              <pronunciation>[məty'ooər]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>원금</meanning>
+              <spelling>principal</spelling>
+              <example>The principal will be returned when the bond reaches its maturity.</example>
+              <pronunciation>[pr'ynsəpəl]</pronunciation>
+            </word>
+          </words>
+        </group>
+      </groups>
+    </book>
+  </books>
+</category>

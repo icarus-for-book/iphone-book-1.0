@@ -1,0 +1,26 @@
+//
+// Prefix header for all source files of the 'iPicasaWebViewer' target in the 'iPicasaWebViewer' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iPhone SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import <CoreData/CoreData.h>
+
+    // model headers
+    #import "AccountInfo.h"
+    #import "AlbumInfo.h"
+    #import "PhotoInfo.h"
+    #import "Setting.h"
+
+    // google headers
+    #import "GDataPhotos.h"
+
+
+#endif

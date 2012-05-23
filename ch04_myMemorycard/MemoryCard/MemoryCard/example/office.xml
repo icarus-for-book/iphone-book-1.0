@@ -1,0 +1,1508 @@
+<?xml version='1.0' encoding='utf-8'?>
+<category>
+  <title>Office</title>
+  <books>
+    <book>
+      <title>office</title>
+      <groups>
+        <group>
+          <title>네트워크</title>
+          <words>
+            <word>
+              <level>4</level>
+              <wordclass>n.</wordclass>
+              <meanning>정보</meanning>
+              <spelling>information</spelling>
+              <example>He went on another expedition in order to gain information.</example>
+              <pronunciation>[`ynfərm'eyshən]</pronunciation>
+            </word>
+            <word>
+              <level>1</level>
+              <wordclass>adj.</wordclass>
+              <meanning>중간의</meanning>
+              <spelling>medium</spelling>
+              <example>The soup needs to be boiled over medium heat to prevent burning.</example>
+              <pronunciation>[m'eedyəm]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>외부 전화</meanning>
+              <spelling>outgoing call</spelling>
+              <example>All outgoing calls must be made with the appropriate area code.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>v.</wordclass>
+              <meanning>붙이다</meanning>
+              <spelling>attach</spelling>
+              <example>You should attach a photo on your resume.</example>
+              <pronunciation>[ət'ach]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>호출 신호</meanning>
+              <spelling>call signal</spelling>
+              <example>I couldn't hear the call signal when I made a call from a rural area.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>공중 전화 박스</meanning>
+              <spelling>phone booth</spelling>
+              <example>The pay phone in the phone booth began to ring.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>5</level>
+              <wordclass>adj.</wordclass>
+              <meanning>약혼한</meanning>
+              <spelling>engaged</spelling>
+              <example>She got engaged to him a couple of months ago.</example>
+              <pronunciation>[eng'eyjd]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>외부 전화</meanning>
+              <spelling>external call</spelling>
+              <example>I cannot make external calls on this phone, but I can receive them.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>외래 전화</meanning>
+              <spelling>incoming call</spelling>
+              <example>I got an incoming call from my mother at 10 o' clock in the morning.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>내부 전화</meanning>
+              <spelling>internal call</spelling>
+              <example>Internal calls between departments are free of charge.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>10</level>
+              <wordclass>v.</wordclass>
+              <meanning>잘못 듣다</meanning>
+              <spelling>mishear</spelling>
+              <example>The secretary misheard her boss and canceled the afternoon meeting.</example>
+              <pronunciation>[m`ysh'yər]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>공중 전화</meanning>
+              <spelling>pay phone</spelling>
+              <example>The call could not be traced because it came from a pay phone.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>전화번호부</meanning>
+              <spelling>phone book</spelling>
+              <example>I found his home phone number in the phone book.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>장난 전화</meanning>
+              <spelling>prank call</spelling>
+              <example>Prank calls to 911 will be punished by law.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>전화요금</meanning>
+              <spelling>telephone rate</spelling>
+              <example>The average telephone rate was 25 dollars per month.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>잘못 건 전화</meanning>
+              <spelling>wrong number</spelling>
+              <example>She tried calling the restaurant but had the wrong number</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>v.</wordclass>
+              <meanning>일치하다, 해당하다</meanning>
+              <spelling>correspond</spelling>
+              <example>Her argument does not correspond with her previous report.</example>
+              <pronunciation>[k`awrəsp'and]</pronunciation>
+            </word>
+            <word>
+              <level>2</level>
+              <wordclass>adj.</wordclass>
+              <meanning>이용할 수 있는</meanning>
+              <spelling>available</spelling>
+              <example>The conference room is available today.</example>
+              <pronunciation>[əv'eyləbl]</pronunciation>
+            </word>
+            <word>
+              <level>2</level>
+              <wordclass>v.</wordclass>
+              <meanning>취소하다</meanning>
+              <spelling>cancel</spelling>
+              <example>He abruptly canceled the appointment.</example>
+              <pronunciation>[k'ansl]</pronunciation>
+            </word>
+            <word>
+              <level>2</level>
+              <wordclass>v.</wordclass>
+              <meanning>소통하다, 전달하다</meanning>
+              <spelling>communicate</spelling>
+              <example>It is crucial for managers to communicate with the workers.</example>
+              <pronunciation>[kəmy'oonək`eyt]</pronunciation>
+            </word>
+            <word>
+              <level>2</level>
+              <wordclass>n.</wordclass>
+              <meanning>접촉</meanning>
+              <spelling>contact</spelling>
+              <example>He has lost contact with his family after the great earthquake.</example>
+              <pronunciation>[k'əntakt]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>v.</wordclass>
+              <meanning>운반하다</meanning>
+              <spelling>convey</spelling>
+              <example>The excerpt conveys the author's outlook on life.</example>
+              <pronunciation>[kənv'ey]</pronunciation>
+            </word>
+            <word>
+              <level>11</level>
+              <wordclass>v.</wordclass>
+              <meanning>급송하다, 급히 해치우다</meanning>
+              <spelling>dispatch</spelling>
+              <example>Reinforcement troops were dispatched to the area.</example>
+              <pronunciation>[dysp'ach]</pronunciation>
+            </word>
+            <word>
+              <level>13</level>
+              <wordclass>v.</wordclass>
+              <meanning>촉진하다</meanning>
+              <spelling>expedite</spelling>
+              <example>The panels decide separate cases to expedite the processing of appeals.</example>
+              <pronunciation>['ekspəd`ahyt]</pronunciation>
+            </word>
+            <word>
+              <level>2</level>
+              <wordclass>v.</wordclass>
+              <meanning>표현하다</meanning>
+              <spelling>express</spelling>
+              <example>She likes to express her opinions in class.</example>
+              <pronunciation>[ykspr'es]</pronunciation>
+            </word>
+          </words>
+        </group>
+        <group>
+          <title>문서작업</title>
+          <words>
+            <word>
+              <level>6</level>
+              <wordclass>v.</wordclass>
+              <meanning>일렬로 세우다</meanning>
+              <spelling>align</spelling>
+              <example>You should align the students before the headmaster enters the room.</example>
+              <pronunciation>[əl'ahyn]</pronunciation>
+            </word>
+            <word>
+              <level>9</level>
+              <wordclass>adj.</wordclass>
+              <meanning>분류된, 기밀의</meanning>
+              <spelling>classified</spelling>
+              <example>Classified information from the CIA was anonymously released.</example>
+              <pronunciation>[kl'asəf`ahyd]</pronunciation>
+            </word>
+            <word>
+              <level>7</level>
+              <wordclass>v.</wordclass>
+              <meanning>(자료를) 엮다, 수집하다</meanning>
+              <spelling>compile</spelling>
+              <example>The author compiled his articles into a book.</example>
+              <pronunciation>[kəmp'ahyl]</pronunciation>
+            </word>
+            <word>
+              <level>8</level>
+              <wordclass>adj.</wordclass>
+              <meanning>기밀의</meanning>
+              <spelling>confidential</spelling>
+              <example>This file is confidential, so do not open it.</example>
+              <pronunciation>[k`anfəd'enshəl]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>도식</meanning>
+              <spelling>diagram</spelling>
+              <example>The teacher drew a diagram on the blackboard.</example>
+              <pronunciation>[d'ahyəgr`am]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>v.</wordclass>
+              <meanning>받아쓰게하다</meanning>
+              <spelling>dictate</spelling>
+              <example>I want you to dictate the following monologue.</example>
+              <pronunciation>[d'ykteyt]</pronunciation>
+            </word>
+            <word>
+              <level>2</level>
+              <wordclass>n.</wordclass>
+              <meanning>문서</meanning>
+              <spelling>document</spelling>
+              <example>These documents are classified, so don’t make any copies.</example>
+              <pronunciation>[d'akyoomənt]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>초안</meanning>
+              <spelling>draft</spelling>
+              <example>The report is due next week, but I still haven’t finished my first draft.</example>
+              <pronunciation>[draft]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>adj.</wordclass>
+              <meanning>복제의</meanning>
+              <spelling>duplicate</spelling>
+              <example>He made a duplicate copy of his birth certificate.</example>
+              <pronunciation>[dy'oopləkyt]</pronunciation>
+            </word>
+            <word>
+              <level>1</level>
+              <wordclass>n.</wordclass>
+              <meanning>(짧은) 기록</meanning>
+              <spelling>note</spelling>
+              <example>He diligently took notes during the lecture, marking the important points with a red pen.</example>
+              <pronunciation>[noht]</pronunciation>
+            </word>
+            <word>
+              <level>2</level>
+              <wordclass>v.</wordclass>
+              <meanning>인지하다</meanning>
+              <spelling>notice</spelling>
+              <example>Did you notice his new girlfriend?</example>
+              <pronunciation>[n'ohtys]</pronunciation>
+            </word>
+            <word>
+              <level>4</level>
+              <wordclass>n.</wordclass>
+              <meanning>최초의</meanning>
+              <spelling>original</spelling>
+              <example>The plan was revised, but it did not change so much from the original.</example>
+              <pronunciation>[ər'yjənəl]</pronunciation>
+            </word>
+            <word>
+              <level>7</level>
+              <wordclass>n.</wordclass>
+              <meanning>개관</meanning>
+              <spelling>overview</spelling>
+              <example>Prior to the meeting, the members were given an overview of the project.</example>
+              <pronunciation>['ohvərvy`oo]</pronunciation>
+            </word>
+            <word>
+              <level>7</level>
+              <wordclass>n.</wordclass>
+              <meanning>서류 작업</meanning>
+              <spelling>paperwork</spelling>
+              <example>I have a pile of paperwork to do, so I won’t be able to make it to the party tonight.</example>
+              <pronunciation>[p'eypərw`ə:rk]</pronunciation>
+            </word>
+            <word>
+              <level>7</level>
+              <wordclass>v.</wordclass>
+              <meanning>등록하다</meanning>
+              <spelling>register</spelling>
+              <example>Please do not forget to register for the special seminar by tomorrow.</example>
+              <pronunciation>[r'ejystər]</pronunciation>
+            </word>
+            <word>
+              <level>6</level>
+              <wordclass>adj.</wordclass>
+              <meanning>예민한</meanning>
+              <spelling>sensitive</spelling>
+              <example>She is very sensitive about her appearance.</example>
+              <pronunciation>[s'ensətyv]</pronunciation>
+            </word>
+            <word>
+              <level>12</level>
+              <wordclass>v.</wordclass>
+              <meanning>규정하다</meanning>
+              <spelling>stipulate</spelling>
+              <example>It is stipulated that the applicants should have experience.</example>
+              <pronunciation>[st'ypyəl`eyt]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>종이</meanning>
+              <spelling>paper</spelling>
+              <example>She scribbled some numbers on the piece of paper.</example>
+              <pronunciation>[p'eypər]</pronunciation>
+            </word>
+            <word>
+              <level>7</level>
+              <wordclass>n.</wordclass>
+              <meanning>휘갈겨 쓴 글씨</meanning>
+              <spelling>scrawl</spelling>
+              <example>No one could read his scrawl.</example>
+              <pronunciation>[skr'awl]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>v.</wordclass>
+              <meanning>추출하다</meanning>
+              <spelling>extract</spelling>
+              <example>This cream contains 15% of real aloe extract.</example>
+              <pronunciation>[ykstr'akt]</pronunciation>
+            </word>
+          </words>
+        </group>
+        <group>
+          <title>사무실</title>
+          <words>
+            <word>
+              <level>9</level>
+              <wordclass>adj.</wordclass>
+              <meanning>책임 있는</meanning>
+              <spelling>accountable</spelling>
+              <example>We were accountable for the failure of the system.</example>
+              <pronunciation>[ək'ountəbəl]</pronunciation>
+            </word>
+            <word>
+              <level>15</level>
+              <wordclass>adj.</wordclass>
+              <meanning>보조의</meanning>
+              <spelling>auxiliary</spelling>
+              <example>The auxiliary electric motor helps the water flow into the pipe.</example>
+              <pronunciation>[awgz'ylyəry]</pronunciation>
+            </word>
+            <word>
+              <level>9</level>
+              <wordclass>adj.</wordclass>
+              <meanning>협력적인, 공동의</meanning>
+              <spelling>collaborative</spelling>
+              <example>The companies took a collaborative approach.</example>
+              <pronunciation>[kəl'abər`eytyv]</pronunciation>
+            </word>
+            <word>
+              <level>5</level>
+              <wordclass>n.</wordclass>
+              <meanning>결합</meanning>
+              <spelling>combination</spelling>
+              <example>Chicken and coleslaw is a popular combination platter at this restaurant.</example>
+              <pronunciation>[k`ambən'eyshən]</pronunciation>
+            </word>
+            <word>
+              <level>3</level>
+              <wordclass>v.</wordclass>
+              <meanning>명령하다</meanning>
+              <spelling>command</spelling>
+              <example>The colonel commanded the platoon to open fire.</example>
+              <pronunciation>[kəm'and]</pronunciation>
+            </word>
+            <word>
+              <level>2</level>
+              <wordclass>n.</wordclass>
+              <meanning>회사</meanning>
+              <spelling>company</spelling>
+              <example>Managing a company isn't an easy job for an individual.</example>
+              <pronunciation>[k'əmpəny]</pronunciation>
+            </word>
+            <word>
+              <level>7</level>
+              <wordclass>n.</wordclass>
+              <meanning>구획, 칸막이</meanning>
+              <spelling>compartment</spelling>
+              <example>We put our luggage in the overhead compartment on the plane.</example>
+              <pronunciation>[kəmp'ahrtmənt]</pronunciation>
+            </word>
+            <word>
+              <level>3</level>
+              <wordclass>n.</wordclass>
+              <meanning>경쟁</meanning>
+              <spelling>competition</spelling>
+              <example>The competition ended the ten year friendship.</example>
+              <pronunciation>[k`ampət'yshən]</pronunciation>
+            </word>
+            <word>
+              <level>6</level>
+              <wordclass>adj.</wordclass>
+              <meanning>건설적인</meanning>
+              <spelling>constructive</spelling>
+              <example>Thanks to his constructive advice, I was able to make the right decisions.</example>
+              <pronunciation>[kənstr'əktyv]</pronunciation>
+            </word>
+            <word>
+              <level>1</level>
+              <wordclass>n.</wordclass>
+              <meanning>모퉁이</meanning>
+              <spelling>corner</spelling>
+              <example>We placed a lamp at the corner of the room.</example>
+              <pronunciation>[k'awrnər]</pronunciation>
+            </word>
+            <word>
+              <level>15</level>
+              <wordclass>n.</wordclass>
+              <meanning>안내원</meanning>
+              <spelling>courier</spelling>
+              <example>She works as a courier at the national heritage site.</example>
+              <pronunciation>[k'ooryər]</pronunciation>
+            </word>
+            <word>
+              <level>8</level>
+              <wordclass>n.</wordclass>
+              <meanning>작은 방, 공간</meanning>
+              <spelling>cubicle</spelling>
+              <example>I am sick and tired of working in this cubicle.</example>
+              <pronunciation>[ky'oobykl]</pronunciation>
+            </word>
+            <word>
+              <level>9</level>
+              <wordclass>n.</wordclass>
+              <meanning>제안</meanning>
+              <spelling>proposition</spelling>
+              <example>The president’s proposition lacked persuasiveness, and failed to pass Congress.</example>
+              <pronunciation>[pr`apəz'yshən]</pronunciation>
+            </word>
+            <word>
+              <level>3</level>
+              <wordclass>v.</wordclass>
+              <meanning>고용하다</meanning>
+              <spelling>employ</spelling>
+              <example>A secretary was employed to keep the schedule organized.</example>
+              <pronunciation>[empl'oy]</pronunciation>
+            </word>
+            <word>
+              <level>6</level>
+              <wordclass>n.</wordclass>
+              <meanning>평가</meanning>
+              <spelling>evaluation</spelling>
+              <example>I guess the evaluation of his ability was underestimated.</example>
+              <pronunciation>[yv`alyoo'eyshən]</pronunciation>
+            </word>
+            <word>
+              <level>1</level>
+              <wordclass>adj.</wordclass>
+              <meanning>깔끔한</meanning>
+              <spelling>neat</spelling>
+              <example>The masculine man had neat handwriting just like a girl.</example>
+              <pronunciation>[neet]</pronunciation>
+            </word>
+            <word>
+              <level>6</level>
+              <wordclass>v.</wordclass>
+              <meanning>통지하다</meanning>
+              <spelling>notify</spelling>
+              <example>We should notify their parents now.</example>
+              <pronunciation>[n'ohtəf`ahy]</pronunciation>
+            </word>
+            <word>
+              <level>4</level>
+              <wordclass>adj.</wordclass>
+              <meanning>정돈된</meanning>
+              <spelling>orderly</spelling>
+              <example>The children walked in an orderly manner.</example>
+              <pronunciation>['awrdərly]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>v.</wordclass>
+              <meanning>감독하다</meanning>
+              <spelling>oversee</spelling>
+              <example>The children will need someone to oversee their work.</example>
+              <pronunciation>[`ohvərs'ee]</pronunciation>
+            </word>
+            <word>
+              <level>9</level>
+              <wordclass>n.</wordclass>
+              <meanning>분할, 칸막이</meanning>
+              <spelling>partition</spelling>
+              <example>The wardrobe acts as a partition.</example>
+              <pronunciation>[pahrt'yshən]</pronunciation>
+            </word>
+            <word>
+              <level>1</level>
+              <wordclass>n.</wordclass>
+              <meanning>계획안, 프로젝트</meanning>
+              <spelling>project</spelling>
+              <example>The scientist gathered his team for the new space project.</example>
+              <pronunciation>[prəj'ekt]</pronunciation>
+            </word>
+            <word>
+              <level>2</level>
+              <wordclass>n.</wordclass>
+              <meanning>사물함</meanning>
+              <spelling>locker</spelling>
+              <example>She kept her tennis racket in her locker, instead of carrying it to classes.</example>
+              <pronunciation>[l'akər]</pronunciation>
+            </word>
+            <word>
+              <level>9</level>
+              <wordclass>n.</wordclass>
+              <meanning>(모자 등의) 걸이</meanning>
+              <spelling>rack</spelling>
+              <example>I hung fresh towels on the rack.</example>
+              <pronunciation>[rak]</pronunciation>
+            </word>
+            <word>
+              <level>6</level>
+              <wordclass>v.</wordclass>
+              <meanning>알아보도록 하다</meanning>
+              <spelling>refer</spelling>
+              <example>Please refer to the company website for more information.</example>
+              <pronunciation>[ryf'ə:r]</pronunciation>
+            </word>
+            <word>
+              <level>1</level>
+              <wordclass>v.</wordclass>
+              <meanning>(긴장, 힘 등을) 늦추다</meanning>
+              <spelling>relax</spelling>
+              <example>We relaxed on the beach, listening to the soothing sound of the waves.</example>
+              <pronunciation>[ryl'aks]</pronunciation>
+            </word>
+            <word>
+              <level>4</level>
+              <wordclass>n.</wordclass>
+              <meanning>그늘</meanning>
+              <spelling>shade</spelling>
+              <example>We sat in the shade, under the giant willow tree.</example>
+              <pronunciation>[sheyed]</pronunciation>
+            </word>
+            <word>
+              <level>9</level>
+              <wordclass>n.</wordclass>
+              <meanning>조각</meanning>
+              <spelling>shred</spelling>
+              <example>The angry man tore letter into shreds.</example>
+              <pronunciation>[shred]</pronunciation>
+            </word>
+            <word>
+              <level>9</level>
+              <wordclass>n.</wordclass>
+              <meanning>문방구</meanning>
+              <spelling>stationery</spelling>
+              <example>I went to a stationery store to buy paper.</example>
+              <pronunciation>[st'eyshən`ery]</pronunciation>
+            </word>
+            <word>
+              <level>4</level>
+              <wordclass>n.</wordclass>
+              <meanning>전화한 사람</meanning>
+              <spelling>caller</spelling>
+              <example>Do you happen to know who the caller was?</example>
+              <pronunciation>[k'awlər]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>코트 걸이</meanning>
+              <spelling>coat rack</spelling>
+              <example>Most clubs have a coat rack where you can check-in your coats.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>3</level>
+              <wordclass>n.</wordclass>
+              <meanning>모방자</meanning>
+              <spelling>copier</spelling>
+              <example>She was a copier of Beethoven’s work.</example>
+              <pronunciation>[k'apyər]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>팩스 기계</meanning>
+              <spelling>fax machine</spelling>
+              <example>I used the fax machine to send some documents to our office in India.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>파일 수납장</meanning>
+              <spelling>file cabinet</spelling>
+              <example>We have a number of file cabinets full of patient records.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>잉크 카트리지</meanning>
+              <spelling>ink cartridge</spelling>
+              <example>The printer ran out of ink, and I had to replace the ink cartridge.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>사무용품</meanning>
+              <spelling>office supplies</spelling>
+              <example>We need more office supplies at the new office.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>종이 따위의 막힘</meanning>
+              <spelling>paper jam</spelling>
+              <example>The printer was caught in a paper jam.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>3</level>
+              <wordclass>n.</wordclass>
+              <meanning>복사본</meanning>
+              <spelling>photocopy</spelling>
+              <example>I made a photocopy of the handouts for a friend who was absent.</example>
+              <pronunciation>[f'ohtohk`apy]</pronunciation>
+            </word>
+            <word>
+              <level>3</level>
+              <wordclass>n.</wordclass>
+              <meanning>쓰레기통</meanning>
+              <spelling>wastebasket</spelling>
+              <example>I emptied the overflowing wastebasket.</example>
+              <pronunciation>[w'eystb`askyt]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>v.</wordclass>
+              <meanning>상담하다</meanning>
+              <spelling>consult</spelling>
+              <example>If the pain continues, consult your doctor.</example>
+              <pronunciation>[kəns'əlt]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>심부름</meanning>
+              <spelling>errand</spelling>
+              <example>I run errands for my mother on weekends.</example>
+              <pronunciation>['erənd]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>adj.</wordclass>
+              <meanning>부국간의</meanning>
+              <spelling>interoffice</spelling>
+              <example>The old interoffice message system was slow and inefficient.</example>
+              <pronunciation>[`yntər'awfys]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>생각나게 하는 것</meanning>
+              <spelling>reminder</spelling>
+              <example>I use a cellphone as my portable reminder.</example>
+              <pronunciation>[rym'ahyndər]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>v.</wordclass>
+              <meanning>다시 채우다</meanning>
+              <spelling>replenish</spelling>
+              <example>Replenish yourself with food and water before going outside again.</example>
+              <pronunciation>[rypl'enysh]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>adj.</wordclass>
+              <meanning>일정한</meanning>
+              <spelling>uniform</spelling>
+              <example>The products were uniform in size, shape, and color.</example>
+              <pronunciation>[y'oonyfawrm]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>(창문에 치는) 블라인드</meanning>
+              <spelling>blind</spelling>
+              <example>We had to put the blinds down the window because it was hard to see the slide show presentation with all the sunlight.</example>
+              <pronunciation>[bl'ahynd]</pronunciation>
+            </word>
+          </words>
+        </group>
+        <group>
+          <title>컴퓨터</title>
+          <words>
+            <word>
+              <level>2</level>
+              <wordclass>n.</wordclass>
+              <meanning>접근, 출입</meanning>
+              <spelling>access</spelling>
+              <example>The detectives gained access to the suspect’s house.</example>
+              <pronunciation>['akses]</pronunciation>
+            </word>
+            <word>
+              <level>6</level>
+              <wordclass>n.</wordclass>
+              <meanning>신청, 원서</meanning>
+              <spelling>application</spelling>
+              <example>Once you have filled out the application form, you can hand it in.</example>
+              <pronunciation>[`aplyk'eyshən]</pronunciation>
+            </word>
+            <word>
+              <level>6</level>
+              <wordclass>n.</wordclass>
+              <meanning>정렬, 무리</meanning>
+              <spelling>array</spelling>
+              <example>The bar was decorated with an array of various beer bottles.</example>
+              <pronunciation>[ər'ey]</pronunciation>
+            </word>
+            <word>
+              <level>2</level>
+              <wordclass>v.</wordclass>
+              <meanning>접착하다, 첨부하다</meanning>
+              <spelling>attach</spelling>
+              <example>I have attached my cover letter to my resume.</example>
+              <pronunciation>[ət'ach]</pronunciation>
+            </word>
+            <word>
+              <level>3</level>
+              <wordclass>n.</wordclass>
+              <meanning>수용력, 역량</meanning>
+              <spelling>capacity</spelling>
+              <example>The maximum capacity for this hall is about 300 people.</example>
+              <pronunciation>[kəp'asəty]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>adj.</wordclass>
+              <meanning>양립할 수 있는</meanning>
+              <spelling>compatible</spelling>
+              <example>This software is not compatible with my PC.</example>
+              <pronunciation>[kəmp'atəbl]</pronunciation>
+            </word>
+            <word>
+              <level>2</level>
+              <wordclass>v.</wordclass>
+              <meanning>보이다</meanning>
+              <spelling>display</spelling>
+              <example>The shopkeeper displayed the spring line of products.</example>
+              <pronunciation>[dyspl'ey]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>영토, 범위</meanning>
+              <spelling>domain</spelling>
+              <example>Such policy is inapplicable to the public domain.</example>
+              <pronunciation>[dohm'eyn]</pronunciation>
+            </word>
+            <word>
+              <level>1</level>
+              <wordclass>v.</wordclass>
+              <meanning>운전하다</meanning>
+              <spelling>drive</spelling>
+              <example>My uncle drives a SUV.</example>
+              <pronunciation>[drahyv]</pronunciation>
+            </word>
+            <word>
+              <level>5</level>
+              <wordclass>v.</wordclass>
+              <meanning>삽입하다</meanning>
+              <spelling>insert</spelling>
+              <example>I inserted a coin into the vending machine to get a coke.</example>
+              <pronunciation>[yns'ə:rt]</pronunciation>
+            </word>
+            <word>
+              <level>4</level>
+              <wordclass>v.</wordclass>
+              <meanning>설치하다</meanning>
+              <spelling>install</spelling>
+              <example>I called a technician to install the computer for me.</example>
+              <pronunciation>[ynst'awl]</pronunciation>
+            </word>
+            <word>
+              <level>7</level>
+              <wordclass>adj.</wordclass>
+              <meanning>평행의</meanning>
+              <spelling>parallel</spelling>
+              <example>The railway runs parallel to the national highway.</example>
+              <pronunciation>[p'arəl`el]</pronunciation>
+            </word>
+            <word>
+              <level>9</level>
+              <wordclass>n.</wordclass>
+              <meanning>커서</meanning>
+              <spelling>cursor</spelling>
+              <example>Move the cursor upward just a little bit.</example>
+              <pronunciation>[k'ə:rsər]</pronunciation>
+            </word>
+            <word>
+              <level>3</level>
+              <wordclass>n.</wordclass>
+              <meanning>화면</meanning>
+              <spelling>screen</spelling>
+              <example>My eyes were tired from staring at the computer screen all day long.</example>
+              <pronunciation>[skreen]</pronunciation>
+            </word>
+            <word>
+              <level>9</level>
+              <wordclass>v.</wordclass>
+              <meanning>(컴퓨터마우스를) 스크롤하다</meanning>
+              <spelling>scroll</spelling>
+              <example>Use the wheel on the mouse to scroll through long documents.</example>
+              <pronunciation>[skrohl]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>전달, 전파</meanning>
+              <spelling>transmission</spelling>
+              <example>Electric power transmission is about 95 percent efficient.</example>
+              <pronunciation>[transm'yshən]</pronunciation>
+            </word>
+            <word>
+              <level>8</level>
+              <wordclass>v.</wordclass>
+              <meanning>전달하다, 전파시키다</meanning>
+              <spelling>transmit</spelling>
+              <example>The news was transmitted all over the world.</example>
+              <pronunciation>[transm'yt]</pronunciation>
+            </word>
+            <word>
+              <level>4</level>
+              <wordclass>adj.</wordclass>
+              <meanning>녹음의</meanning>
+              <spelling>audio</spelling>
+              <example>I will gladly send you an audio tape.</example>
+              <pronunciation>['awdy`oh]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>컴퓨터 범죄</meanning>
+              <spelling>computer crime</spelling>
+              <example>Computer crimes are becoming a serious issue as the technology develops.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>컴퓨터 백신</meanning>
+              <spelling>computer vaccine</spelling>
+              <example>Most computer viruses can be treated with the corresponding computer vaccine.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>컴퓨터 바이러스</meanning>
+              <spelling>computer virus</spelling>
+              <example>The computer virus caused my computer to crash.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>개인용 컴퓨터</meanning>
+              <spelling>personal computer</spelling>
+              <example>With the rise of the smart phone era, has the personal computer era come to an end?</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>9</level>
+              <wordclass>v.</wordclass>
+              <meanning>해독하다</meanning>
+              <spelling>decode</spelling>
+              <example>It took me awhile to decode this encrypted letter.</example>
+              <pronunciation>[deek'ohd]</pronunciation>
+            </word>
+            <word>
+              <level>1</level>
+              <wordclass>n.</wordclass>
+              <meanning>전자 우편</meanning>
+              <spelling>email</spelling>
+              <example>I no longer write letters but send e-mails to keep in touch with my family.</example>
+              <pronunciation>['eemeyl]</pronunciation>
+            </word>
+            <word>
+              <level>9</level>
+              <wordclass>v.</wordclass>
+              <meanning>암호화하다</meanning>
+              <spelling>encode</spelling>
+              <example>The documents were encoded into special ciphers to protect classified information.</example>
+              <pronunciation>[enk'ohd]</pronunciation>
+            </word>
+            <word>
+              <level>16</level>
+              <wordclass>n.</wordclass>
+              <meanning>근거리 통신망의 프로토콜</meanning>
+              <spelling>ethernet</spelling>
+              <example>Ethernet is a common type of local area network, or LAN.</example>
+              <pronunciation>['eethərn`et]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>자주 묻는 질문</meanning>
+              <spelling>FAQ</spelling>
+              <example>Check the FAQ section before calling the company hotline.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>3</level>
+              <wordclass>n.</wordclass>
+              <meanning>폰트</meanning>
+              <spelling>font</spelling>
+              <example>The report must be written in a certain type of font set by the professor.</example>
+              <pronunciation>[fant]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>그래픽 인터체인지 포맷</meanning>
+              <spelling>GIF</spelling>
+              <example>I've posted a very short animated gif in the folder.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>v.</wordclass>
+              <meanning>초기화하다</meanning>
+              <spelling>initialize</spelling>
+              <example>They didn't even initialize the project until the second quarter.</example>
+              <pronunciation>[yn'yshəl`ahyz]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>adj.</wordclass>
+              <meanning>서로 작용하는</meanning>
+              <spelling>interactive</spelling>
+              <example>An interactive relationship will encourage both workers and managers.</example>
+              <pronunciation>[`yntər'aktyv]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>인터넷 중독</meanning>
+              <spelling>internet addiction</spelling>
+              <example>With the development of the telecommunication technology, many people have fallen victim to Internet addiction.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>근거리 통신망</meanning>
+              <spelling>local area network</spelling>
+              <example>Too many users sharing the same local area network has slowed the Internet connection.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>운영 체제</meanning>
+              <spelling>operating system</spelling>
+              <example>Our company went under restructuring along with an introduction of a new operating system.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>6</level>
+              <wordclass>n.</wordclass>
+              <meanning>스팸 메일</meanning>
+              <spelling>spam</spelling>
+              <example>Spam is filtered out and put into a separate folder in the mailbox.</example>
+              <pronunciation>[spam]</pronunciation>
+            </word>
+            <word>
+              <level>9</level>
+              <wordclass>n.</wordclass>
+              <meanning>스프레드시트</meanning>
+              <spelling>spreadsheet</spelling>
+              <example>Make sure to put all the data onto a single spreadsheet.</example>
+              <pronunciation>[spr'edsheet]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>웹 디자이너</meanning>
+              <spelling>web designer</spelling>
+              <example>We hired a web designer to make a website for our company.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>v.</wordclass>
+              <meanning>분리하다</meanning>
+              <spelling>detach</spelling>
+              <example>He detached two bowls that were stuck together.</example>
+              <pronunciation>[dyt'ach]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>부착물</meanning>
+              <spelling>attachment</spelling>
+              <example>Additional information about the company can be found in the attachments clipped to each printout.</example>
+              <pronunciation>[ət'achmənt]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>v.</wordclass>
+              <meanning>인터넷을 검색하다</meanning>
+              <spelling>browse</spelling>
+              <example>It took only a couple of minutes to browse the Internet and find all the necessary information.</example>
+              <pronunciation>[br'ouz]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>adj.</wordclass>
+              <meanning>오류가 생긴</meanning>
+              <spelling>corrupt</spelling>
+              <example>The information has been corrupted by subjectivity.</example>
+              <pronunciation>[kər'əpt]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>디폴트</meanning>
+              <spelling>default</spelling>
+              <example>This screen saver is part of the default setting of this particular PC.</example>
+              <pronunciation>[dyf'awlt]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>v.</wordclass>
+              <meanning>전달하다</meanning>
+              <spelling>forward</spelling>
+              <example>I forwarded the client's email to my boss.</example>
+              <pronunciation>[f'awrwərd]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>v.</wordclass>
+              <meanning>붙여넣다</meanning>
+              <spelling>paste</spelling>
+              <example>He copied the excerpt from the internet and pasted to his blog.</example>
+              <pronunciation>[peyst]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>프로토콜, 통신규약</meanning>
+              <spelling>protocol</spelling>
+              <example>The Kyoto Protocol was signed by many countries except for the United States.</example>
+              <pronunciation>[pr'ohtək`awl]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>v.</wordclass>
+              <meanning>새로 고치다</meanning>
+              <spelling>refresh</spelling>
+              <example>Refresh the page and try it again.</example>
+              <pronunciation>[ryfr'esh]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>v.</wordclass>
+              <meanning>검색하다</meanning>
+              <spelling>retrieve</spelling>
+              <example>He retrieved some information about the organization from its website.</example>
+              <pronunciation>[rytr'eev]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>v.</wordclass>
+              <meanning>스캔하다</meanning>
+              <spelling>scan</spelling>
+              <example>Can you scan this picture for me?</example>
+              <pronunciation>[skan]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>라우터, 일종의 중계장치</meanning>
+              <spelling>router</spelling>
+              <example>Using a router, we managed to gain access to the Internet.</example>
+              <pronunciation>[r'outər]</pronunciation>
+            </word>
+          </words>
+        </group>
+        <group>
+          <title>회의</title>
+          <words>
+            <word>
+              <level>6</level>
+              <wordclass>n.</wordclass>
+              <meanning>일치, 조화</meanning>
+              <spelling>accordance</spelling>
+              <example>The President should act in accordance with the interests of the people.</example>
+              <pronunciation>[ək'awrdəns]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>v.</wordclass>
+              <meanning>연기하다</meanning>
+              <spelling>adjourn</spelling>
+              <example>The judge adjourned the court for a lunch break.</example>
+              <pronunciation>[əj'ə:rn]</pronunciation>
+            </word>
+            <word>
+              <level>2</level>
+              <wordclass>n.</wordclass>
+              <meanning>회의사항, 의제</meanning>
+              <spelling>agenda</spelling>
+              <example>We have several items on the agenda, so the discussion will take about two hours.</example>
+              <pronunciation>[əj'endə]</pronunciation>
+            </word>
+            <word>
+              <level>1</level>
+              <wordclass>v.</wordclass>
+              <meanning>동의하다</meanning>
+              <spelling>agree</spelling>
+              <example>My parents and I agreed that I will go to a university in California.</example>
+              <pronunciation>[əgr'ee]</pronunciation>
+            </word>
+            <word>
+              <level>3</level>
+              <wordclass>n.</wordclass>
+              <meanning>동의, 계약</meanning>
+              <spelling>agreement</spelling>
+              <example>My group members and I made an agreement to meet at the library around noon.</example>
+              <pronunciation>[əgr'yːmənt]</pronunciation>
+            </word>
+            <word>
+              <level>8</level>
+              <wordclass>n.</wordclass>
+              <meanning>양자택일, 대안</meanning>
+              <spelling>alternative</spelling>
+              <example>We always keep an alternative strategy just in case of an emergency.</example>
+              <pronunciation>[awlt'ə:rnətyv]</pronunciation>
+            </word>
+            <word>
+              <level>3</level>
+              <wordclass>v.</wordclass>
+              <meanning>발표하다</meanning>
+              <spelling>announce</spelling>
+              <example>She announced the winners of the spelling bee.</example>
+              <pronunciation>[ən'ouns]</pronunciation>
+            </word>
+            <word>
+              <level>3</level>
+              <wordclass>n.</wordclass>
+              <meanning>발표</meanning>
+              <spelling>announcement</spelling>
+              <example>The announcement was written in English.</example>
+              <pronunciation>[ən'ounsmənt]</pronunciation>
+            </word>
+            <word>
+              <level>6</level>
+              <wordclass>v.</wordclass>
+              <meanning>임명하다, 지정하다</meanning>
+              <spelling>appoint</spelling>
+              <example>The president appointed him as his secretary.</example>
+              <pronunciation>[əp'oynt]</pronunciation>
+            </word>
+            <word>
+              <level>4</level>
+              <wordclass>n.</wordclass>
+              <meanning>시인, 찬성, 허가</meanning>
+              <spelling>approval</spelling>
+              <example>He received approval from his teacher to turn in his essay a week late.</example>
+              <pronunciation>[əpr'oovəl]</pronunciation>
+            </word>
+            <word>
+              <level>3</level>
+              <wordclass>v.</wordclass>
+              <meanning>찬성하다, 인가하다</meanning>
+              <spelling>approve</spelling>
+              <example>The mother did not approve of their marriage.</example>
+              <pronunciation>[əpr'oov]</pronunciation>
+            </word>
+            <word>
+              <level>2</level>
+              <wordclass>v.</wordclass>
+              <meanning>논하다, 논쟁하다</meanning>
+              <spelling>argue</spelling>
+              <example>I always argue with my brother.</example>
+              <pronunciation>['ahrgyoo]</pronunciation>
+            </word>
+            <word>
+              <level>7</level>
+              <wordclass>n.</wordclass>
+              <meanning>토론</meanning>
+              <spelling>debate</spelling>
+              <example>Tommy and Bill will both participate in the debate.</example>
+              <pronunciation>[dyb'eyt]</pronunciation>
+            </word>
+            <word>
+              <level>11</level>
+              <wordclass>n.</wordclass>
+              <meanning>승인, 동의</meanning>
+              <spelling>assent</spelling>
+              <example>We received the court’s assent to continue the investigation.</example>
+              <pronunciation>[əs'ent]</pronunciation>
+            </word>
+            <word>
+              <level>6</level>
+              <wordclass>v.</wordclass>
+              <meanning>단언하다</meanning>
+              <spelling>assert</spelling>
+              <example>She asserted that she was the best player on the team.</example>
+              <pronunciation>[əs'ə:rt]</pronunciation>
+            </word>
+            <word>
+              <level>2</level>
+              <wordclass>v.</wordclass>
+              <meanning>출석하다, 돌보다</meanning>
+              <spelling>attend</spelling>
+              <example>The idol star attended high school for two years before making his debut on stage.</example>
+              <pronunciation>[ət'end]</pronunciation>
+            </word>
+            <word>
+              <level>8</level>
+              <wordclass>n.</wordclass>
+              <meanning>상황 설명(회)</meanning>
+              <spelling>briefing</spelling>
+              <example>He prepared a briefing for the president.</example>
+              <pronunciation>[br'eefyng]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>타협, 화해</meanning>
+              <spelling>compromise</spelling>
+              <example>I don’t like to make compromises.</example>
+              <pronunciation>[k'amprəm`ahyz]</pronunciation>
+            </word>
+            <word>
+              <level>4</level>
+              <wordclass>n.</wordclass>
+              <meanning>회의</meanning>
+              <spelling>conference</spelling>
+              <example>You need to attend a press conference this afternoon.</example>
+              <pronunciation>[k'anfərəns]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>일치, 합의</meanning>
+              <spelling>consensus</spelling>
+              <example>They reached a consensus after hours of negotiation.</example>
+              <pronunciation>[kəns'ensəs]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>v.</wordclass>
+              <meanning>소집하다</meanning>
+              <spelling>convene</spelling>
+              <example>An ad hoc committee has been convened.</example>
+              <pronunciation>[kənv'een]</pronunciation>
+            </word>
+            <word>
+              <level>3</level>
+              <wordclass>n.</wordclass>
+              <meanning>피드백</meanning>
+              <spelling>feedback</spelling>
+              <example>After each presentation, the class was encouraged to give feedback to the presenters.</example>
+              <pronunciation>[f'eedb`ak]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>v.</wordclass>
+              <meanning>논쟁하다</meanning>
+              <spelling>dispute</spelling>
+              <example>The members disputed for long hours regarding the necessity of the policy revision.</example>
+              <pronunciation>[dyspy'oot]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>adj.</wordclass>
+              <meanning>온건한</meanning>
+              <spelling>moderate</spelling>
+              <example>His latest film was a moderate success.</example>
+              <pronunciation>[m'adərət]</pronunciation>
+            </word>
+            <word>
+              <level>2</level>
+              <wordclass>n.</wordclass>
+              <meanning>움직임</meanning>
+              <spelling>motion</spelling>
+              <example>In slow motion, scientists were able to observe the exact direction of the blast.</example>
+              <pronunciation>[m'ohshən]</pronunciation>
+            </word>
+            <word>
+              <level>7</level>
+              <wordclass>adj.</wordclass>
+              <meanning>교섭할 수 있는</meanning>
+              <spelling>negotiable</spelling>
+              <example>The man was negotiable when it came to selling cars.</example>
+              <pronunciation>[nyg'ohshyəbl]</pronunciation>
+            </word>
+            <word>
+              <level>6</level>
+              <wordclass>v.</wordclass>
+              <meanning>협상하다</meanning>
+              <spelling>negotiate</spelling>
+              <example>The two parties negotiated a deal that would be mutually beneficial.</example>
+              <pronunciation>[nyg'ohshy`eyt]</pronunciation>
+            </word>
+            <word>
+              <level>4</level>
+              <wordclass>v.</wordclass>
+              <meanning>설득하다</meanning>
+              <spelling>persuade</spelling>
+              <example>She tried to persuade him to come with her, but he didn't even listen.</example>
+              <pronunciation>[pə:rsw'eyd]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>v.</wordclass>
+              <meanning>논박하다</meanning>
+              <spelling>refute</spelling>
+              <example>The politician's claims were refuted by a group of professionals.</example>
+              <pronunciation>[ryfy'oot]</pronunciation>
+            </word>
+            <word>
+              <level>7</level>
+              <wordclass>n.</wordclass>
+              <meanning>장소</meanning>
+              <spelling>venue</spelling>
+              <example>The ancient castle is a popular venue for weddings.</example>
+              <pronunciation>[v'enyoo]</pronunciation>
+            </word>
+            <word>
+              <level>7</level>
+              <wordclass>n.</wordclass>
+              <meanning>관점</meanning>
+              <spelling>viewpoint</spelling>
+              <example>The idea is the same, but the viewpoint is different.</example>
+              <pronunciation>[vy'oop`oynt]</pronunciation>
+            </word>
+            <word>
+              <level>7</level>
+              <wordclass>n.</wordclass>
+              <meanning>참석자</meanning>
+              <spelling>attendee</spelling>
+              <example>He was a regular attendee at the meeting.</example>
+              <pronunciation>[`ətend'ee]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>회의실</meanning>
+              <spelling>conference room</spelling>
+              <example>The board meeting will be held in this conference room.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>v.</wordclass>
+              <meanning>재확인하다</meanning>
+              <spelling>double-check</spelling>
+              <example>I double-checked my report for spelling and grammar mistakes.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>겸손한 의견</meanning>
+              <spelling>humble opinion</spelling>
+              <example>In my humble opinion, we should listen to the victim's side of the story.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>7</level>
+              <wordclass>adv.</wordclass>
+              <meanning>서로</meanning>
+              <spelling>mutually</spelling>
+              <example>They've mutually agreed on the agreement in order to maintain healthy competition.</example>
+              <pronunciation>[my'oochooəly]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>비밀 누설</meanning>
+              <spelling>tip-off</spelling>
+              <example>The police obtained a tip-off about the planned robbery.</example>
+              <pronunciation></pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>인쇄물</meanning>
+              <spelling>handout</spelling>
+              <example>The professor gave each of his students a handout with detailed information about the midterm.</example>
+              <pronunciation>[h'and`out]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>v.</wordclass>
+              <meanning>관장하다</meanning>
+              <spelling>preside</spelling>
+              <example>The politician refused to preside over the meeting because many of the members were absent.</example>
+              <pronunciation>[pryz'ahyd]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>adj.</wordclass>
+              <meanning>잠정적인</meanning>
+              <spelling>tentative</spelling>
+              <example>Although she did not say it straight out, her tentative answer was "yes".</example>
+              <pronunciation>[t'entətyv]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>만장일치</meanning>
+              <spelling>unanimity</spelling>
+              <example>Decisions with potentially high external costs should require unanimity.</example>
+              <pronunciation>[y`oonən'yməty]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>adj.</wordclass>
+              <meanning>만장일치의</meanning>
+              <spelling>unanimous</spelling>
+              <example>With a unanimous vote, Charlie became the class president.</example>
+              <pronunciation>[yoon'anyməs]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>v.</wordclass>
+              <meanning>부합하다</meanning>
+              <spelling>accord</spelling>
+              <example>The result of the research accorded closely with our hypothesis.</example>
+              <pronunciation>[ək'awrd]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>v.</wordclass>
+              <meanning>언쟁을 벌이다</meanning>
+              <spelling>clash</spelling>
+              <example>The two opposing parties clashed on every issue.</example>
+              <pronunciation>[klash]</pronunciation>
+            </word>
+            <word>
+              <level>0</level>
+              <wordclass>n.</wordclass>
+              <meanning>관점</meanning>
+              <spelling>view</spelling>
+              <example>Difference in the political views resulted in long hours of dispute.</example>
+              <pronunciation>[vyoo]</pronunciation>
+            </word>
+          </words>
+        </group>
+      </groups>
+    </book>
+  </books>
+</category>
