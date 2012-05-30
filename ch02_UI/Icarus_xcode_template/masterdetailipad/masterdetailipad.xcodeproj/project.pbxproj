@@ -1,0 +1,299 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		496777FF148D3129006066F1 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 496777FE148D3129006066F1 /* UIKit.framework */; };
+		49677801148D3129006066F1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 49677800148D3129006066F1 /* Foundation.framework */; };
+		49677803148D3129006066F1 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 49677802148D3129006066F1 /* CoreGraphics.framework */; };
+		49677809148D3129006066F1 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 49677807148D3129006066F1 /* InfoPlist.strings */; };
+		4967780B148D3129006066F1 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 4967780A148D3129006066F1 /* main.m */; };
+		4967780F148D3129006066F1 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4967780E148D3129006066F1 /* AppDelegate.m */; };
+		49677812148D3129006066F1 /* MasterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 49677811148D3129006066F1 /* MasterViewController.m */; };
+		49677815148D3129006066F1 /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 49677814148D3129006066F1 /* DetailViewController.m */; };
+		49677818148D3129006066F1 /* MasterViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 49677816148D3129006066F1 /* MasterViewController.xib */; };
+		4967781B148D3129006066F1 /* DetailViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 49677819148D3129006066F1 /* DetailViewController.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		496777FA148D3129006066F1 /* masterdetailipad.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = masterdetailipad.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		496777FE148D3129006066F1 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		49677800148D3129006066F1 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		49677802148D3129006066F1 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		49677806148D3129006066F1 /* masterdetailipad-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "masterdetailipad-Info.plist"; sourceTree = "<group>"; };
+		49677808148D3129006066F1 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		4967780A148D3129006066F1 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		4967780C148D3129006066F1 /* masterdetailipad-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "masterdetailipad-Prefix.pch"; sourceTree = "<group>"; };
+		4967780D148D3129006066F1 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		4967780E148D3129006066F1 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		49677810148D3129006066F1 /* MasterViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MasterViewController.h; sourceTree = "<group>"; };
+		49677811148D3129006066F1 /* MasterViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MasterViewController.m; sourceTree = "<group>"; };
+		49677813148D3129006066F1 /* DetailViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
+		49677814148D3129006066F1 /* DetailViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
+		49677817148D3129006066F1 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MasterViewController.xib; sourceTree = "<group>"; };
+		4967781A148D3129006066F1 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/DetailViewController.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		496777F7148D3129006066F1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				496777FF148D3129006066F1 /* UIKit.framework in Frameworks */,
+				49677801148D3129006066F1 /* Foundation.framework in Frameworks */,
+				49677803148D3129006066F1 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		496777EF148D3129006066F1 = {
+			isa = PBXGroup;
+			children = (
+				49677804148D3129006066F1 /* masterdetailipad */,
+				496777FD148D3129006066F1 /* Frameworks */,
+				496777FB148D3129006066F1 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		496777FB148D3129006066F1 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				496777FA148D3129006066F1 /* masterdetailipad.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		496777FD148D3129006066F1 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				496777FE148D3129006066F1 /* UIKit.framework */,
+				49677800148D3129006066F1 /* Foundation.framework */,
+				49677802148D3129006066F1 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		49677804148D3129006066F1 /* masterdetailipad */ = {
+			isa = PBXGroup;
+			children = (
+				4967780D148D3129006066F1 /* AppDelegate.h */,
+				4967780E148D3129006066F1 /* AppDelegate.m */,
+				49677810148D3129006066F1 /* MasterViewController.h */,
+				49677811148D3129006066F1 /* MasterViewController.m */,
+				49677813148D3129006066F1 /* DetailViewController.h */,
+				49677814148D3129006066F1 /* DetailViewController.m */,
+				49677816148D3129006066F1 /* MasterViewController.xib */,
+				49677819148D3129006066F1 /* DetailViewController.xib */,
+				49677805148D3129006066F1 /* Supporting Files */,
+			);
+			path = masterdetailipad;
+			sourceTree = "<group>";
+		};
+		49677805148D3129006066F1 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				49677806148D3129006066F1 /* masterdetailipad-Info.plist */,
+				49677807148D3129006066F1 /* InfoPlist.strings */,
+				4967780A148D3129006066F1 /* main.m */,
+				4967780C148D3129006066F1 /* masterdetailipad-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		496777F9148D3129006066F1 /* masterdetailipad */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4967781E148D3129006066F1 /* Build configuration list for PBXNativeTarget "masterdetailipad" */;
+			buildPhases = (
+				496777F6148D3129006066F1 /* Sources */,
+				496777F7148D3129006066F1 /* Frameworks */,
+				496777F8148D3129006066F1 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = masterdetailipad;
+			productName = masterdetailipad;
+			productReference = 496777FA148D3129006066F1 /* masterdetailipad.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		496777F1148D3129006066F1 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+			};
+			buildConfigurationList = 496777F4148D3129006066F1 /* Build configuration list for PBXProject "masterdetailipad" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 496777EF148D3129006066F1;
+			productRefGroup = 496777FB148D3129006066F1 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				496777F9148D3129006066F1 /* masterdetailipad */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		496777F8148D3129006066F1 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				49677809148D3129006066F1 /* InfoPlist.strings in Resources */,
+				49677818148D3129006066F1 /* MasterViewController.xib in Resources */,
+				4967781B148D3129006066F1 /* DetailViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		496777F6148D3129006066F1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4967780B148D3129006066F1 /* main.m in Sources */,
+				4967780F148D3129006066F1 /* AppDelegate.m in Sources */,
+				49677812148D3129006066F1 /* MasterViewController.m in Sources */,
+				49677815148D3129006066F1 /* DetailViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		49677807148D3129006066F1 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				49677808148D3129006066F1 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		49677816148D3129006066F1 /* MasterViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				49677817148D3129006066F1 /* en */,
+			);
+			name = MasterViewController.xib;
+			sourceTree = "<group>";
+		};
+		49677819148D3129006066F1 /* DetailViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4967781A148D3129006066F1 /* en */,
+			);
+			name = DetailViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		4967781C148D3129006066F1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+			};
+			name = Debug;
+		};
+		4967781D148D3129006066F1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		4967781F148D3129006066F1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "masterdetailipad/masterdetailipad-Prefix.pch";
+				INFOPLIST_FILE = "masterdetailipad/masterdetailipad-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		49677820148D3129006066F1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "masterdetailipad/masterdetailipad-Prefix.pch";
+				INFOPLIST_FILE = "masterdetailipad/masterdetailipad-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		496777F4148D3129006066F1 /* Build configuration list for PBXProject "masterdetailipad" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4967781C148D3129006066F1 /* Debug */,
+				4967781D148D3129006066F1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4967781E148D3129006066F1 /* Build configuration list for PBXNativeTarget "masterdetailipad" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4967781F148D3129006066F1 /* Debug */,
+				49677820148D3129006066F1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 496777F1148D3129006066F1 /* Project object */;
+}
