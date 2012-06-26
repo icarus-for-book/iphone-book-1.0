@@ -53,28 +53,44 @@ static BOOL IsEnableDevice(Class cls)
     NSMutableArray *viewControllers = [[NSMutableArray alloc] initWithCapacity:10];
 
     // add memory view controller
+    // 교제내의 소스와 다르게 다음과 수정합니다. ( 2012-06-27 )
+    // NSClassFromString으로 클래스를 조회하여 객체화하는 방식을 취했는데.
+    // 만약 해당 클래스가 없으면 nil이 리턴되고 array에 추가되면 죽을
+    // 수 있기 때문에 다음과 같이 리턴값을 확인해서 추가하도록 수점.
     id class = NSClassFromString(@"MemoryInfoViewController");
-    [viewControllers addObject:class];
+    if (class) {
+        [viewControllers addObject:class];
+    }
 
     // add storage view controller
     class = NSClassFromString(@"StorageInfoViewController");
-    [viewControllers addObject:class];
+    if (class) {
+        [viewControllers addObject:class];
+    }
 
     // add batter view controller
     class = NSClassFromString(@"BatteryInfoViewController");
-    [viewControllers addObject:class];
+    if (class) {
+        [viewControllers addObject:class];
+    }
     
     // add general view controller
     class = NSClassFromString(@"GeneralInfoViewController");
-    [viewControllers addObject:class];
+    if (class) {
+        [viewControllers addObject:class];
+    }
     
     // add process view controller
     class = NSClassFromString(@"ProcessInfoViewController");
-    [viewControllers addObject:class];
+    if (class) {
+        [viewControllers addObject:class];
+    }
     
     // add network view controller
     class = NSClassFromString(@"NetworkInfoViewController");
-    [viewControllers addObject:class];
+    if (class) {
+        [viewControllers addObject:class];
+    }
     
     self.deviceInfoViewControllers = viewControllers;
     [viewControllers release];
@@ -86,37 +102,37 @@ static BOOL IsEnableDevice(Class cls)
     
     // flash control view controller
     class = NSClassFromString(@"TorchViewController");
-    if (IsEnableDevice(class)) {
+    if (class && IsEnableDevice(class)) {
         [viewControllers addObject:class];
     }
     
     // gyroscope
     class = NSClassFromString(@"GyroscopeViewController");
-    if (IsEnableDevice(class)) {
+    if (class && IsEnableDevice(class)) {
         [viewControllers addObject:class];
     }
     
     // accelerometer
     class = NSClassFromString(@"AccelerometerViewController");
-    if (IsEnableDevice(class)) {
+    if (class && IsEnableDevice(class)) {
         [viewControllers addObject:class];
     }
 
     // compass
     class = NSClassFromString(@"CompassViewController");
-    if (IsEnableDevice(class)) {
+    if (class && IsEnableDevice(class)) {
         [viewControllers addObject:class];
     }
 
     // camera control view controller
     class = NSClassFromString(@"CameraViewController");
-    if (IsEnableDevice(class)) {
+    if (class && IsEnableDevice(class)) {
         [viewControllers addObject:class];
     }
     
     // gps view controller
     class = NSClassFromString(@"GpsViewController");
-    if (IsEnableDevice(class)) {
+    if (class && IsEnableDevice(class)) {
         [viewControllers addObject:class];
     }
 
