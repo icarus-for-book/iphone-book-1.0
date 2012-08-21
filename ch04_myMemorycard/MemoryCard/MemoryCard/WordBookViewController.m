@@ -253,10 +253,24 @@
 {
     LoadWordBookViewController *viewController = [[LoadWordBookViewController alloc] initWithStyle:UITableViewStyleGrouped];
     
+    
+    // 변경 통지를 위한 delegate 추가
+    viewController.delegate = self;
+    
     [self.navigationController pushViewController:viewController animated:YES];
     
     [viewController release];
 }
+
+- (void)loadWordBookViewControllerDidChanged:(LoadWordBookViewController*)vc
+{
+    // 테이블을 다시 로드시기키위해서
+    // self.sectionInfoArray 를 nil로 설정한다.
+    
+    self.sectionInfoArray = nil;
+}
+
+
 
 
 @end

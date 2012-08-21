@@ -24,6 +24,7 @@
 @implementation LoadWordBookViewController
 
 @synthesize filesInLocal = _filesInLocal;
+@synthesize delegate = _delegate;
 
 - (id)initWithStyle:(UITableViewStyle)style
 {
@@ -139,7 +140,17 @@
     dispatch_async(dispatch_get_global_queue(DISPATCH_QUEUE_PRIORITY_DEFAULT, 0), ^{
         WordLoader *wordLoader = [[WordLoader alloc] init];
         [wordLoader loadContentsForURL:url];
-        [loadingView removeView];
+        
+        dispatch_async(dispatch_get_main_queue(), ^{
+            // loading 화면 제거
+            [loadingView removeView];
+            
+            // 변경 내용을 통지 ( WordBookViewController에 알리는 것 )
+            if(self.delegate) {
+                [self.delegate loadWordBookViewControllerDidChanged:self];
+            }
+            
+        });
     });
     
 }

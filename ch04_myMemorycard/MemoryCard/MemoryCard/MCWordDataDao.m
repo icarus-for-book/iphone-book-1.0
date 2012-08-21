@@ -315,6 +315,51 @@
     if(database) sqlite3_close(database);
 }
 
+// 카테고리 아이디 조회
+- (int) categoryIDWith:(NSString*) category ofDB:(sqlite3 *)pDb
+{
+    int categoryid = -1;
+    
+    // SQL문을 분석해서 내부 명령으로 변환
+    NSString *query = [NSString stringWithFormat:@"select CATEGORYID from CATEGORY where title like '%@';", category];
+    sqlite3_stmt *selectstmt;
+    if(sqlite3_prepare_v2(pDb, [query UTF8String], -1, &selectstmt, NULL) == SQLITE_OK) {
+        //3. SQL문 실행.
+        // slite3_step을 복수번 실행하면 SELECT문의 경우 각 레코드를 이동한다.
+        if(sqlite3_step(selectstmt) == SQLITE_ROW) {
+            //4. 조회된 값을 리턴하려는 객체에 복사한다.
+            categoryid = sqlite3_column_int(selectstmt, 0);
+        }
+    }
+    // 5. SQL명령을 제거한다.
+    sqlite3_finalize(selectstmt);
+    
+    return categoryid;
+}
+
+// BOOK 아이디 조회
+- (NSInteger) bookIDWith:(NSString*) book inCategory:(int) categoryid ofDB:(sqlite3 *)pDb
+{
+    int bookid = -1;
+    
+    // SQL문을 분석해서 내부 명령으로 변환
+    NSString *query = [NSString stringWithFormat:@"select BOOKID from BOOK where title like '%@' and CATEGORYID = %d;", book, categoryid];
+    sqlite3_stmt *selectstmt;
+    if(sqlite3_prepare_v2(pDb, [query UTF8String], -1, &selectstmt, NULL) == SQLITE_OK) {
+        //3. SQL문 실행.
+        // slite3_step을 복수번 실행하면 SELECT문의 경우 각 레코드를 이동한다.
+        if(sqlite3_step(selectstmt) == SQLITE_ROW) {
+            //4. 조회된 값을 리턴하려는 객체에 복사한다.
+            bookid = sqlite3_column_int(selectstmt, 0);
+        }
+    }
+    // 5. SQL명령을 제거한다.
+    sqlite3_finalize(selectstmt);
+    
+    return bookid;
+    
+}
+
 - (BOOL) addWords:(NSArray*)words group:(NSString*)group book:(NSString*)book category:(NSString*)category
 {
     sqlite3 *database = NULL;
@@ -332,23 +377,44 @@
                 sqlite3_free(zErr);
                 break;
             }
-            
+
             // add category
-            query = [NSString stringWithFormat:@"insert into CATEGORY(title) values ('%@');", category];
-            if (sqlite3_exec(database, [query UTF8String], NULL, NULL, &zErr) != SQLITE_OK) {
-                NSLog(@"addWords error : %s", zErr);
-                sqlite3_free(zErr);
+            // 새로운 단어장을 입력할때의 category, book의 이름으로 추가하는데 이럴 경우
+            // 같은 이름의 category, book을 가지고 있을 경우 오류가 발생을 하여 추가전에
+            // 기존의 category를 조회하도록 수정함
+            // 2012-08-21
+            int categoryid = [self categoryIDWith:category ofDB:database];
+            
+            if (categoryid == -1) {
+                // 기존 category가 없을때 추가
+                query = [NSString stringWithFormat:@"insert into CATEGORY(title) values ('%@');", category];
+                if (sqlite3_exec(database, [query UTF8String], NULL, NULL, &zErr) != SQLITE_OK) {
+                    NSLog(@"addWords error : %s", zErr);
+                    sqlite3_free(zErr);
+                }
+            
+                categoryid = [self categoryIDWith:category ofDB:database];
             }
             
             // add book
-            query = [NSString stringWithFormat:@"insert into BOOK(title,CATEGORYID) values ('%@', (select CATEGORYID from CATEGORY where title = '%@'));", book, category];
-            if (sqlite3_exec(database, [query UTF8String], NULL, NULL, &zErr) != SQLITE_OK) {
-                NSLog(@"addWords error : %s", zErr);
-                sqlite3_free(zErr);
+            // 새로운 단어장을 입력할때의 category, book의 이름으로 추가하는데 이럴 경우
+            // 같은 이름의 category, book을 가지고 있을 경우 오류가 발생을 하여 추가전에
+            // 기존의 category를 조회하도록 수정함
+            // 2012-08-21
+            int bookid = [self bookIDWith:book inCategory:categoryid ofDB:database];
+            
+            if(bookid == -1) {
+                // 기존 book이 없을때 추가
+                query = [NSString stringWithFormat:@"insert into BOOK(title,CATEGORYID) values ('%@', %d);", book, categoryid];
+                if (sqlite3_exec(database, [query UTF8String], NULL, NULL, &zErr) != SQLITE_OK) {
+                    NSLog(@"addWords error : %s", zErr);
+                    sqlite3_free(zErr);
+                }
+                bookid = [self bookIDWith:book inCategory:categoryid ofDB:database];
             }
             
             // add group
-            query = [NSString stringWithFormat:@"insert into 'GROUP'(title,BOOKID) values ('%@', (select BOOKID from BOOK where title = '%@'));", group,book];
+            query = [NSString stringWithFormat:@"insert into 'GROUP'(title,BOOKID) values ('%@', %d);", group,bookid];
             if (sqlite3_exec(database, [query UTF8String], NULL, NULL, &zErr) != SQLITE_OK) {
                 NSLog(@"addWords error : %s", zErr);
                 sqlite3_free(zErr);
